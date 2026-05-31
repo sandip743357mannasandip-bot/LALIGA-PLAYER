@@ -93,13 +93,29 @@ def clean_player_name(filepath):
 def load_season_data():
     """
     Loads SEASON_DATA.csv → { season: { club: [player_names] } }
-    Normalises player names to lowercase for fuzzy matching
+    Searches multiple locations to find the file.
     """
-    path = os.path.join(PLAYER_DATA_DIR, "SEASON_DATA.csv")
-    if not os.path.exists(path):
-        # also try root
-        path = os.path.join(BASE_DIR, "SEASON_DATA.csv")
-    if not os.path.exists(path):
+    # Search in multiple possible locations
+    search_paths = [
+        os.path.join(PLAYER_DATA_DIR, "SEASON_DATA.csv"),
+        os.path.join(BASE_DIR, "SEASON_DATA.csv"),
+    ]
+    # Also search all subfolders of BASE_DIR
+    try:
+        for item in os.listdir(BASE_DIR):
+            full = os.path.join(BASE_DIR, item)
+            if os.path.isdir(full):
+                search_paths.append(os.path.join(full, "SEASON_DATA.csv"))
+    except Exception:
+        pass
+
+    path = None
+    for p in search_paths:
+        if os.path.exists(p):
+            path = p
+            break
+
+    if path is None:
         return {}
     df = pd.read_csv(path)
     df.columns = [c.strip().upper() for c in df.columns]
