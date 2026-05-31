@@ -1,0 +1,74 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2020-09-20,2020-21,La Liga,Valladolid,Real Betis,Away,0,2,L,Luis Pérez,N,RB,77,0,0,0,0,0,0,0,2,1,4,1
+2020-09-27,2020-21,La Liga,Valladolid,Celta Vigo,Home,1,1,D,Luis Pérez,Y,RB,90,0,0,0,0,0,0,1,1,2,2,1
+2020-10-03,2020-21,La Liga,Valladolid,Eibar,Home,1,2,L,Luis Pérez,Y,RB,90,0,0,0,0,0,0,0,1,1,3,0
+2020-10-18,2020-21,La Liga,Valladolid,Huesca,Away,2,2,D,Luis Pérez,Y,RB,90,0,0,0,0,0,0,4,0,2,0,1
+2020-10-25,2020-21,La Liga,Valladolid,Alavés,Home,0,2,L,Luis Pérez,N,RB,11,0,0,1,0,0,0,0,0,1,0,0
+2020-11-02,2020-21,La Liga,Valladolid,Villarreal,Away,0,2,L,Luis Pérez,Y,RB,45,0,0,0,0,0,0,1,0,1,3,1
+2020-11-08,2020-21,La Liga,Valladolid,Athletic Club,Home,2,1,W,Luis Pérez,N,RB,33,0,0,0,0,0,0,2,0,0,0,0
+2021-01-02,2020-21,La Liga,Valladolid,Getafe,Away,1,0,W,Luis Pérez,Y,RB,90,0,0,0,0,1,0,2,0,1,1,2
+2021-01-10,2020-21,La Liga,Valladolid,Valencia,Home,0,1,L,Luis Pérez,Y,RB,80,0,0,0,0,0,0,0,2,5,1,3
+2021-01-19,2020-21,La Liga,Valladolid,Elche,Home,2,2,D,Luis Pérez,Y,RB,71,0,0,0,0,0,0,1,1,2,3,0
+2021-01-22,2020-21,La Liga,Valladolid,Levante,Away,2,2,D,Luis Pérez,Y,RB,90,0,0,0,0,0,0,0,2,5,3,1
+2021-01-29,2020-21,La Liga,Valladolid,Huesca,Home,1,3,L,Luis Pérez,Y,RB,61,0,0,0,0,0,0,1,2,1,1,0
+2021-02-05,2020-21,La Liga,Valladolid,Alavés,Away,0,1,L,Luis Pérez,Y,RB,90,0,0,0,0,0,0,1,1,2,0,2
+2021-02-13,2020-21,La Liga,Valladolid,Eibar,Home,1,1,D,Luis Pérez,Y,RB,90,0,0,0,0,0,0,2,0,4,0,2
+2021-02-20,2020-21,La Liga,Valladolid,Real Madrid,Home,0,1,L,Luis Pérez,Y,RB,90,0,0,0,0,0,0,0,2,1,0,1
+2021-02-28,2020-21,La Liga,Valladolid,Celta Vigo,Away,1,1,D,Luis Pérez,N,RB,12,0,0,0,0,0,0,0,0,0,0,0
+2021-03-06,2020-21,La Liga,Valladolid,Getafe,Home,2,1,W,Luis Pérez,N,RB,2,0,0,0,0,0,0,0,0,0,0,0
+2021-03-13,2020-21,La Liga,Valladolid,Osasuna,Home,0,0,D,Luis Pérez,N,RB,1,0,0,0,0,0,0,0,0,0,0,0
+2021-04-21,2020-21,La Liga,Valladolid,Elche,Away,1,1,D,Luis Pérez,N,RB,15,0,0,0,0,0,0,0,0,2,0,0
+2021-04-24,2020-21,La Liga,Valladolid,Cádiz,Home,1,1,D,Luis Pérez,Y,RB,90,0,0,1,0,0,0,0,1,2,1,2
+2021-05-02,2020-21,La Liga,Valladolid,Real Betis,Home,1,1,D,Luis Pérez,Y,RB,53,0,0,0,0,0,0,0,2,5,2,0
+2021-05-16,2020-21,La Liga,Valladolid,Real Sociedad,Away,1,4,L,Luis Pérez,Y,RB,26,0,0,0,0,0,0,0,0,2,0,0
+2022-08-13,2022-2023,La Liga,Valladolid,Villarreal,Home,0,3,L,Luis Pérez,Y,RB,90,0,0,0,0,0,0,2,0,3,2,3
+2022-08-19,2022-2023,La Liga,Valladolid,Sevilla,Away,1,1,D,Luis Pérez,Y,RB,90,0,0,0,0,1,0,2,0,0,3,0
+2022-08-28,2022-2023,La Liga,Valladolid,Barcelona,Away,0,4,L,Luis Pérez,Y,RB,90,0,0,0,0,0,0,0,0,1,0,1
+2022-09-05,2022-2023,La Liga,Valladolid,Almería,Home,1,0,W,Luis Pérez,Y,RB,90,0,0,0,0,0,0,0,0,4,1,0
+2022-09-09,2022-2023,La Liga,Valladolid,Girona,Away,1,2,L,Luis Pérez,Y,RB,27,0,0,0,0,0,0,2,0,2,2,1
+2022-12-30,2022-2023,La Liga,Valladolid,Real Madrid,Home,0,2,L,Luis Pérez,N,N/A,32,0,0,0,0,0,0,0,1,1,0,0
+2023-01-21,2022-2023,La Liga,Valladolid,Atlético Madrid,Away,0,3,L,Luis Pérez,Y,RB,59,0,0,0,0,0,0,1,2,3,1,0
+2023-01-29,2022-2023,La Liga,Valladolid,Valencia,Home,1,0,W,Luis Pérez,N,N/A,45,0,0,1,0,0,0,0,2,2,0,0
+2023-02-05,2022-2023,La Liga,Valladolid,Real Sociedad,Away,1,0,W,Luis Pérez,Y,RB,90,0,1,0,0,0,0,1,0,3,4,1
+2023-02-12,2022-2023,La Liga,Valladolid,Osasuna,Home,0,0,D,Luis Pérez,Y,RB,90,0,0,0,0,0,0,1,1,5,1,3
+2023-02-18,2022-2023,La Liga,Valladolid,Real Betis,Away,1,2,L,Luis Pérez,Y,RB,90,0,0,0,0,1,0,1,2,9,3,3
+2023-02-26,2022-2023,La Liga,Valladolid,Celta Vigo,Away,0,3,L,Luis Pérez,Y,RB,90,0,0,3,0,0,0,1,0,2,2,3
+2023-04-02,2022-2023,La Liga,Valladolid,Real Madrid,Away,0,6,L,Luis Pérez,Y,RM,45,0,0,0,0,0,0,0,0,4,1,0
+2023-04-15,2022-2023,La Liga,Valladolid,Villarreal,Away,2,1,W,Luis Pérez,Y,DM,90,0,0,0,0,0,0,1,0,4,2,0
+2023-04-22,2022-2023,La Liga,Valladolid,Girona,Home,1,0,W,Luis Pérez,N,N/A,20,0,0,0,0,0,0,0,0,0,1,0
+2023-04-30,2022-2023,La Liga,Valladolid,Atlético Madrid,Home,2,5,L,Luis Pérez,Y,DM,90,0,0,0,0,0,0,0,1,8,0,1
+2023-05-04,2022-2023,La Liga,Valladolid,Rayo Vallecano,Away,1,2,L,Luis Pérez,Y,DM,24,0,0,0,0,0,0,2,2,0,1,0
+2023-06-04,2022-2023,La Liga,Valladolid,Getafe,Home,0,0,D,Luis Pérez,Y,RB,61,0,0,0,0,0,0,1,3,3,0,0
+2024-08-19,2024-2025,La Liga,Valladolid,Espanyol,Home,1,0,W,Luis Pérez,Y,RB,90,0,0,0,0,0,0,1,0,5,0,2
+2024-08-25,2024-2025,La Liga,Valladolid,Real Madrid,Away,0,3,L,Luis Pérez,Y,RB,90,0,0,0,0,0,0,1,0,2,1,1
+2024-08-28,2024-2025,La Liga,Valladolid,Leganés,Home,0,0,D,Luis Pérez,Y,RB,90,0,0,0,0,0,0,0,0,7,0,1
+2024-08-31,2024-2025,La Liga,Valladolid,Barcelona,Away,0,7,L,Luis Pérez,Y,RB,90,0,0,0,0,0,0,0,2,3,1,0
+2024-09-15,2024-2025,La Liga,Valladolid,Celta Vigo,Away,1,3,L,Luis Pérez,Y,RB,90,0,0,0,0,0,0,0,0,2,3,1
+2024-09-21,2024-2025,La Liga,Valladolid,Real Sociedad,Home,0,0,D,Luis Pérez,Y,RB,90,0,0,1,1,1,0,2,1,7,1,2
+2024-09-24,2024-2025,La Liga,Valladolid,Sevilla,Away,1,2,L,Luis Pérez,Y,RB,90,0,0,0,0,0,0,2,1,4,2,1
+2024-09-27,2024-2025,La Liga,Valladolid,Mallorca,Home,1,2,L,Luis Pérez,Y,RB,50,0,0,0,0,0,0,0,0,4,1,0
+2024-10-05,2024-2025,La Liga,Valladolid,Rayo Vallecano,Home,1,2,L,Luis Pérez,Y,RB,90,0,0,0,0,0,0,1,0,8,1,1
+2024-10-18,2024-2025,La Liga,Valladolid,Alavés,Away,3,2,W,Luis Pérez,Y,RB,90,0,0,0,0,0,0,1,0,1,1,2
+2024-10-26,2024-2025,La Liga,Valladolid,Villarreal,Home,1,2,L,Luis Pérez,Y,RB,90,0,0,0,0,0,0,2,0,4,0,0
+2024-10-29,2024-2025,Copa del Rey,Valladolid,Astur CF,Away,4,1,W,Luis Pérez,N,N/A,25,0,0,0,0,0,0,0,0,0,0,0
+2024-11-02,2024-2025,La Liga,Valladolid,Osasuna,Away,0,1,L,Luis Pérez,Y,RB,90,0,0,0,0,1,0,1,0,0,1,2
+2024-11-10,2024-2025,La Liga,Valladolid,Athletic Club,Home,1,1,D,Luis Pérez,Y,RB,90,0,0,0,0,0,0,0,0,7,2,1
+2024-11-22,2024-2025,La Liga,Valladolid,Getafe,Away,0,2,L,Luis Pérez,Y,RB,90,0,0,1,0,0,0,0,0,3,0,2
+2024-11-30,2024-2025,La Liga,Valladolid,Atlético Madrid,Home,0,5,L,Luis Pérez,Y,RB,90,0,0,1,0,0,0,0,0,2,2,0
+2024-12-03,2024-2025,Copa del Rey,Valladolid,Real Ávila CF,Away,4,2,W,Luis Pérez,N,N/A,54,0,0,1,0,0,0,0,0,1,0,2
+2024-12-07,2024-2025,La Liga,Valladolid,Las Palmas,Away,1,2,L,Luis Pérez,Y,RB,90,0,0,1,0,0,0,1,0,5,2,3
+2024-12-13,2024-2025,La Liga,Valladolid,Valencia,Home,1,0,W,Luis Pérez,Y,RB,90,0,0,0,0,0,0,1,1,2,0,0
+2025-01-05,2024-2025,Copa del Rey,Valladolid,Ourense CF,Away,2,3,L,Luis Pérez,Y,RB,60,0,0,0,0,0,0,0,0,5,2,0
+2025-01-11,2024-2025,La Liga,Valladolid,Real Betis,Home,1,0,W,Luis Pérez,Y,RB,90,0,0,0,0,0,0,0,0,2,0,0
+2025-01-17,2024-2025,La Liga,Valladolid,Espanyol,Away,1,2,L,Luis Pérez,Y,RB,90,0,0,0,0,0,0,0,0,4,3,1
+2025-01-25,2024-2025,La Liga,Valladolid,Real Madrid,Home,0,3,L,Luis Pérez,Y,RB,90,0,0,0,0,0,0,0,0,1,1,1
+2025-02-01,2024-2025,La Liga,Valladolid,Villarreal,Away,1,5,L,Luis Pérez,Y,RB,90,0,0,0,0,0,0,0,0,4,1,0
+2025-02-07,2024-2025,La Liga,Valladolid,Rayo Vallecano,Away,0,1,L,Luis Pérez,Y,RW,90,0,0,0,0,0,0,0,0,2,0,0
+2025-02-16,2024-2025,La Liga,Valladolid,Sevilla,Home,0,4,L,Luis Pérez,Y,RB,90,0,0,0,0,0,0,0,0,2,0,1
+2025-02-23,2024-2025,La Liga,Valladolid,Athletic Club,Away,1,7,L,Luis Pérez,Y,RB,90,0,0,0,0,0,0,0,0,0,1,1
+2025-02-28,2024-2025,La Liga,Valladolid,Las Palmas,Home,1,1,D,Luis Pérez,N,N/A,33,0,0,0,0,0,0,0,0,6,2,0
+2025-03-08,2024-2025,La Liga,Valladolid,Valencia,Away,1,2,L,Luis Pérez,Y,RB,90,0,0,0,0,0,0,0,0,3,0,1
+2025-03-29,2024-2025,La Liga,Valladolid,Real Sociedad,Away,1,2,L,Luis Pérez,Y,RB,90,0,0,0,0,0,0,0,0,6,1,0
+2025-04-24,2024-2025,La Liga,Valladolid,Real Betis,Away,1,5,L,Luis Pérez,Y,RB,90,0,0,1,1,0,0,0,0,3,0,2
+2025-05-10,2024-2025,La Liga,Valladolid,Mallorca,Away,1,2,L,Luis Pérez,Y,RB,90,0,0,1,0,0,0,1,0,4,0,1
+2025-05-24,2024-2025,La Liga,Valladolid,Leganés,Away,0,3,L,Luis Pérez,N,N/A,45,0,0,0,0,0,0,0,0,2,3,1
