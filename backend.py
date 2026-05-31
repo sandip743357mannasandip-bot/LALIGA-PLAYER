@@ -146,9 +146,36 @@ def load_all_players():
             df = df.dropna(subset=["Date"]).copy()
             for col in ["Goals","Assists","Shots","SoT","Minutes",
                         "TacklesWon","Interceptions","Crosses","Fouls",
-                        "TeamGoals","OppGoals"]:
+                        "TeamGoals","OppGoals","GF","GA"]:
                 if col in df.columns:
                     df[col] = pd.to_numeric(df[col], errors="coerce").fillna(0)
+            # Alias common alternative column names
+            if "Goals" not in df.columns and "GF" in df.columns:
+                df["Goals"] = df["GF"]
+            if "TeamGoals" not in df.columns and "GF" in df.columns:
+                df["TeamGoals"] = df["GF"]
+            if "OppGoals" not in df.columns and "GA" in df.columns:
+                df["OppGoals"] = df["GA"]
+            if "SoT" not in df.columns and "Shots on Target" in df.columns:
+                df["SoT"] = df["Shots on Target"]
+            if "TacklesWon" not in df.columns:
+                df["TacklesWon"] = 0
+            if "Interceptions" not in df.columns:
+                df["Interceptions"] = 0
+            if "Minutes" not in df.columns:
+                df["Minutes"] = 90
+            if "Goals" not in df.columns:
+                df["Goals"] = 0
+            if "Assists" not in df.columns:
+                df["Assists"] = 0
+            if "Shots" not in df.columns:
+                df["Shots"] = 0
+            if "SoT" not in df.columns:
+                df["SoT"] = 0
+            if "TeamGoals" not in df.columns:
+                df["TeamGoals"] = 0
+            if "OppGoals" not in df.columns:
+                df["OppGoals"] = 0
             players[name] = df
         except Exception as e:
             print(f"Skipping {path}: {e}")
@@ -205,6 +232,13 @@ def get_squad_for_season(season_data, players_dict, club, season):
 # ─────────────────────────────────────────
 # 6. AGGREGATE XI FEATURES
 # ─────────────────────────────────────────
+def safe_col(df, col):
+    """Safely get column sum, return 0 if column missing."""
+    return df[col].sum() if col in df.columns else 0
+
+def safe_mean(df, col):
+    return df[col].mean() if col in df.columns else 0
+
 def aggregate_xi_features(players_dict, xi_players, match_date):
     rows = []
     for player in xi_players:
@@ -215,15 +249,16 @@ def aggregate_xi_features(players_dict, xi_players, match_date):
         if len(past) == 0:
             continue
         last5 = past.tail(5)
-        per90 = max(last5["Minutes"].sum() / 90, 0.1)
+        mins  = safe_col(last5, "Minutes")
+        per90 = max(mins / 90, 0.1)
         rows.append({
-            "goals_per90":     last5["Goals"].sum() / per90,
-            "assists_per90":   last5["Assists"].sum() / per90,
-            "shots_per90":     last5["Shots"].sum() / per90,
-            "sot_per90":       last5["SoT"].sum() / per90,
-            "tackles_per90":   last5["TacklesWon"].sum() / per90,
-            "intercept_per90": last5["Interceptions"].sum() / per90,
-            "avg_minutes":     last5["Minutes"].mean(),
+            "goals_per90":     safe_col(last5, "Goals")        / per90,
+            "assists_per90":   safe_col(last5, "Assists")      / per90,
+            "shots_per90":     safe_col(last5, "Shots")        / per90,
+            "sot_per90":       safe_col(last5, "SoT")          / per90,
+            "tackles_per90":   safe_col(last5, "TacklesWon")   / per90,
+            "intercept_per90": safe_col(last5, "Interceptions")/ per90,
+            "avg_minutes":     safe_mean(last5, "Minutes"),
         })
     if not rows:
         return pd.Series({k:0 for k in ["goals_per90","assists_per90",
