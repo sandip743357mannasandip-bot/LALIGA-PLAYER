@@ -36,6 +36,40 @@ SEASON_DATES    = {
     "2008-2009": ("2008-07-01","2009-06-30"),
 }
 
+# ── All La Liga teams by season (hardcoded fallback) ──
+LALIGA_TEAMS = {
+    "2024-2025": [
+        "Barcelona","Real Madrid","Atletico Madrid","Athletic Club","Villarreal",
+        "Real Betis","Celta Vigo","Rayo Vallecano","Osasuna","Mallorca",
+        "Real Sociedad","Valencia","Getafe","Espanyol","Deportivo Alaves",
+        "Girona","Sevilla","Leganes","Las Palmas","Valladolid"
+    ],
+    "2023-2024": [
+        "Real Madrid","Barcelona","Girona","Atletico Madrid","Athletic Club",
+        "Real Sociedad","Real Betis","Villarreal","Valencia","Deportivo Alaves",
+        "Osasuna","Las Palmas","Getafe","Celta Vigo","Sevilla",
+        "Cadiz","Mallorca","Granada","Almeria","Rayo Vallecano"
+    ],
+    "2022-2023": [
+        "Barcelona","Real Madrid","Atletico Madrid","Real Sociedad","Villarreal",
+        "Real Betis","Osasuna","Athletic Club","Rayo Vallecano","Mallorca",
+        "Girona","Cadiz","Almeria","Getafe","Espanyol",
+        "Celta Vigo","Sevilla","Valencia","Valladolid","Elche"
+    ],
+    "2021-2022": [
+        "Real Madrid","Barcelona","Atletico Madrid","Sevilla","Real Betis",
+        "Real Sociedad","Villarreal","Athletic Club","Valencia","Osasuna",
+        "Celta Vigo","Rayo Vallecano","Elche","Getafe","Espanyol",
+        "Deportivo Alaves","Levante","Mallorca","Granada","Cadiz"
+    ],
+    "2020-2021": [
+        "Atletico Madrid","Real Madrid","Barcelona","Sevilla","Real Sociedad",
+        "Real Betis","Villarreal","Celta Vigo","Athletic Club","Cadiz",
+        "Levante","Valencia","Osasuna","Granada","Deportivo Alaves",
+        "Elche","Getafe","Huesca","Valladolid","Eibar"
+    ],
+}
+
 FORMATIONS = {
     "4-3-3":   ["GK","RB","CB","CB","LB","CM","CM","CM","RW","ST","LW"],
     "4-4-2":   ["GK","RB","CB","CB","LB","RM","CM","CM","LM","ST","ST"],
@@ -176,14 +210,28 @@ def load_season_data():
         season = str(row["SEASON"]).strip()
         club   = str(row["TEAM"]).strip()
         player = str(row["PLAYER"]).strip()
+        # Skip placeholder entries (added just to show team in dropdown)
+        if player.startswith("_placeholder_"):
+            result.setdefault(season, {}).setdefault(club, [])
+            continue
         result.setdefault(season, {}).setdefault(club, []).append(player)
     return result
 
 def get_all_seasons(season_data):
-    return sorted(season_data.keys(), reverse=True)
+    # Merge seasons from SEASON_DATA + hardcoded La Liga seasons
+    csv_seasons    = set(season_data.keys())
+    laliga_seasons = set(LALIGA_TEAMS.keys())
+    all_seasons    = csv_seasons | laliga_seasons
+    return sorted(all_seasons, reverse=True)
 
 def get_clubs_for_season(season_data, season):
-    return sorted(season_data.get(season, {}).keys())
+    # Get teams from SEASON_DATA.csv
+    csv_teams = set(season_data.get(season, {}).keys())
+    # Get hardcoded La Liga teams for this season
+    laliga_teams = set(LALIGA_TEAMS.get(season, []))
+    # Merge both — show all
+    all_teams = csv_teams | laliga_teams
+    return sorted(all_teams)
 
 def get_squad_for_season(season_data, players_dict, club, season):
     season_players = season_data.get(season, {}).get(club, [])
