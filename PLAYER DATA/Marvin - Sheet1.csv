@@ -1,0 +1,59 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2020-09-20,2020-21,La Liga,Real Madrid,Real Sociedad,Away,0,0,Draw,Marvin,No,N/A,21,0,0,0,0,0,0,0,0,2,0,0
+2021-02-06,2020-21,La Liga,Real Madrid,Huesca,Away,2,1,Win,Marvin,No,N/A,13,0,0,0,0,0,0,1,0,0,0,0
+2021-02-09,2020-21,La Liga,Real Madrid,Getafe,Home,2,0,Win,Marvin,Yes,RM,54,0,0,0,0,0,0,0,0,2,2,2
+2021-05-13,2020-21,La Liga,Real Madrid,Granada,Away,4,1,Win,Marvin,Yes,RB,45,0,1,1,0,0,0,0,0,0,0,0
+2023-09-17,2023-24,La Liga,Las Palmas,Sevilla,Away,0,1,Loss,Marvin,No,N/A,18,0,0,0,0,0,0,0,0,0,0,0
+2023-09-24,2023-24,La Liga,Las Palmas,Granada,Home,1,0,Win,Marvin,No,N/A,45,0,0,0,0,0,0,1,1,0,1,0
+2023-09-27,2023-24,La Liga,Las Palmas,Real Madrid,Away,0,2,Loss,Marvin,No,N/A,34,0,0,0,0,0,0,1,0,0,1,0
+2023-10-02,2023-24,La Liga,Las Palmas,Celta Vigo,Home,2,1,Win,Marvin,No,N/A,28,0,0,0,0,0,0,2,1,0,6,1
+2023-10-08,2023-24,La Liga,Las Palmas,Villarreal,Away,2,1,Win,Marvin,No,N/A,33,0,0,0,0,1,0,0,1,1,0,0
+2023-10-22,2023-24,La Liga,Las Palmas,Rayo Vallecano,Home,0,1,Loss,Marvin,No,N/A,29,0,0,0,0,0,0,0,0,0,1,1
+2023-10-28,2023-24,La Liga,Las Palmas,Almería,Away,2,1,Win,Marvin,Yes,RM,81,0,1,0,0,0,0,1,2,0,3,2
+2023-11-03,2023-24,La Liga,Las Palmas,Atlético Madrid,Home,2,1,Win,Marvin,Yes,RM,70,0,0,0,0,0,0,2,0,0,5,0
+2023-11-11,2023-24,La Liga,Las Palmas,Osasuna,Away,1,1,Draw,Marvin,Yes,RW,72,0,0,0,0,0,0,3,0,0,0,0
+2023-11-26,2023-24,La Liga,Las Palmas,Real Betis,Away,0,1,Loss,Marvin,Yes,RW,65,0,0,3,1,0,0,1,0,0,3,0
+2023-12-01,2023-24,La Liga,Las Palmas,Getafe,Home,2,0,Win,Marvin,No,N/A,28,0,1,1,0,0,0,1,0,0,0,1
+2023-12-09,2023-24,La Liga,Las Palmas,Alavés,Away,1,0,Win,Marvin,No,N/A,29,0,0,0,0,1,0,1,1,0,2,2
+2023-12-17,2023-24,La Liga,Las Palmas,Cádiz,Home,1,1,Draw,Marvin,No,N/A,45,0,0,0,0,0,0,0,0,0,3,0
+2023-12-20,2023-24,La Liga,Las Palmas,Athletic Club,Away,0,1,Loss,Marvin,Yes,RM,77,0,0,1,0,0,0,4,1,0,3,0
+2024-01-13,2023-24,La Liga,Las Palmas,Villarreal,Home,3,0,Win,Marvin,No,N/A,30,0,0,0,0,0,0,1,1,0,1,1
+2024-01-20,2023-24,La Liga,Las Palmas,Rayo Vallecano,Away,2,0,Win,Marvin,No,N/A,24,0,0,0,0,0,0,0,3,1,2,0
+2024-01-27,2023-24,La Liga,Las Palmas,Real Madrid,Home,1,2,Loss,Marvin,Yes,RB,68,0,0,0,0,0,0,0,1,0,4,1
+2024-02-03,2023-24,La Liga,Las Palmas,Granada,Away,1,1,Draw,Marvin,Yes,RB,89,0,0,0,0,1,0,3,0,0,8,2
+2024-02-10,2023-24,La Liga,Las Palmas,Valencia,Home,2,0,Win,Marvin,Yes,RM,89,0,0,1,0,0,0,1,1,0,3,1
+2024-02-17,2023-24,La Liga,Las Palmas,Atlético Madrid,Away,0,5,Loss,Marvin,Yes,RM,90,0,0,2,0,0,0,2,2,0,2,2
+2024-02-25,2023-24,La Liga,Las Palmas,Osasuna,Home,1,1,Draw,Marvin,Yes,RM,76,0,0,0,0,0,0,2,0,0,2,2
+2024-03-02,2023-24,La Liga,Las Palmas,Getafe,Away,3,3,Draw,Marvin,No,N/A,32,0,0,0,0,0,0,0,1,0,3,2
+2024-03-10,2023-24,La Liga,Las Palmas,Athletic Club,Home,0,2,Loss,Marvin,No,N/A,35,0,0,1,0,0,0,1,1,0,3,0
+2024-03-17,2023-24,La Liga,Las Palmas,Almería,Home,0,1,Loss,Marvin,No,N/A,45,0,0,1,1,1,0,2,4,0,7,0
+2024-03-30,2023-24,La Liga,Las Palmas,Barcelona,Away,0,1,Loss,Marvin,Yes,RM,90,0,0,0,0,0,0,0,1,1,3,2
+2024-04-14,2023-24,La Liga,Las Palmas,Sevilla,Home,0,2,Loss,Marvin,Yes,RM,90,0,0,0,0,1,0,1,1,0,6,1
+2024-04-27,2023-24,La Liga,Las Palmas,Girona,Home,0,2,Loss,Marvin,Yes,RM,90,0,0,0,0,0,0,1,0,0,6,1
+2024-05-04,2023-24,La Liga,Las Palmas,Real Sociedad,Away,0,2,Loss,Marvin,Yes,RM,90,0,0,1,0,0,0,3,0,1,1,1
+2024-05-11,2023-24,La Liga,Las Palmas,Mallorca,Away,0,1,Loss,Marvin,Yes,RM,90,0,0,0,0,0,0,1,3,0,3,1
+2024-05-16,2023-24,La Liga,Las Palmas,Real Betis,Home,2,2,Draw,Marvin,Yes,AM,90,0,0,1,1,0,0,2,0,0,5,1
+2024-05-19,2023-24,La Liga,Las Palmas,Cádiz,Away,0,0,Draw,Marvin,Yes,FW,83,0,0,0,0,0,0,2,0,0,2,0
+2024-08-16,2024-25,La Liga,Las Palmas,Sevilla,Home,2,2,Draw,Marvin,Yes,RB,75,0,0,0,0,0,0,2,1,0,2,0
+2024-08-25,2024-25,La Liga,Las Palmas,Leganés,Away,1,2,Loss,Marvin,Yes,AM,77,0,0,0,0,0,0,2,2,0,4,0
+2024-08-29,2024-25,La Liga,Las Palmas,Real Madrid,Home,1,1,Draw,Marvin,Yes,RB,90,0,0,0,0,0,0,0,1,0,2,3
+2024-09-01,2024-25,La Liga,Las Palmas,Alavés,Away,0,2,Loss,Marvin,No,N/A,33,0,0,0,0,0,0,1,1,0,1,1
+2024-09-15,2024-25,La Liga,Las Palmas,Athletic Club,Home,2,3,Loss,Marvin,Yes,RB,90,0,0,0,0,0,0,1,2,0,10,1
+2024-09-21,2024-25,La Liga,Las Palmas,Osasuna,Away,1,2,Loss,Marvin,Yes,RB,44,0,0,0,0,1,0,2,1,0,2,0
+2024-11-30,2024-25,La Liga,Las Palmas,Barcelona,Away,2,1,Win,Marvin,No,N/A,18,0,0,0,0,0,0,0,0,0,0,0
+2024-12-07,2024-25,La Liga,Las Palmas,Valladolid,Home,2,1,Win,Marvin,No,N/A,33,0,0,0,0,1,0,0,0,0,0,0
+2024-12-15,2024-25,La Liga,Las Palmas,Real Sociedad,Away,0,0,Draw,Marvin,No,N/A,31,0,0,0,0,0,0,1,1,0,0,0
+2024-12-22,2024-25,La Liga,Las Palmas,Espanyol,Home,1,0,Win,Marvin,Yes,FW,45,0,0,1,0,1,0,1,2,0,1,0
+2025-02-08,2024-25,La Liga,Las Palmas,Villarreal,Home,1,2,Loss,Marvin,No,N/A,13,0,0,1,0,0,0,0,0,0,5,0
+2025-03-09,2024-25,La Liga,Las Palmas,Real Betis,Away,0,1,Loss,Marvin,No,N/A,18,0,0,0,0,0,0,1,0,0,0,2
+2025-03-14,2024-25,La Liga,Las Palmas,Alavés,Home,2,2,Draw,Marvin,No,N/A,31,0,0,0,0,0,0,0,2,0,3,0
+2025-03-31,2024-25,La Liga,Las Palmas,Celta Vigo,Away,1,1,Draw,Marvin,No,N/A,14,0,0,0,0,0,0,0,0,0,1,0
+2025-04-06,2024-25,La Liga,Las Palmas,Real Sociedad,Home,1,3,Loss,Marvin,No,N/A,28,0,0,0,0,0,0,0,0,0,6,2
+2025-04-12,2024-25,La Liga,Las Palmas,Getafe,Away,3,1,Win,Marvin,No,N/A,45,0,0,0,0,0,0,0,1,0,3,0
+2025-04-19,2024-25,La Liga,Las Palmas,Atlético Madrid,Home,1,0,Win,Marvin,No,N/A,24,0,0,1,0,0,0,1,0,0,1,1
+2025-04-23,2024-25,La Liga,Las Palmas,Athletic Club,Away,0,1,Loss,Marvin,Yes,AM,73,0,0,0,0,0,0,0,1,0,2,1
+2025-05-03,2024-25,La Liga,Las Palmas,Valencia,Home,2,3,Loss,Marvin,No,N/A,33,0,0,1,0,0,0,1,0,0,4,0
+2025-05-09,2024-25,La Liga,Las Palmas,Rayo Vallecano,Home,0,1,Loss,Marvin,No,N/A,34,0,0,1,0,0,0,1,0,0,4,0
+2025-05-13,2024-25,La Liga,Las Palmas,Sevilla,Away,0,1,Loss,Marvin,No,N/A,9,0,0,0,0,0,0,0,0,0,0,0
+2025-05-18,2024-25,La Liga,Las Palmas,Leganés,Home,0,1,Loss,Marvin,Yes,RM,90,0,0,0,0,0,0,3,0,0,0,3
+2025-05-24,2024-25,La Liga,Las Palmas,Espanyol,Away,0,2,Loss,Marvin,Yes,RB,90,0,0,0,0,1,0,3,2,0,1,1
