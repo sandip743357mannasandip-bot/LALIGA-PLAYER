@@ -1,6 +1,8 @@
 """
 app.py — Season-aware Streamlit Dashboard
-FIX: Shows debug info when squad is empty so you know exactly why
+- Shows ALL teams from SEASON_DATA.csv
+- If team has no player CSVs → clear error message, no crash
+- Date filter strictly before selected date
 """
 
 import os, sys
@@ -14,7 +16,7 @@ from backend import (
     load_all_players, load_season_data,
     get_all_seasons, get_clubs_for_season,
     get_squad_for_season, predict_match,
-    FORMATIONS, get_season_range, PLAYER_DATA_DIR
+    FORMATIONS, get_season_range
 )
 
 st.set_page_config(
@@ -45,12 +47,6 @@ if not ALL_SEASONS:
 if not PLAYERS:
     st.error("❌ No player CSVs found in PLAYER DATA/ folder.")
     st.stop()
-
-# ── Debug expander: show all loaded players ──
-with st.expander("🔍 Debug — Loaded Players & SEASON_DATA", expanded=False):
-    st.write(f"**Player CSVs loaded:** {len(PLAYERS)}")
-    st.write(sorted(PLAYERS.keys()))
-    st.write(f"**SEASON_DATA seasons:** {sorted(SEASON_DATA.keys())}")
 
 st.divider()
 
@@ -110,44 +106,13 @@ away_xi = []
 
 col_home, col_away = st.columns(2)
 
-
-def _squad_debug_info(team, season, squad, season_data, players_dict):
-    """Return a helpful message explaining why squad is empty."""
-    # Check if team is in SEASON_DATA for this season
-    in_sd = team in season_data.get(season, {})
-    sd_players = season_data.get(season, {}).get(team, [])
-
-    lines = [f"**Team in SEASON_DATA for {season}:** {'✅ Yes' if in_sd else '❌ No'}"]
-    if in_sd:
-        lines.append(f"**Players listed in SEASON_DATA:** {sd_players if sd_players else '(none)'}")
-
-    # Show which CSVs are loaded
-    lines.append(f"**Total player CSVs loaded:** {len(players_dict)}")
-
-    # Check if any CSV name contains part of the team name
-    team_words = [w.lower() for w in team.split() if len(w) > 2]
-    possible = [p for p in players_dict if any(w in p.lower() for w in team_words)]
-    if possible:
-        lines.append(f"**Possible matching CSVs (by team name keywords):** {possible}")
-    else:
-        lines.append(f"**No CSV filenames contain words from '{team}'** — "
-                     f"check your SEASON_DATA.csv player names match the CSV filenames exactly.")
-
-    return "\n\n".join(lines)
-
-
 with col_home:
     st.markdown(f"#### 🏠 {home_team} — {home_formation}")
     if not home_squad:
         st.error(
             f"❌ No player CSVs found for **{home_team}** in {selected_season}. "
-            f"Make sure:\n"
-            f"1. Player CSV files are in the `PLAYER DATA/` folder.\n"
-            f"2. `SEASON_DATA.csv` lists these players under **{home_team}** / **{selected_season}**.\n"
-            f"3. Player names in SEASON_DATA.csv **exactly match** the CSV filenames (before ' - Sheet1')."
+            f"Upload their player CSV files to the `PLAYER DATA/` folder in GitHub."
         )
-        with st.expander(f"🔍 Debug info for {home_team}"):
-            st.markdown(_squad_debug_info(home_team, selected_season, home_squad, SEASON_DATA, PLAYERS))
     else:
         for i, slot in enumerate(home_slots):
             already  = [p for p in home_xi if p]
@@ -162,13 +127,8 @@ with col_away:
     if not away_squad:
         st.error(
             f"❌ No player CSVs found for **{away_team}** in {selected_season}. "
-            f"Make sure:\n"
-            f"1. Player CSV files are in the `PLAYER DATA/` folder.\n"
-            f"2. `SEASON_DATA.csv` lists these players under **{away_team}** / **{selected_season}**.\n"
-            f"3. Player names in SEASON_DATA.csv **exactly match** the CSV filenames (before ' - Sheet1')."
+            f"Upload their player CSV files to the `PLAYER DATA/` folder in GitHub."
         )
-        with st.expander(f"🔍 Debug info for {away_team}"):
-            st.markdown(_squad_debug_info(away_team, selected_season, away_squad, SEASON_DATA, PLAYERS))
     else:
         for i, slot in enumerate(away_slots):
             already  = [p for p in away_xi if p]
@@ -189,6 +149,7 @@ if home_dups:
 if away_dups:
     st.error(f"❌ {away_team}: **{', '.join(away_dups)}** selected more than once.")
 
+# Disable predict if no squads or duplicates
 can_predict = bool(home_squad and away_squad and not home_dups and not away_dups)
 
 # ── PREDICT BUTTON ──
@@ -225,6 +186,7 @@ if predict_btn and can_predict:
                 f"📅 {match_date} | 🗓️ {selected_season}"
             )
 
+            # xG
             st.markdown("### ⚽ Expected Goals")
             xc1,xc2,xc3 = st.columns(3)
             xc1.metric(f"🏠 {home_team}", result["xg_home"])
@@ -232,6 +194,7 @@ if predict_btn and can_predict:
             xc3.metric(f"✈️ {away_team}", result["xg_away"])
             st.divider()
 
+            # Probabilities
             st.markdown("### 📈 Match Probabilities")
             pc1,pc2,pc3 = st.columns(3)
             pc1.metric(f"🏠 {home_team} Win", f"{result['home_win']}%")
@@ -244,6 +207,7 @@ if predict_btn and can_predict:
             st.bar_chart(prob_df.set_index("Outcome"))
             st.divider()
 
+            # Top 5
             st.markdown("### 🎯 Top 5 Most Likely Scorelines")
             st.caption(f"Home: {home_team} — Away: {away_team}")
             st.dataframe(
@@ -252,6 +216,7 @@ if predict_btn and can_predict:
             )
             st.divider()
 
+            # Heatmap
             st.markdown("### 🔥 Scoreline Probability Heatmap (%)")
             matrix_pct = np.round(result["matrix"]*100, 2)
             heatmap_df = pd.DataFrame(
@@ -265,6 +230,7 @@ if predict_btn and can_predict:
             )
             st.divider()
 
+            # XI Summary
             st.markdown("### 📋 Playing XI Used")
             xi1,xi2 = st.columns(2)
             with xi1:
@@ -277,6 +243,7 @@ if predict_btn and can_predict:
                     st.write(f"**{slot}** — {player}")
             st.divider()
 
+            # Data info
             st.markdown("### ℹ️ Data Used")
             st.info(f"Only matches strictly before **{match_date}** were used.")
             mdt = pd.to_datetime(str(match_date))
