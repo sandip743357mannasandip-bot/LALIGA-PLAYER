@@ -1,8 +1,7 @@
 """
-backend.py — Rebuilt using original core logic + player-level data
-Original logic: Rolling stats → Traditional xG → RF + LR ensemble
-                (1/MAE weighted) → Poisson scoreline matrix
-Extra additions: Player CSVs, Playing XI, Season filter, Date filter
+backend.py — Bulletproof version
+Handles ANY player CSV column structure gracefully
+Core logic from original Poisson + RF reports
 """
 
 import os, math, glob, warnings
@@ -15,8 +14,9 @@ from sklearn.metrics import mean_absolute_error
 
 warnings.filterwarnings("ignore")
 
-BASE_DIR        = os.path.dirname(os.path.abspath(__file__))
-SEASON_DATES    = {
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+SEASON_DATES = {
     "2024-2025": ("2024-07-01","2025-06-30"),
     "2023-2024": ("2023-07-01","2024-06-30"),
     "2022-2023": ("2022-07-01","2023-06-30"),
@@ -36,7 +36,7 @@ SEASON_DATES    = {
     "2008-2009": ("2008-07-01","2009-06-30"),
 }
 
-# ── All La Liga teams by season (hardcoded fallback) ──
+# All La Liga teams hardcoded — always show in dropdown
 LALIGA_TEAMS = {
     "2024-2025": [
         "Barcelona","Real Madrid","Atletico Madrid","Athletic Club","Villarreal",
@@ -87,8 +87,42 @@ SLOT_TO_GROUP = {
 }
 
 # ─────────────────────────────────────────
-# HELPERS
+# COLUMN NAME ALIASES
+# Maps any known variant → standard name
 # ─────────────────────────────────────────
+COL_ALIASES = {
+    # Goals
+    "Goals": ["Goals","G","Gls","Goal","goals"],
+    # Assists
+    "Assists": ["Assists","Ast","A","assists"],
+    # Shots
+    "Shots": ["Shots","Sh","shots","Shot"],
+    # Shots on Target
+    "SoT": ["SoT","shots_on_target","Shots on Target","ShotsOnTarget","sot"],
+    # Minutes
+    "Minutes": ["Minutes","Min","Mins","minutes","min"],
+    # Team Goals
+    "TeamGoals": ["TeamGoals","GF","team_goals","Goals For","GoalsFor"],
+    # Opp Goals
+    "OppGoals": ["OppGoals","GA","opp_goals","Goals Against","GoalsAgainst"],
+    # Venue
+    "Venue": ["Venue","venue","Home/Away","HomeAway","location"],
+    # Opponent
+    "Opponent": ["Opponent","opponent","Opp","opp","vs","Against"],
+    # Result
+    "Result": ["Result","result","Res","res","W/D/L"],
+    # Tackles
+    "TacklesWon": ["TacklesWon","Tkl","tackles_won","Tackles"],
+    # Interceptions
+    "Interceptions": ["Interceptions","Int","interceptions"],
+    # Date
+    "Date": ["Date","date","Match Date","MatchDate"],
+    # Team
+    "Team": ["Team","team","Club","club","Squad"],
+    # Season
+    "Season": ["Season","season","Szn"],
+}
+
 def find_player_data_dir():
     for name in ["PLAYER DATA","player_data","Player Data","PLAYER_DATA","data","DATA"]:
         p = os.path.join(BASE_DIR, name)
@@ -127,11 +161,63 @@ def normalize(name):
     name = unicodedata.normalize("NFKD", str(name))
     return "".join(c for c in name if not unicodedata.combining(c)).lower().strip()
 
-def safe_sum(df, col):
+def safe_col(df, col):
     return float(df[col].sum()) if col in df.columns else 0.0
 
-def safe_mean(df, col):
-    return float(df[col].mean()) if col in df.columns and len(df) > 0 else 0.0
+def safe_mean(df, col, default=0.0):
+    return float(df[col].mean()) if col in df.columns and len(df) > 0 else default
+
+# ─────────────────────────────────────────
+# STANDARDISE COLUMNS
+# Renames any known variant to standard name
+# ─────────────────────────────────────────
+def standardise_columns(df):
+    """Rename any column variants to standard names."""
+    rename_map = {}
+    existing = set(df.columns.str.strip())
+
+    for std_name, variants in COL_ALIASES.items():
+        if std_name in existing:
+            continue  # already correct
+        for variant in variants:
+            if variant in existing:
+                rename_map[variant] = std_name
+                break
+
+    if rename_map:
+        df = df.rename(columns=rename_map)
+
+    # Strip whitespace from all column names
+    df.columns = df.columns.str.strip()
+
+    # Add missing required columns with defaults
+    defaults = {
+        "Goals": 0, "Assists": 0, "Shots": 0, "SoT": 0,
+        "Minutes": 90, "TacklesWon": 0, "Interceptions": 0,
+        "TeamGoals": 0, "OppGoals": 0,
+        "Venue": "Home", "Opponent": "Unknown", "Result": "D"
+    }
+    for col, default in defaults.items():
+        if col not in df.columns:
+            df[col] = default
+
+    # Convert numeric columns
+    for col in ["Goals","Assists","Shots","SoT","Minutes","TacklesWon",
+                "Interceptions","TeamGoals","OppGoals","Yellow","Red"]:
+        if col in df.columns:
+            df[col] = pd.to_numeric(df[col], errors="coerce").fillna(0)
+
+    # Fix encoding in Opponent column
+    if "Opponent" in df.columns:
+        replacements = {"Ã©":"é","Ã¡":"á","Ã­":"í","Ã³":"ó","Ãº":"ú","Ã±":"ñ","Ã":"Á"}
+        for bad, good in replacements.items():
+            df["Opponent"] = df["Opponent"].str.replace(bad, good, regex=False)
+
+    # Compute G/Sh and G/SoT
+    df["G/Sh"]  = df.apply(lambda r: r["Goals"]/r["Shots"] if r["Shots"] > 0 else 0, axis=1)
+    df["G/SoT"] = df.apply(lambda r: r["Goals"]/r["SoT"]   if r["SoT"]   > 0 else 0, axis=1)
+
+    return df
 
 # ─────────────────────────────────────────
 # 1. LOAD ALL PLAYER CSVs
@@ -144,45 +230,24 @@ def load_all_players():
         name = clean_player_name(path)
         try:
             df = pd.read_csv(path, encoding="latin1")
+            df.columns = df.columns.str.strip()
+
+            # Find and parse Date column
+            date_col = next((c for c in df.columns
+                           for v in COL_ALIASES["Date"] if c == v), None)
+            if date_col and date_col != "Date":
+                df = df.rename(columns={date_col: "Date"})
+            if "Date" not in df.columns:
+                continue
             df["Date"] = pd.to_datetime(df["Date"], errors="coerce")
             df = df.dropna(subset=["Date"]).copy()
 
-            # Fix encoding issues in opponent names (from your original code)
-            if "Opponent" in df.columns:
-                replacements = {
-                    "Ã©":"é","Ã¡":"á","Ã­":"í",
-                    "Ã³":"ó","Ãº":"ú","Ã±":"ñ","Ã":"Á"
-                }
-                for bad, good in replacements.items():
-                    df["Opponent"] = df["Opponent"].str.replace(bad, good, regex=False)
-
-            # Standardise numeric columns — handle missing gracefully
-            for col in ["Goals","Assists","Shots","SoT","Minutes",
-                        "TacklesWon","Interceptions","Crosses","Fouls",
-                        "TeamGoals","OppGoals","Yellow","Red"]:
-                if col in df.columns:
-                    df[col] = pd.to_numeric(df[col], errors="coerce").fillna(0)
-
-            # Ensure required columns exist with defaults
-            defaults = {
-                "Goals":0,"Assists":0,"Shots":0,"SoT":0,
-                "Minutes":90,"TacklesWon":0,"Interceptions":0,
-                "TeamGoals":0,"OppGoals":0,"Venue":"Home",
-                "Opponent":"Unknown","Result":"D"
-            }
-            for col, default in defaults.items():
-                if col not in df.columns:
-                    df[col] = default
-
-            # Compute G/Sh and G/SoT per row (like original code)
-            df["G/Sh"]  = df.apply(
-                lambda r: r["Goals"]/r["Shots"] if r["Shots"] > 0 else 0, axis=1)
-            df["G/SoT"] = df.apply(
-                lambda r: r["Goals"]/r["SoT"]   if r["SoT"]   > 0 else 0, axis=1)
-
+            # Standardise all columns
+            df = standardise_columns(df)
             players[name] = df
+
         except Exception as e:
-            print(f"Skipping {path}: {e}")
+            print(f"Skipping {os.path.basename(path)}: {e}")
     return players
 
 # ─────────────────────────────────────────
@@ -210,7 +275,6 @@ def load_season_data():
         season = str(row["SEASON"]).strip()
         club   = str(row["TEAM"]).strip()
         player = str(row["PLAYER"]).strip()
-        # Skip placeholder entries (added just to show team in dropdown)
         if player.startswith("_placeholder_"):
             result.setdefault(season, {}).setdefault(club, [])
             continue
@@ -218,20 +282,14 @@ def load_season_data():
     return result
 
 def get_all_seasons(season_data):
-    # Merge seasons from SEASON_DATA + hardcoded La Liga seasons
     csv_seasons    = set(season_data.keys())
     laliga_seasons = set(LALIGA_TEAMS.keys())
-    all_seasons    = csv_seasons | laliga_seasons
-    return sorted(all_seasons, reverse=True)
+    return sorted(csv_seasons | laliga_seasons, reverse=True)
 
 def get_clubs_for_season(season_data, season):
-    # Get teams from SEASON_DATA.csv
-    csv_teams = set(season_data.get(season, {}).keys())
-    # Get hardcoded La Liga teams for this season
+    csv_teams    = set(season_data.get(season, {}).keys())
     laliga_teams = set(LALIGA_TEAMS.get(season, []))
-    # Merge both — show all
-    all_teams = csv_teams | laliga_teams
-    return sorted(all_teams)
+    return sorted(csv_teams | laliga_teams)
 
 def get_squad_for_season(season_data, players_dict, club, season):
     season_players = season_data.get(season, {}).get(club, [])
@@ -251,124 +309,88 @@ def get_squad_for_season(season_data, players_dict, club, season):
     return sorted(set(matched))
 
 # ─────────────────────────────────────────
-# 3. BUILD TEAM DATAFRAME FROM XI PLAYERS
-#    Key improvement: aggregate player CSVs
-#    into a team-level match history
+# 3. BUILD TEAM DATAFRAME FROM XI
 # ─────────────────────────────────────────
 def build_team_df(players_dict, xi_players, match_date):
-    """
-    From selected XI player CSVs, build a combined team-level
-    match history (one row per match date) strictly before match_date.
-    Mirrors your original df structure: Date, Venue, Opponent,
-    GF, GA, Sh, SoT, G/Sh, G/SoT, Result
-    """
     all_rows = []
     for player in xi_players:
         if not player or player not in players_dict:
             continue
         df = players_dict[player]
         past = df[df["Date"] < match_date].copy()
-        if len(past) == 0:
-            continue
-        all_rows.append(past)
+        if len(past) > 0:
+            all_rows.append(past)
 
     if not all_rows:
         return pd.DataFrame()
 
     combined = pd.concat(all_rows)
-
-    # Aggregate per match date: sum shots/goals, keep venue/opponent/result
     agg = combined.groupby("Date").agg(
         Venue    = ("Venue",     "first"),
         Opponent = ("Opponent",  "first"),
         Result   = ("Result",    "first"),
-        GF       = ("TeamGoals", "first"),  # team goals (same for all players in match)
-        GA       = ("OppGoals",  "first"),  # opp goals (same for all players in match)
-        Sh       = ("Shots",     "sum"),    # sum player shots
-        SoT      = ("SoT",       "sum"),    # sum player shots on target
+        GF       = ("TeamGoals", "first"),
+        GA       = ("OppGoals",  "first"),
+        Sh       = ("Shots",     "sum"),
+        SoT      = ("SoT",       "sum"),
     ).reset_index().sort_values("Date")
 
-    # Recompute G/Sh and G/SoT at team level (like original)
     agg["G/Sh"]  = agg.apply(lambda r: r["GF"]/r["Sh"]  if r["Sh"]  > 0 else 0, axis=1)
     agg["G/SoT"] = agg.apply(lambda r: r["GF"]/r["SoT"] if r["SoT"] > 0 else 0, axis=1)
-
     return agg
 
 # ─────────────────────────────────────────
-# 4. ORIGINAL ROLLING STATS (from your code)
+# 4. ROLLING STATS (original Step 5+6)
 # ─────────────────────────────────────────
 def get_rolling_stats(team_df, venue, opponent, n=5):
-    """
-    Replicates your original Step 5 + 6:
-    - Last N matches at venue
-    - Historical record vs opponent at venue
-    """
     venue_matches = team_df[team_df["Venue"] == venue]
-    last_n        = venue_matches.tail(n)
+    last_n        = venue_matches.tail(n) if len(venue_matches) > 0 else team_df.tail(n)
 
-    if len(last_n) == 0:
-        # fallback: use all matches
-        last_n = team_df.tail(n)
+    avg_shots = safe_mean(last_n, "Sh",   0.1)
+    avg_sot   = safe_mean(last_n, "SoT",  0.1)
+    avg_g_sh  = safe_mean(last_n, "G/Sh", 0.0)
+    avg_g_sot = safe_mean(last_n, "G/SoT",0.0)
+    avg_gf    = safe_mean(last_n, "GF",   1.2)
+    avg_ga    = safe_mean(last_n, "GA",   1.0)
 
-    avg_shots  = safe_mean(last_n, "Sh")
-    avg_sot    = safe_mean(last_n, "SoT")
-    avg_g_sh   = safe_mean(last_n, "G/Sh")
-    avg_g_sot  = safe_mean(last_n, "G/SoT")
-    avg_gf     = safe_mean(last_n, "GF")
-    avg_ga     = safe_mean(last_n, "GA")
-
-    # Historical vs opponent at venue
     opp_venue = team_df[(team_df["Opponent"] == opponent) & (team_df["Venue"] == venue)]
-    if len(opp_venue) > 0:
-        avg_gf_vs_opp = safe_mean(opp_venue, "GF")
-    else:
-        avg_gf_vs_opp = avg_gf if avg_gf > 0 else 1.2
+    avg_gf_vs_opp = safe_mean(opp_venue, "GF", avg_gf) if len(opp_venue) > 0 else avg_gf
 
     return {
-        "avg_shots": max(avg_shots, 0.1),
-        "avg_sot":   max(avg_sot,   0.1),
-        "avg_g_sh":  avg_g_sh,
-        "avg_g_sot": avg_g_sot,
-        "avg_gf":    max(avg_gf,    0.5),
-        "avg_ga":    max(avg_ga,    0.5),
+        "avg_shots":     max(avg_shots, 0.1),
+        "avg_sot":       max(avg_sot,   0.1),
+        "avg_g_sh":      avg_g_sh,
+        "avg_g_sot":     avg_g_sot,
+        "avg_gf":        max(avg_gf,    0.5),
+        "avg_ga":        max(avg_ga,    0.5),
         "avg_gf_vs_opp": max(avg_gf_vs_opp, 0.5),
-        "last_n": last_n,
+        "last_n":        last_n,
     }
 
 # ─────────────────────────────────────────
-# 5. TRADITIONAL xG (from your original Step 7)
+# 5. TRADITIONAL xG (original Step 7)
 # ─────────────────────────────────────────
 def traditional_xg(stats):
     xg_shots = stats["avg_shots"] * stats["avg_g_sh"]
     if xg_shots > 0:
-        opp_factor  = stats["avg_gf_vs_opp"] / xg_shots
-        xg_adjusted = xg_shots * opp_factor
+        xg_adj = xg_shots * (stats["avg_gf_vs_opp"] / xg_shots)
     else:
-        xg_adjusted = stats["avg_gf_vs_opp"]
-    return max(round(xg_adjusted, 3), 0.1)
+        xg_adj = stats["avg_gf_vs_opp"]
+    return max(round(xg_adj, 3), 0.1)
 
 # ─────────────────────────────────────────
-# 6. ML FEATURES (from your original Step 8)
-#    Now built from player CSV aggregation
+# 6. ML FEATURES (original Step 8)
 # ─────────────────────────────────────────
 def build_ml_features(team_df, target_col="GF"):
-    """
-    Replicates your original build_features():
-    Features: Sh, SoT, G/Sh, G/SoT, Venue_enc, Opp_enc,
-              roll_GF, roll_GA, roll_Sh, roll_SoT
-    Target: GF or GA
-    """
     data = team_df.copy().reset_index(drop=True)
     if len(data) < 5:
         return None, None, None, None
 
-    # Encode categoricals (from your original)
     venue_enc = LabelEncoder()
     opp_enc   = LabelEncoder()
     data["Venue_enc"] = venue_enc.fit_transform(data["Venue"].fillna("Home"))
     data["Opp_enc"]   = opp_enc.fit_transform(data["Opponent"].fillna("Unknown"))
 
-    # Rolling 5-match form with shift(1) — no leakage (from your original)
     data["roll_GF"]  = data["GF"].shift(1).rolling(5, min_periods=1).mean()
     data["roll_GA"]  = data["GA"].shift(1).rolling(5, min_periods=1).mean()
     data["roll_Sh"]  = data["Sh"].shift(1).rolling(5, min_periods=1).mean()
@@ -381,51 +403,34 @@ def build_ml_features(team_df, target_col="GF"):
     if len(data) < 5:
         return None, None, None, None
 
-    X = data[feature_cols].values
-    y = data[target_col].values
-
-    return X, y, opp_enc, venue_enc
+    return data[feature_cols].values, data[target_col].values, opp_enc, venue_enc
 
 # ─────────────────────────────────────────
-# 7. TRAIN RF + LR ENSEMBLE (your original Step 8)
+# 7. TRAIN RF + LR ENSEMBLE (original Step 8)
 # ─────────────────────────────────────────
 def train_and_predict(X, y, query_row):
-    """
-    Exact replica of your original ML training:
-    - Time-ordered train/test split (shuffle=False)
-    - RF n_estimators=200, max_depth=6
-    - LR baseline
-    - Ensemble weighted by 1/MAE
-    """
-    split = max(1, int(len(X) * 0.8))
+    split   = max(1, int(len(X) * 0.8))
     X_train, X_test = X[:split], X[split:]
     y_train, y_test = y[:split], y[split:]
 
-    rf = RandomForestRegressor(n_estimators=200, max_depth=6,
-                                random_state=42, n_jobs=-1)
+    rf = RandomForestRegressor(n_estimators=200, max_depth=6, random_state=42, n_jobs=-1)
     lr = LinearRegression()
     rf.fit(X_train, y_train)
     lr.fit(X_train, y_train)
 
-    if len(X_test) > 0:
-        rf_mae = mean_absolute_error(y_test, rf.predict(X_test))
-        lr_mae = mean_absolute_error(y_test, lr.predict(X_test))
-    else:
-        rf_mae = lr_mae = 1.0
+    rf_mae = mean_absolute_error(y_test, rf.predict(X_test)) if len(X_test) > 0 else 1.0
+    lr_mae = mean_absolute_error(y_test, lr.predict(X_test)) if len(X_test) > 0 else 1.0
 
     rf_pred = max(float(rf.predict(query_row)[0]), 0.01)
     lr_pred = max(float(lr.predict(query_row)[0]), 0.01)
 
-    # Inverse MAE weighting (your original)
     rf_w = 1 / (rf_mae + 1e-5)
     lr_w = 1 / (lr_mae + 1e-5)
-    total_w = rf_w + lr_w
-
-    ml_xg = round((rf_pred * rf_w + lr_pred * lr_w) / total_w, 3)
-    return ml_xg, rf_mae, lr_mae
+    ml_xg = round((rf_pred * rf_w + lr_pred * lr_w) / (rf_w + lr_w), 3)
+    return ml_xg
 
 # ─────────────────────────────────────────
-# 8. POISSON (your original Step 10-12)
+# 8. POISSON (original Steps 10-12)
 # ─────────────────────────────────────────
 def poisson_prob(lam, k):
     return math.exp(-lam) * (lam ** k) / math.factorial(k)
@@ -438,19 +443,10 @@ def scoreline_matrix(lam_h, lam_a, max_goals=6):
     return m
 
 # ─────────────────────────────────────────
-# 9. MAIN PREDICT FUNCTION
+# 9. MAIN PREDICT
 # ─────────────────────────────────────────
 def predict_match(players_dict, home_team, away_team,
                   home_xi, away_xi, match_date, season):
-    """
-    Full pipeline:
-    1. Build team dataframes from XI player CSVs (before match_date)
-    2. Compute rolling stats (your original Step 5+6)
-    3. Traditional xG (your original Step 7)
-    4. ML features + RF+LR ensemble (your original Step 8)
-    5. Final xG = 60% ML + 40% traditional
-    6. Poisson scoreline matrix (your original Step 10-12)
-    """
     match_date = pd.to_datetime(match_date)
     xg_results = {}
 
@@ -458,24 +454,18 @@ def predict_match(players_dict, home_team, away_team,
                              (away_team, away_xi, "Away")]:
         opponent = away_team if team == home_team else home_team
 
-        # ── Build team-level df from XI player CSVs ──
         team_df = build_team_df(players_dict, xi, match_date)
 
         if len(team_df) == 0:
             xg_results[team] = 1.2
             continue
 
-        # ── Rolling stats (your original Step 5+6) ──
-        stats = get_rolling_stats(team_df, venue, opponent)
-
-        # ── Traditional xG (your original Step 7) ──
+        stats   = get_rolling_stats(team_df, venue, opponent)
         xg_trad = traditional_xg(stats)
 
-        # ── ML features (your original Step 8) ──
-        X, y, opp_enc, venue_enc = build_ml_features(team_df, target_col="GF")
+        X, y, opp_enc, venue_enc = build_ml_features(team_df, "GF")
 
-        if X is not None and len(X) >= 5:
-            # Encode query values
+        if X is not None:
             try:
                 opp_code   = opp_enc.transform([opponent])[0]
             except:
@@ -485,50 +475,35 @@ def predict_match(players_dict, home_team, away_team,
             except:
                 venue_code = 0
 
-            # Build query row (same features as your original)
             query_row = np.array([[
-                stats["avg_shots"],
-                stats["avg_sot"],
-                stats["avg_g_sh"],
-                stats["avg_g_sot"],
-                venue_code,
-                opp_code,
-                stats["avg_gf"],
-                stats["avg_ga"],
-                stats["avg_shots"],
-                stats["avg_sot"],
+                stats["avg_shots"], stats["avg_sot"],
+                stats["avg_g_sh"],  stats["avg_g_sot"],
+                venue_code, opp_code,
+                stats["avg_gf"],    stats["avg_ga"],
+                stats["avg_shots"], stats["avg_sot"],
             ]])
 
-            ml_xg, rf_mae, lr_mae = train_and_predict(X, y, query_row)
-
-            # ── Final xG: 60% ML + 40% traditional (improvement) ──
+            ml_xg    = train_and_predict(X, y, query_row)
             xg_final = round(0.6 * ml_xg + 0.4 * xg_trad, 3)
         else:
-            # Not enough data → fall back to traditional xG
             xg_final = xg_trad
 
         xg_results[team] = max(xg_final, 0.1)
 
-    # ── Poisson matrix (your original Step 10-12) ──
     lam_h  = xg_results[home_team]
     lam_a  = xg_results[away_team]
     matrix = scoreline_matrix(lam_h, lam_a)
-
-    win  = float(np.sum(np.tril(matrix, -1)))
-    draw = float(np.sum(np.diag(matrix)))
-    loss = float(np.sum(np.triu(matrix, 1)))
-
+    win    = float(np.sum(np.tril(matrix, -1)))
+    draw   = float(np.sum(np.diag(matrix)))
+    loss   = float(np.sum(np.triu(matrix, 1)))
     scores = [(i, j, matrix[i][j]) for i in range(7) for j in range(7)]
     top5   = sorted(scores, key=lambda x: -x[2])[:5]
 
     return {
-        "xg_home":  lam_h,
-        "xg_away":  lam_a,
-        "home_win": round(win  * 100, 1),
-        "draw":     round(draw * 100, 1),
-        "away_win": round(loss * 100, 1),
-        "top5":     [(f"{h}-{a}", round(p*100, 2)) for h, a, p in top5],
+        "xg_home":  lam_h, "xg_away":  lam_a,
+        "home_win": round(win*100,1), "draw": round(draw*100,1),
+        "away_win": round(loss*100,1),
+        "top5":     [(f"{h}-{a}", round(p*100,2)) for h,a,p in top5],
         "matrix":   matrix,
-        "home_team":home_team,
-        "away_team":away_team,
+        "home_team":home_team, "away_team":away_team,
     }
