@@ -162,9 +162,10 @@ predict_btn = st.button(
 
 if not can_predict and (not home_squad or not away_squad):
     missing = []
-    if not home_squad: missing.append(home_team)
-    if not away_squad: missing.append(away_team)
-    st.warning(f"⚠️ Prediction disabled — missing player CSVs for: **{', '.join(missing)}**")
+    if not home_squad and home_team: missing.append(str(home_team))
+    if not away_squad and away_team: missing.append(str(away_team))
+    if missing:
+        st.warning(f"⚠️ Prediction disabled — missing player CSVs for: **{', '.join(missing)}**")
 
 if predict_btn and can_predict:
     valid_home = [p for p in home_xi if p]
