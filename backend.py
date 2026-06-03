@@ -74,10 +74,14 @@ FORMATIONS = {
     "4-3-3":   ["GK","RB","CB","CB","LB","CM","CM","CM","RW","ST","LW"],
     "4-4-2":   ["GK","RB","CB","CB","LB","RM","CM","CM","LM","ST","ST"],
     "4-2-3-1": ["GK","RB","CB","CB","LB","DM","DM","AM","RW","LW","ST"],
+    "4-5-1":   ["GK","RB","CB","CB","LB","RM","CM","CM","CM","LM","ST"],
+    "4-1-4-1": ["GK","RB","CB","CB","LB","DM","RM","CM","CM","LM","ST"],
     "3-5-2":   ["GK","CB","CB","CB","RM","CM","CM","CM","LM","ST","ST"],
     "3-4-3":   ["GK","CB","CB","CB","RM","CM","CM","LM","RW","ST","LW"],
+    "3-5-1-1": ["GK","CB","CB","CB","RM","CM","CM","CM","LM","AM","ST"],
     "5-3-2":   ["GK","RB","CB","CB","CB","LB","CM","CM","CM","ST","ST"],
-    "4-1-4-1": ["GK","RB","CB","CB","LB","DM","RM","CM","CM","LM","ST"],
+    "5-4-1":   ["GK","RB","CB","CB","CB","LB","RM","CM","CM","LM","ST"],
+    "4-4-1-1": ["GK","RB","CB","CB","LB","RM","CM","CM","LM","AM","ST"],
 }
 
 SLOT_TO_GROUP = {
