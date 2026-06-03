@@ -1,0 +1,30 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2024-08-18,2024-2025,La Liga,Real Sociedad,Rayo Vallecano,Home,1,2,Loss,Luka Sučić,N,N/A,8,0,0,0,0,0,0,0,0,0,0,0
+2024-09-14,2024-2025,La Liga,Real Sociedad,Real Madrid,Home,0,2,Loss,Luka Sučić,Y,CM,74,0,0,4,0,0,0,1,0,0,0,0
+2024-09-17,2024-2025,La Liga,Real Sociedad,Mallorca,Away,0,1,Loss,Luka Sučić,Y,AM,90,0,0,4,1,0,0,1,0,1,1,2
+2024-09-21,2024-2025,La Liga,Real Sociedad,Valladolid,Away,0,0,Draw,Luka Sučić,Y,CM,60,0,0,1,0,0,0,0,1,0,1,0
+2024-09-28,2024-2025,La Liga,Real Sociedad,Valencia,Home,3,0,Win,Luka Sučić,Y,AM,74,0,0,0,0,0,0,1,0,1,1,1
+2024-10-06,2024-2025,La Liga,Real Sociedad,Atlético Madrid,Home,1,1,Draw,Luka Sučić,Y,AM,90,1,0,2,1,0,0,1,2,1,2,1
+2024-10-19,2024-2025,La Liga,Real Sociedad,Girona,Away,1,0,Win,Luka Sučić,Y,AM,90,0,0,3,0,0,0,1,2,0,2,0
+2024-10-27,2024-2025,La Liga,Real Sociedad,Osasuna,Home,0,2,Loss,Luka Sučić,Y,AM,69,0,0,3,3,0,0,0,0,1,0,0
+2024-11-03,2024-2025,La Liga,Real Sociedad,Sevilla,Away,2,0,Win,Luka Sučić,Y,AM,90,0,0,1,0,0,0,1,0,0,3,1
+2024-11-10,2024-2025,La Liga,Real Sociedad,Barcelona,Home,1,0,Win,Luka Sučić,Y,AM,60,0,1,1,0,0,0,0,0,0,1,1
+2024-11-24,2024-2025,La Liga,Real Sociedad,Athletic Club,Away,0,1,Loss,Luka Sučić,Y,AM,90,0,0,1,0,1,0,0,4,0,0,0
+2024-12-08,2024-2025,La Liga,Real Sociedad,Leganés,Away,3,0,Win,Luka Sučić,Y,CM,90,0,0,2,1,0,0,2,0,1,1,2
+2024-12-15,2024-2025,La Liga,Real Sociedad,Las Palmas,Home,0,0,Draw,Luka Sučić,Y,AM,90,0,0,4,1,0,0,0,1,2,1,1
+2024-12-21,2024-2025,La Liga,Real Sociedad,Celta Vigo,Away,0,2,Loss,Luka Sučić,Y,AM,90,0,0,0,0,0,0,3,0,1,2,1
+2025-01-13,2024-2025,La Liga,Real Sociedad,Villarreal,Home,1,0,Win,Luka Sučić,Y,AM,90,0,0,2,1,0,0,2,0,0,0,2
+2025-01-19,2024-2025,La Liga,Real Sociedad,Valencia,Away,0,1,Loss,Luka Sučić,N,N/A,17,0,0,1,0,0,0,1,0,2,0,0
+2025-02-02,2024-2025,La Liga,Real Sociedad,Osasuna,Away,1,2,Loss,Luka Sučić,Y,AM,90,0,0,1,0,1,0,0,0,2,1,0
+2025-02-09,2024-2025,La Liga,Real Sociedad,Espanyol,Home,2,1,Win,Luka Sučić,Y,CM,79,0,0,3,1,0,0,0,1,2,0,0
+2025-02-16,2024-2025,La Liga,Real Sociedad,Real Betis,Away,0,3,Loss,Luka Sučić,Y,CM,75,0,0,2,0,0,0,1,1,0,1,1
+2025-03-29,2024-2025,La Liga,Real Sociedad,Valladolid,Home,2,1,Win,Luka Sučić,N,N/A,24,0,0,0,0,0,0,0,0,1,1,0
+2025-04-06,2024-2025,La Liga,Real Sociedad,Las Palmas,Away,3,1,Win,Luka Sučić,N,N/A,8,0,0,0,0,0,0,0,0,0,0,0
+2025-04-12,2024-2025,La Liga,Real Sociedad,Mallorca,Home,0,2,Loss,Luka Sučić,Y,DM,55,0,0,1,0,0,0,0,0,1,0,1
+2025-04-20,2024-2025,La Liga,Real Sociedad,Villarreal,Away,2,2,Draw,Luka Sučić,Y,AM,45,0,0,1,1,0,0,0,0,0,0,0
+2025-04-23,2024-2025,La Liga,Real Sociedad,Alavés,Away,0,1,Loss,Luka Sučić,N,N/A,25,0,0,0,0,1,0,0,0,0,0,0
+2025-05-04,2024-2025,La Liga,Real Sociedad,Athletic Club,Home,0,0,Draw,Luka Sučić,N,N/A,29,0,0,2,1,0,0,0,0,1,1,0
+2025-05-10,2024-2025,La Liga,Real Sociedad,Atlético Madrid,Away,0,4,Loss,Luka Sučić,Y,AM,60,0,0,1,0,0,0,0,0,1,0,0
+2025-05-13,2024-2025,La Liga,Real Sociedad,Celta Vigo,Home,1,1,Draw,Luka Sučić,N,N/A,14,0,0,1,0,1,0,0,0,0,0,0
+2025-05-18,2024-2025,La Liga,Real Sociedad,Girona,Home,3,2,Win,Luka Sučić,N,N/A,33,0,0,0,0,0,0,0,0,0,0,0
+2025-05-24,2024-2025,La Liga,Real Sociedad,Real Madrid,Away,0,2,Loss,Luka Sučić,Y,FW,83,0,0,2,0,0,0,0,0,0,1,2
