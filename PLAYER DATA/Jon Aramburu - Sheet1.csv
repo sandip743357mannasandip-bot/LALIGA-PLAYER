@@ -1,0 +1,47 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2024-01-20,2023-2024,La Liga,Real Sociedad,Celta Vigo,Away,1,0,Win,Jon Aramburu,Y,RB,45,0,0,0,0,1,0,2,0,0,1,0
+2024-01-27,2023-2024,La Liga,Real Sociedad,Rayo Vallecano,Home,0,0,Draw,Jon Aramburu,Y,RB,90,0,0,0,0,0,0,2,2,0,3,2
+2024-02-03,2023-2024,La Liga,Real Sociedad,Girona,Away,0,0,Draw,Jon Aramburu,N,N/A,88,0,0,1,0,0,0,0,1,0,1,3
+2024-02-10,2023-2024,La Liga,Real Sociedad,Osasuna,Home,0,1,Loss,Jon Aramburu,Y,RB,71,0,0,1,0,0,0,1,1,0,0,1
+2024-02-23,2023-2024,La Liga,Real Sociedad,Villarreal,Home,1,3,Loss,Jon Aramburu,N,N/A,45,0,0,0,0,0,0,0,0,0,1,0
+2024-03-02,2023-2024,La Liga,Real Sociedad,Sevilla,Away,2,3,Loss,Jon Aramburu,Y,RB,90,0,0,2,0,0,0,3,1,0,1,3
+2024-05-04,2023-2024,La Liga,Real Sociedad,Las Palmas,Home,2,0,Win,Jon Aramburu,N,N/A,12,0,0,0,0,0,0,0,0,0,0,0
+2024-05-13,2023-2024,La Liga,Real Sociedad,Barcelona,Away,0,2,Loss,Jon Aramburu,Y,DM,69,0,0,0,0,1,0,2,0,1,3,1
+2024-05-16,2023-2024,La Liga,Real Sociedad,Valencia,Home,1,0,Win,Jon Aramburu,N,N/A,8,0,0,0,0,0,0,0,0,0,0,0
+2024-05-19,2023-2024,La Liga,Real Sociedad,Real Betis,Away,2,0,Win,Jon Aramburu,N,N/A,15,0,0,0,0,1,0,0,0,0,2,1
+2024-05-25,2023-2024,La Liga,Real Sociedad,Atlético Madrid,Home,0,2,Loss,Jon Aramburu,N,N/A,10,0,0,0,0,0,0,1,0,0,0,0
+2024-08-18,2024-2025,La Liga,Real Sociedad,Rayo Vallecano,Home,1,2,Loss,Jon Aramburu,N,N/A,16,0,0,0,0,1,0,2,1,0,0,0
+2024-08-24,2024-2025,La Liga,Real Sociedad,Espanyol,Away,1,0,Win,Jon Aramburu,N,N/A,8,0,0,0,0,0,0,1,0,0,0,1
+2024-09-01,2024-2025,La Liga,Real Sociedad,Getafe,Away,0,0,Draw,Jon Aramburu,Y,LB,58,0,0,0,0,1,0,0,0,0,1,0
+2024-09-14,2024-2025,La Liga,Real Sociedad,Real Madrid,Home,0,2,Loss,Jon Aramburu,Y,RB,90,0,0,1,0,1,0,4,1,0,2,0
+2024-09-21,2024-2025,La Liga,Real Sociedad,Valladolid,Away,0,0,Draw,Jon Aramburu,Y,RB,90,0,0,1,0,1,2,0,1,3,0,0
+2024-09-28,2024-2025,La Liga,Real Sociedad,Valencia,Home,3,0,Win,Jon Aramburu,Y,RB,84,0,0,1,1,0,0,0,1,1,9,0
+2024-10-06,2024-2025,La Liga,Real Sociedad,Atlético Madrid,Home,1,1,Draw,Jon Aramburu,Y,RB,90,0,0,1,1,0,0,2,0,0,6,3
+2024-10-19,2024-2025,La Liga,Real Sociedad,Girona,Away,1,0,Win,Jon Aramburu,Y,RB,90,0,0,0,0,0,0,1,0,1,2,1
+2024-10-27,2024-2025,La Liga,Real Sociedad,Osasuna,Home,0,2,Loss,Jon Aramburu,Y,RB,78,0,0,1,0,0,1,0,2,3,1,0
+2024-11-03,2024-2025,La Liga,Real Sociedad,Sevilla,Away,2,0,Win,Jon Aramburu,Y,RB,90,0,0,0,0,0,0,1,0,0,3,0
+2024-11-10,2024-2025,La Liga,Real Sociedad,Barcelona,Home,1,0,Win,Jon Aramburu,Y,RB,60,0,0,0,0,1,0,3,0,1,0,4
+2024-11-24,2024-2025,La Liga,Real Sociedad,Athletic Club,Away,0,1,Loss,Jon Aramburu,Y,RB,83,0,0,0,0,0,0,1,0,0,2,6
+2024-12-01,2024-2025,La Liga,Real Sociedad,Real Betis,Home,2,0,Win,Jon Aramburu,Y,RB,90,0,0,0,0,0,0,3,1,0,0,2
+2024-12-08,2024-2025,La Liga,Real Sociedad,Leganés,Away,3,0,Win,Jon Aramburu,Y,RB,90,0,0,0,0,0,1,0,1,2,0,0
+2024-12-15,2024-2025,La Liga,Real Sociedad,Las Palmas,Home,0,0,Draw,Jon Aramburu,Y,RB,90,0,0,0,0,0,0,2,3,0,6,2
+2024-12-21,2024-2025,La Liga,Real Sociedad,Celta Vigo,Away,0,2,Loss,Jon Aramburu,Y,RB,90,0,0,0,0,0,0,1,4,0,2,2
+2025-01-13,2024-2025,La Liga,Real Sociedad,Villarreal,Home,1,0,Win,Jon Aramburu,Y,RB,90,0,0,0,0,1,0,1,0,1,0,0
+2025-01-26,2024-2025,La Liga,Real Sociedad,Getafe,Home,0,3,Loss,Jon Aramburu,Y,RB,90,0,0,0,0,1,0,2,4,0,4,1
+2025-02-02,2024-2025,La Liga,Real Sociedad,Osasuna,Away,1,2,Loss,Jon Aramburu,Y,RB,90,0,0,0,0,0,0,1,2,0,2,3
+2025-02-09,2024-2025,La Liga,Real Sociedad,Espanyol,Home,2,1,Win,Jon Aramburu,Y,RB,90,0,0,3,0,0,0,2,2,0,0,5
+2025-02-16,2024-2025,La Liga,Real Sociedad,Real Betis,Away,0,3,Loss,Jon Aramburu,Y,RB,58,0,0,0,0,1,0,3,2,0,0,2
+2025-02-23,2024-2025,La Liga,Real Sociedad,Leganés,Home,3,0,Win,Jon Aramburu,Y,RB,90,0,1,1,0,0,0,1,1,0,1,3
+2025-03-02,2024-2025,La Liga,Real Sociedad,Barcelona,Away,0,4,Loss,Jon Aramburu,Y,RB,63,0,0,0,0,0,0,0,0,0,1,0
+2025-03-09,2024-2025,La Liga,Real Sociedad,Sevilla,Home,0,1,Loss,Jon Aramburu,Y,RB,60,0,0,1,0,0,0,3,2,0,4,1
+2025-03-16,2024-2025,La Liga,Real Sociedad,Rayo Vallecano,Away,2,2,Draw,Jon Aramburu,Y,RB,90,0,0,0,0,0,0,1,2,0,2,1
+2025-03-29,2024-2025,La Liga,Real Sociedad,Valladolid,Home,2,1,Win,Jon Aramburu,N,N/A,18,0,0,0,0,0,0,1,0,0,0,0
+2025-04-06,2024-2025,La Liga,Real Sociedad,Las Palmas,Away,3,1,Win,Jon Aramburu,Y,RB,90,1,0,1,1,0,0,0,1,0,0,2
+2025-04-12,2024-2025,La Liga,Real Sociedad,Mallorca,Home,0,2,Loss,Jon Aramburu,Y,RB,90,0,0,0,0,0,0,6,3,0,2,3
+2025-04-20,2024-2025,La Liga,Real Sociedad,Villarreal,Away,2,2,Draw,Jon Aramburu,N,N/A,27,0,0,0,0,0,0,0,2,0,0,2
+2025-04-23,2024-2025,La Liga,Real Sociedad,Alavés,Away,0,1,Loss,Jon Aramburu,Y,RB,64,0,0,0,0,1,0,2,4,0,0,1
+2025-05-04,2024-2025,La Liga,Real Sociedad,Athletic Club,Home,0,0,Draw,Jon Aramburu,N,N/A,17,0,0,0,0,0,0,1,0,0,1,0
+2025-05-10,2024-2025,La Liga,Real Sociedad,Atlético Madrid,Away,0,4,Loss,Jon Aramburu,Y,RB,90,0,0,0,0,0,0,2,1,0,2,2
+2025-05-13,2024-2025,La Liga,Real Sociedad,Celta Vigo,Home,0,1,Loss,Jon Aramburu,N,N/A,30,0,0,0,0,0,0,0,1,0,2,0
+2025-05-18,2024-2025,La Liga,Real Sociedad,Girona,Home,3,2,Win,Jon Aramburu,N,N/A,26,0,0,0,0,0,0,0,0,0,1,1
+2025-05-24,2024-2025,La Liga,Real Sociedad,Real Madrid,Away,0,2,Loss,Jon Aramburu,Y,RB,90,0,0,0,0,0,0,1,1,0,1,2
