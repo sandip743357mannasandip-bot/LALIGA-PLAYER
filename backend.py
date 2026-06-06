@@ -39,31 +39,31 @@ SEASON_DATES = {
 # All La Liga teams hardcoded — always show in dropdown
 LALIGA_TEAMS = {
     "2024-2025": [
-        "Barcelona","Real Madrid","Atletico Madrid","Athletic Club","Villarreal",
+        "Barcelona","Real Madrid","Atlético Madrid","Athletic Club","Villarreal",
         "Real Betis","Celta Vigo","Rayo Vallecano","Osasuna","Mallorca",
         "Real Sociedad","Valencia","Getafe","Espanyol","Deportivo Alaves",
         "Girona","Sevilla","Leganes","Las Palmas","Valladolid"
     ],
     "2023-2024": [
-        "Real Madrid","Barcelona","Girona","Atletico Madrid","Athletic Club",
+        "Real Madrid","Barcelona","Girona","Atlético Madrid","Athletic Club",
         "Real Sociedad","Real Betis","Villarreal","Valencia","Deportivo Alaves",
         "Osasuna","Las Palmas","Getafe","Celta Vigo","Sevilla",
         "Cadiz","Mallorca","Granada","Almeria","Rayo Vallecano"
     ],
     "2022-2023": [
-        "Barcelona","Real Madrid","Atletico Madrid","Real Sociedad","Villarreal",
+        "Barcelona","Real Madrid","Atlético Madrid","Real Sociedad","Villarreal",
         "Real Betis","Osasuna","Athletic Club","Rayo Vallecano","Mallorca",
         "Girona","Cadiz","Almeria","Getafe","Espanyol",
         "Celta Vigo","Sevilla","Valencia","Valladolid","Elche"
     ],
     "2021-2022": [
-        "Real Madrid","Barcelona","Atletico Madrid","Sevilla","Real Betis",
+        "Real Madrid","Barcelona","Atlético Madrid","Sevilla","Real Betis",
         "Real Sociedad","Villarreal","Athletic Club","Valencia","Osasuna",
         "Celta Vigo","Rayo Vallecano","Elche","Getafe","Espanyol",
         "Deportivo Alaves","Levante","Mallorca","Granada","Cadiz"
     ],
     "2020-2021": [
-        "Atletico Madrid","Real Madrid","Barcelona","Sevilla","Real Sociedad",
+        "Atlético Madrid","Real Madrid","Barcelona","Sevilla","Real Sociedad",
         "Real Betis","Villarreal","Celta Vigo","Athletic Club","Cadiz",
         "Levante","Valencia","Osasuna","Granada","Deportivo Alaves",
         "Elche","Getafe","Huesca","Valladolid","Eibar"
