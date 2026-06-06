@@ -1,0 +1,192 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2016-08-26,2016-17,La Liga,Espanyol,Málaga,Home,2,2,D,Marc Roca,Y,CM,86,0,0,1,0,0,0,1,0,0,1,2
+2016-09-09,2016-17,La Liga,Espanyol,Real Sociedad,Away,1,1,D,Marc Roca,Y,CM,90,0,0,0,0,0,0,2,1,0,2,4
+2016-09-18,2016-17,La Liga,Espanyol,Real Madrid,Home,0,2,L,Marc Roca,Y,CM,82,0,0,0,0,0,0,2,0,0,3,1
+2016-09-22,2016-17,La Liga,Espanyol,Osasuna,Away,2,1,W,Marc Roca,N,CM,28,0,1,1,0,0,0,0,0,0,1,0
+2016-09-25,2016-17,La Liga,Espanyol,Celta Vigo,Home,0,2,L,Marc Roca,Y,CM,45,0,0,0,0,1,0,1,0,0,0,0
+2016-10-02,2016-17,La Liga,Espanyol,Villarreal,Home,0,0,D,Marc Roca,Y,CM,81,0,0,1,0,0,0,1,0,1,0,2
+2016-10-14,2016-17,La Liga,Espanyol,Las Palmas,Away,0,0,D,Marc Roca,Y,CM,90,0,0,1,1,1,0,3,1,0,1,0
+2016-10-22,2016-17,La Liga,Espanyol,Eibar,Home,3,3,D,Marc Roca,Y,CM,45,0,0,2,0,0,0,2,1,1,0,0
+2016-10-30,2016-17,La Liga,Espanyol,Real Betis,Away,1,0,W,Marc Roca,Y,CM,90,0,0,2,1,0,0,2,1,0,2,1
+2016-11-26,2016-17,La Liga,Espanyol,Leganés,Home,3,0,W,Marc Roca,N,CM,6,0,0,0,0,0,0,0,0,0,0,0
+2016-11-29,2016-17,Copa del Rey,Espanyol,Alcorcón,Away,1,1,D,Marc Roca,Y,CM,90,0,0,0,0,0,0,0,0,0,0,0
+2016-12-11,2016-17,La Liga,Espanyol,Sporting Gijón,Home,2,1,W,Marc Roca,N,CM,11,0,0,1,1,0,0,1,0,0,0,0
+2017-01-21,2016-17,La Liga,Espanyol,Granada,Home,3,1,W,Marc Roca,N,CM,16,0,0,0,0,0,0,1,0,0,1,0
+2017-01-29,2016-17,La Liga,Espanyol,Sevilla,Home,3,1,W,Marc Roca,N,CM,27,0,0,0,0,0,0,0,0,0,0,0
+2017-02-04,2016-17,La Liga,Espanyol,Málaga,Away,1,0,W,Marc Roca,N,CM,30,0,0,0,0,1,0,1,1,0,1,0
+2017-02-26,2016-17,La Liga,Espanyol,Osasuna,Home,3,0,W,Marc Roca,N,CM,27,0,0,0,0,0,0,1,0,0,0,1
+2017-03-04,2016-17,La Liga,Espanyol,Villarreal,Away,0,2,L,Marc Roca,Y,DM,83,0,0,0,0,0,0,0,0,0,2,1
+2017-03-10,2016-17,La Liga,Espanyol,Las Palmas,Home,4,3,W,Marc Roca,Y,CM,90,0,0,1,0,0,0,2,1,0,2,0
+2017-03-18,2016-17,La Liga,Espanyol,Eibar,Away,1,1,D,Marc Roca,N,CM,25,0,0,0,0,0,0,1,0,0,1,0
+2017-04-04,2016-17,La Liga,Espanyol,Athletic Club,Away,0,2,L,Marc Roca,Y,LM,44,0,0,0,0,0,0,1,0,0,2,0
+2017-04-08,2016-17,La Liga,Espanyol,Alavés,Home,1,0,W,Marc Roca,Y,CM,84,0,0,2,0,0,0,0,0,0,3,4
+2017-04-16,2016-17,La Liga,Espanyol,Leganés,Away,1,0,W,Marc Roca,Y,CM,90,0,0,1,0,0,0,4,1,2,3,0
+2017-04-29,2016-17,La Liga,Espanyol,Barcelona,Home,0,3,L,Marc Roca,N,CM,12,0,0,0,0,0,0,0,0,0,1,0
+2017-05-07,2016-17,La Liga,Espanyol,Deportivo La Coruña,Away,2,1,W,Marc Roca,N,CM,27,0,0,0,0,0,0,1,0,0,0,0
+2017-05-13,2016-17,La Liga,Espanyol,Valencia,Home,0,1,L,Marc Roca,N,CM,23,0,0,0,0,0,0,1,0,0,0,1
+2017-05-19,2016-17,La Liga,Espanyol,Granada,Away,2,1,W,Marc Roca,Y,CM,90,0,0,0,0,1,0,1,1,0,1,0
+2017-09-18,2017-18,La Liga,Espanyol,Celta Vigo,Home,2,1,W,Marc Roca,N,CM,16,0,0,1,0,0,0,0,0,0,1,0
+2017-09-24,2017-18,La Liga,Espanyol,Deportivo La Coruña,Home,4,1,W,Marc Roca,N,CM,21,0,0,0,0,0,0,0,0,0,2,1
+2017-10-01,2017-18,La Liga,Espanyol,Real Madrid,Away,0,2,L,Marc Roca,Y,CM,45,0,0,0,0,0,0,1,0,0,1,0
+2017-12-17,2017-18,La Liga,Espanyol,Las Palmas,Away,2,2,D,Marc Roca,N,CM,21,0,0,0,0,0,0,1,0,0,1,1
+2018-04-28,2017-18,La Liga,Espanyol,Las Palmas,Home,1,1,D,Marc Roca,N,CM,33,0,0,0,0,0,0,0,0,0,1,1
+2018-05-06,2017-18,La Liga,Espanyol,Atlético Madrid,Away,2,0,W,Marc Roca,N,CM,18,0,0,1,0,0,0,0,0,1,0,0
+2018-05-13,2017-18,La Liga,Espanyol,Málaga,Home,4,1,W,Marc Roca,N,CM,20,0,0,2,0,0,0,2,0,0,0,0
+2018-05-20,2017-18,La Liga,Espanyol,Athletic Club,Away,1,0,W,Marc Roca,Y,CM,90,0,0,0,0,0,0,2,0,0,3,0
+2018-08-18,2018-19,La Liga,Espanyol,Celta Vigo,Away,1,1,D,Marc Roca,Y,CM,90,0,0,0,0,1,0,2,0,0,2,2
+2018-08-26,2018-19,La Liga,Espanyol,Valencia,Home,2,0,W,Marc Roca,Y,DM,90,0,0,1,0,0,0,4,0,0,1,1
+2018-09-02,2018-19,La Liga,Espanyol,Alavés,Away,1,2,L,Marc Roca,Y,CM,82,0,0,1,1,0,0,0,2,0,1,0
+2018-09-16,2018-19,La Liga,Espanyol,Levante,Home,1,0,W,Marc Roca,Y,CM,90,0,0,1,0,0,0,3,0,0,2,1
+2018-09-22,2018-19,La Liga,Espanyol,Real Madrid,Away,0,1,L,Marc Roca,Y,DM,90,0,0,1,1,1,0,2,1,0,0,2
+2018-09-25,2018-19,La Liga,Espanyol,Eibar,Home,1,0,W,Marc Roca,Y,CM,90,0,0,0,0,0,0,1,1,0,1,4
+2018-09-28,2018-19,La Liga,Espanyol,Rayo Vallecano,Away,2,2,D,Marc Roca,Y,DM,86,0,0,0,0,1,0,1,0,0,1,1
+2018-10-07,2018-19,La Liga,Espanyol,Villarreal,Home,3,1,W,Marc Roca,Y,CM,90,0,0,1,0,0,0,1,0,0,4,0
+2018-10-21,2018-19,La Liga,Espanyol,Huesca,Away,2,0,W,Marc Roca,Y,CM,90,0,0,1,0,0,0,2,1,0,2,0
+2018-10-26,2018-19,La Liga,Espanyol,Valladolid,Away,1,1,D,Marc Roca,Y,CM,90,0,0,1,1,0,0,1,2,0,2,1
+2018-11-05,2018-19,La Liga,Espanyol,Athletic Club,Home,1,0,W,Marc Roca,Y,CM,90,0,0,0,0,0,0,1,1,0,1,1
+2018-11-11,2018-19,La Liga,Espanyol,Sevilla,Away,1,2,L,Marc Roca,Y,CM,90,0,0,1,0,0,0,1,1,0,1,2
+2018-11-25,2018-19,La Liga,Espanyol,Girona,Home,1,3,L,Marc Roca,Y,CM,90,0,0,3,2,0,0,2,2,0,2,1
+2018-12-08,2018-19,La Liga,Espanyol,Barcelona,Home,0,4,L,Marc Roca,Y,DM,90,0,0,1,1,0,0,2,0,2,1,1
+2018-12-16,2018-19,La Liga,Espanyol,Real Betis,Home,1,3,L,Marc Roca,Y,CM,90,0,0,1,0,0,0,2,0,0,2,0
+2019-01-04,2018-19,La Liga,Espanyol,Leganés,Home,1,0,W,Marc Roca,Y,DM,90,0,0,0,0,1,0,4,0,0,2,1
+2019-01-14,2018-19,La Liga,Espanyol,Real Sociedad,Away,2,3,L,Marc Roca,Y,DM,90,0,0,1,0,0,0,0,0,0,1,0
+2019-01-21,2018-19,La Liga,Espanyol,Eibar,Away,0,3,L,Marc Roca,Y,CM,90,0,0,0,0,0,0,0,2,0,1,0
+2019-01-27,2018-19,La Liga,Espanyol,Real Madrid,Home,2,4,L,Marc Roca,Y,CM,90,0,1,0,0,1,0,1,1,0,0,2
+2019-02-09,2018-19,La Liga,Espanyol,Rayo Vallecano,Home,2,1,W,Marc Roca,Y,CM,90,0,0,0,0,0,0,1,0,2,1,0
+2019-02-17,2018-19,La Liga,Espanyol,Valencia,Away,0,0,D,Marc Roca,Y,DM,90,0,0,0,0,1,0,1,2,0,0,2
+2019-02-22,2018-19,La Liga,Espanyol,Huesca,Home,1,1,D,Marc Roca,Y,DM,77,0,0,0,0,0,0,1,0,1,1,1
+2019-03-02,2018-19,La Liga,Espanyol,Valladolid,Home,3,1,W,Marc Roca,Y,CM,90,0,0,0,0,0,0,2,0,0,0,1
+2019-03-08,2018-19,La Liga,Espanyol,Athletic Club,Away,1,1,D,Marc Roca,Y,DM,90,0,0,0,0,0,0,1,1,0,2,1
+2019-03-17,2018-19,La Liga,Espanyol,Sevilla,Home,0,1,L,Marc Roca,Y,DM,90,0,0,0,0,0,0,1,1,0,3,2
+2019-03-30,2018-19,La Liga,Espanyol,Barcelona,Away,0,2,L,Marc Roca,Y,CM,90,0,0,0,0,0,0,1,0,0,2,3
+2019-04-02,2018-19,La Liga,Espanyol,Getafe,Home,1,1,D,Marc Roca,Y,CM,77,0,0,0,0,0,0,0,1,0,0,0
+2019-04-06,2018-19,La Liga,Espanyol,Girona,Away,2,1,W,Marc Roca,Y,CM,90,0,0,2,0,0,0,5,0,0,2,2
+2019-04-13,2018-19,La Liga,Espanyol,Alavés,Home,2,1,W,Marc Roca,Y,CM,90,0,0,1,0,1,0,1,2,0,0,0
+2019-04-21,2018-19,La Liga,Espanyol,Levante,Away,2,2,D,Marc Roca,Y,CM,90,1,0,1,1,0,0,4,0,0,2,2
+2019-04-24,2018-19,La Liga,Espanyol,Celta Vigo,Home,1,1,D,Marc Roca,Y,CM,90,0,1,1,1,1,0,3,0,0,0,0
+2019-04-29,2018-19,La Liga,Espanyol,Real Betis,Away,1,1,D,Marc Roca,Y,CM,90,0,0,1,1,0,0,5,2,0,1,0
+2019-05-04,2018-19,La Liga,Espanyol,Atlético Madrid,Home,3,0,W,Marc Roca,Y,CM,90,0,0,0,0,1,0,1,2,0,0,1
+2019-05-12,2018-19,La Liga,Espanyol,Leganés,Away,2,0,W,Marc Roca,Y,DM,90,0,0,3,0,0,0,2,1,0,3,1
+2019-05-18,2018-19,La Liga,Espanyol,Real Sociedad,Home,2,0,W,Marc Roca,Y,CM,90,0,0,0,0,0,0,1,0,0,1,0
+2019-08-18,2019-20,La Liga,Espanyol,Sevilla,Home,0,2,L,Marc Roca,Y,CM,90,0,0,0,0,0,0,1,0,0,0,3
+2019-08-25,2019-20,La Liga,Espanyol,Alavés,Away,0,0,D,Marc Roca,Y,CM,90,0,0,0,0,0,0,4,2,0,0,4
+2019-09-01,2019-20,La Liga,Espanyol,Granada,Home,0,3,L,Marc Roca,Y,DM,90,0,0,2,1,0,0,0,1,0,0,3
+2019-09-15,2019-20,La Liga,Espanyol,Eibar,Away,2,1,W,Marc Roca,Y,CM,66,0,0,0,0,1,0,2,1,0,0,2
+2019-09-22,2019-20,La Liga,Espanyol,Real Sociedad,Home,1,3,L,Marc Roca,Y,CM,79,0,0,1,0,0,0,1,0,0,3,1
+2019-09-26,2019-20,La Liga,Espanyol,Celta Vigo,Away,1,1,D,Marc Roca,Y,CM,86,0,0,1,0,0,0,2,0,0,3,0
+2019-09-29,2019-20,La Liga,Espanyol,Valladolid,Home,0,2,L,Marc Roca,Y,DM,90,0,0,1,0,0,0,2,1,1,2,0
+2019-10-06,2019-20,La Liga,Espanyol,Mallorca,Away,0,2,L,Marc Roca,Y,DM,77,0,0,0,0,0,0,2,1,0,2,2
+2019-10-20,2019-20,La Liga,Espanyol,Villarreal,Home,0,1,L,Marc Roca,Y,DM,90,0,0,4,0,0,0,3,0,1,2,1
+2019-10-27,2019-20,La Liga,Espanyol,Levante,Away,1,0,W,Marc Roca,Y,DM,90,0,0,2,0,0,0,4,0,1,0,3
+2019-10-30,2019-20,La Liga,Espanyol,Athletic Club,Away,0,3,L,Marc Roca,Y,CM,62,0,0,0,0,0,0,3,1,1,0,2
+2019-11-02,2019-20,La Liga,Espanyol,Valencia,Home,1,2,L,Marc Roca,Y,CM,90,1,1,2,1,0,0,1,0,1,1,0
+2019-11-10,2019-20,La Liga,Espanyol,Atlético Madrid,Away,1,3,L,Marc Roca,Y,DM,90,0,0,4,0,0,0,1,0,0,1,2
+2019-11-24,2019-20,La Liga,Espanyol,Getafe,Home,1,1,D,Marc Roca,Y,DM,90,0,0,1,0,1,0,3,0,0,1,1
+2019-12-01,2019-20,La Liga,Espanyol,Osasuna,Home,2,4,L,Marc Roca,Y,DM,90,1,1,1,1,0,0,1,2,2,1,1
+2019-12-07,2019-20,La Liga,Espanyol,Real Madrid,Away,0,2,L,Marc Roca,Y,DM,90,0,0,1,1,0,0,3,0,0,0,1
+2019-12-15,2019-20,La Liga,Espanyol,Real Betis,Home,2,2,D,Marc Roca,Y,DM,90,0,0,1,0,0,0,3,1,5,3,1
+2019-12-22,2019-20,La Liga,Espanyol,Leganés,Away,0,2,L,Marc Roca,Y,DM,83,0,0,0,0,1,0,2,1,6,1,0
+2020-01-04,2019-20,La Liga,Espanyol,Barcelona,Home,2,2,D,Marc Roca,Y,CM,90,0,1,0,0,1,0,3,0,6,4,1
+2020-01-19,2019-20,La Liga,Espanyol,Villarreal,Away,2,1,W,Marc Roca,Y,CM,90,0,0,1,0,0,0,2,2,1,0,0
+2020-01-25,2019-20,La Liga,Espanyol,Athletic Club,Home,1,1,D,Marc Roca,Y,CM,90,0,0,0,0,1,0,2,2,5,0,0
+2020-02-09,2019-20,La Liga,Espanyol,Mallorca,Home,1,0,W,Marc Roca,Y,CM,90,0,0,1,0,0,0,6,0,3,4,0
+2020-02-16,2019-20,La Liga,Espanyol,Sevilla,Away,2,2,D,Marc Roca,Y,DM,90,0,0,1,0,1,0,1,1,2,1,0
+2020-02-23,2019-20,La Liga,Espanyol,Valladolid,Away,1,2,L,Marc Roca,Y,DM,84,0,0,0,0,1,0,2,0,1,1,0
+2020-06-13,2019-20,La Liga,Espanyol,Alavés,Home,2,0,W,Marc Roca,Y,CM,90,0,0,2,1,0,0,1,1,4,3,0
+2020-06-16,2019-20,La Liga,Espanyol,Getafe,Away,0,0,D,Marc Roca,Y,CM,90,0,0,0,0,0,0,2,2,1,1,1
+2020-06-20,2019-20,La Liga,Espanyol,Levante,Home,1,3,L,Marc Roca,Y,CM,90,0,0,0,0,0,0,1,1,1,3,1
+2020-06-25,2019-20,La Liga,Espanyol,Real Betis,Away,0,1,L,Marc Roca,Y,CM,90,0,0,0,0,0,0,6,0,3,3,1
+2020-06-28,2019-20,La Liga,Espanyol,Real Madrid,Home,0,1,L,Marc Roca,Y,DM,90,0,0,0,0,0,0,4,1,2,1,1
+2020-07-02,2019-20,La Liga,Espanyol,Real Sociedad,Away,1,2,L,Marc Roca,Y,DM,90,0,0,0,0,0,0,3,0,1,0,1
+2020-07-05,2019-20,La Liga,Espanyol,Leganés,Home,0,1,L,Marc Roca,Y,CM,90,0,0,1,0,0,0,2,2,1,3,1
+2020-07-08,2019-20,La Liga,Espanyol,Barcelona,Away,0,1,L,Marc Roca,Y,CM,85,0,0,2,0,0,0,2,0,3,0,1
+2020-07-12,2019-20,La Liga,Espanyol,Eibar,Home,0,2,L,Marc Roca,Y,CM,84,0,0,2,0,1,0,2,0,2,0,0
+2020-07-16,2019-20,La Liga,Espanyol,Valencia,Away,0,1,L,Marc Roca,Y,CM,63,0,0,1,0,0,0,1,0,1,0,1
+2020-07-19,2019-20,La Liga,Espanyol,Celta Vigo,Home,0,0,D,Marc Roca,Y,DM,79,0,0,0,0,0,0,0,0,2,4,0
+2020-10-31,2020-21,Bundesliga,Bayern Munich,Köln,Away,2,1,W,Marc Roca,N,DM,1,0,0,0,0,0,0,0,0,0,0,0
+2020-12-16,2020-21,Bundesliga,Bayern Munich,Wolfsburg,Home,2,1,W,Marc Roca,N,DM,21,0,0,0,0,0,0,2,0,0,0,1
+2021-01-30,2020-21,Bundesliga,Bayern Munich,Hoffenheim,Home,4,1,W,Marc Roca,Y,DM,68,0,0,2,0,1,0,1,0,1,1,1
+2021-02-20,2020-21,Bundesliga,Bayern Munich,Eintracht Frankfurt,Away,1,2,L,Marc Roca,Y,DM,45,0,0,0,0,0,0,0,1,0,1,1
+2021-03-13,2020-21,Bundesliga,Bayern Munich,Werder Bremen,Away,3,1,W,Marc Roca,N,DM,12,0,0,1,0,0,0,0,0,0,1,0
+2021-05-15,2020-21,Bundesliga,Bayern Munich,Freiburg,Away,2,2,D,Marc Roca,N,DM,30,0,0,0,0,0,0,3,0,0,0,0
+2021-12-11,2021-22,Bundesliga,Bayern Munich,Mainz 05,Home,2,1,W,Marc Roca,N,DM,26,0,0,0,0,0,0,0,1,0,0,1
+2021-12-14,2021-22,Bundesliga,Bayern Munich,Stuttgart,Away,5,0,W,Marc Roca,Y,DM,74,0,0,0,0,0,0,1,0,0,2,2
+2021-12-17,2021-22,Bundesliga,Bayern Munich,Wolfsburg,Home,4,0,W,Marc Roca,Y,DM,74,0,0,2,0,0,0,3,0,0,1,1
+2022-01-07,2021-22,Bundesliga,Bayern Munich,Borussia Mönchengladbach,Home,1,2,L,Marc Roca,Y,DM,74,0,0,1,0,0,0,1,2,0,2,1
+2022-01-15,2021-22,Bundesliga,Bayern Munich,Köln,Away,4,0,W,Marc Roca,Y,DM,82,0,0,1,0,0,0,3,0,5,0,1
+2022-02-20,2021-22,Bundesliga,Bayern Munich,Greuther Fürth,Home,4,1,W,Marc Roca,N,DM,5,0,0,0,0,0,0,1,0,0,0,0
+2022-02-26,2021-22,Bundesliga,Bayern Munich,Eintracht Frankfurt,Away,1,0,W,Marc Roca,N,DM,9,0,0,0,0,0,0,0,0,0,1,0
+2022-03-19,2021-22,Bundesliga,Bayern Munich,Union Berlin,Home,4,0,W,Marc Roca,N,DM,16,0,0,1,0,0,0,0,0,0,0,0
+2022-05-08,2021-22,Bundesliga,Bayern Munich,Stuttgart,Home,2,2,D,Marc Roca,N,DM,19,0,0,0,0,0,0,1,1,0,1,0
+2022-08-06,2022-23,Premier League,Leeds United,Wolves,Home,2,1,W,Marc Roca,Y,DM,72,0,0,1,1,0,0,1,1,1,1,2
+2022-08-13,2022-23,Premier League,Leeds United,Southampton,Away,2,2,D,Marc Roca,Y,DM,87,0,0,0,0,0,0,2,1,0,3,1
+2022-08-21,2022-23,Premier League,Leeds United,Chelsea,Home,3,0,W,Marc Roca,Y,DM,60,0,0,0,0,0,0,1,3,0,2,0
+2022-08-27,2022-23,Premier League,Leeds United,Brighton,Away,0,1,L,Marc Roca,Y,DM,58,0,0,0,0,1,0,1,0,0,1,1
+2022-08-30,2022-23,Premier League,Leeds United,Everton,Home,1,1,D,Marc Roca,Y,DM,90,0,0,0,0,0,0,1,0,3,1,3
+2022-09-03,2022-23,Premier League,Leeds United,Brentford,Home,2,5,L,Marc Roca,Y,DM,85,1,0,6,3,0,0,0,0,3,0,0
+2022-10-02,2022-23,Premier League,Leeds United,Aston Villa,Home,0,0,D,Marc Roca,Y,DM,57,0,0,0,0,1,0,1,1,0,2,0
+2022-10-09,2022-23,Premier League,Leeds United,Crystal Palace,Away,1,2,L,Marc Roca,Y,DM,83,0,0,1,0,0,0,2,1,2,0,2
+2022-10-16,2022-23,Premier League,Leeds United,Arsenal,Home,0,1,L,Marc Roca,Y,DM,83,0,0,1,0,0,0,0,0,5,4,0
+2022-10-20,2022-23,Premier League,Leeds United,Leicester City,Away,0,2,L,Marc Roca,Y,DM,45,0,0,0,0,0,0,0,0,1,1,0
+2022-10-23,2022-23,Premier League,Leeds United,Fulham,Home,2,3,L,Marc Roca,Y,DM,90,0,0,2,0,0,0,2,0,1,2,2
+2022-10-29,2022-23,Premier League,Leeds United,Liverpool,Away,2,1,W,Marc Roca,Y,DM,90,0,0,1,1,0,0,2,1,3,1,3
+2022-11-05,2022-23,Premier League,Leeds United,Bournemouth,Home,4,3,W,Marc Roca,Y,DM,53,0,0,1,0,0,0,0,0,3,1,0
+2022-11-12,2022-23,Premier League,Leeds United,Tottenham Hotspur,Away,3,4,L,Marc Roca,Y,DM,78,0,1,1,1,1,0,1,0,1,0,0
+2022-12-28,2022-23,Premier League,Leeds United,Manchester City,Home,1,3,L,Marc Roca,Y,CM,90,0,0,0,0,1,0,2,2,3,0,0
+2022-12-31,2022-23,Premier League,Leeds United,Newcastle United,Away,0,0,D,Marc Roca,N,DM,45,0,0,0,0,1,0,1,1,0,4,1
+2023-01-04,2022-23,Premier League,Leeds United,West Ham United,Home,2,2,D,Marc Roca,Y,DM,77,0,0,0,0,0,0,0,2,3,0,1
+2023-01-13,2022-23,Premier League,Leeds United,Aston Villa,Away,1,2,L,Marc Roca,Y,DM,76,0,0,1,0,0,0,1,1,4,2,2
+2023-01-22,2022-23,Premier League,Leeds United,Brentford,Home,0,0,D,Marc Roca,Y,DM,86,0,0,0,0,0,0,2,1,2,1,0
+2023-02-05,2022-23,Premier League,Leeds United,Nottingham Forest,Away,0,1,L,Marc Roca,Y,DM,56,0,0,0,0,0,0,0,0,3,1,1
+2023-02-25,2022-23,Premier League,Leeds United,Southampton,Home,1,0,W,Marc Roca,N,DM,5,0,0,1,0,0,0,0,0,0,0,0
+2023-03-11,2022-23,Premier League,Leeds United,Brighton,Home,2,2,D,Marc Roca,Y,DM,65,0,0,3,0,0,0,2,0,0,1,2
+2023-03-18,2022-23,Premier League,Leeds United,Wolves,Away,4,2,W,Marc Roca,Y,DM,90,0,1,2,0,1,0,3,1,4,1,0
+2023-04-01,2022-23,Premier League,Leeds United,Arsenal,Away,1,4,L,Marc Roca,Y,CM,90,0,0,0,0,0,0,0,3,0,5,4
+2023-04-04,2022-23,Premier League,Leeds United,Nottingham Forest,Home,2,1,W,Marc Roca,Y,DM,90,0,0,3,1,0,0,2,2,0,9,2
+2023-04-09,2022-23,Premier League,Leeds United,Crystal Palace,Home,1,5,L,Marc Roca,Y,DM,90,0,0,0,0,0,0,2,0,0,2,1
+2023-04-17,2022-23,Premier League,Leeds United,Liverpool,Home,1,6,L,Marc Roca,Y,DM,90,0,0,2,1,0,0,2,4,0,4,2
+2023-04-22,2022-23,Premier League,Leeds United,Fulham,Away,1,2,L,Marc Roca,Y,DM,90,0,0,3,2,1,0,4,0,0,9,1
+2023-04-25,2022-23,Premier League,Leeds United,Leicester City,Home,1,1,D,Marc Roca,Y,DM,90,0,0,2,1,1,0,2,2,0,2,1
+2023-04-30,2022-23,Premier League,Leeds United,Bournemouth,Away,1,4,L,Marc Roca,Y,CM,90,0,0,4,2,0,0,2,1,0,2,0
+2023-05-06,2022-23,Premier League,Leeds United,Manchester City,Away,1,2,L,Marc Roca,Y,DM,57,0,0,0,0,0,0,1,1,0,1,0
+2023-05-21,2022-23,Premier League,Leeds United,West Ham United,Away,1,3,L,Marc Roca,N,DM,7,0,0,0,0,0,0,0,0,0,1,0
+2023-08-13,2023-24,La Liga,Real Betis,Villarreal,Away,2,1,W,Marc Roca,Y,DM,90,0,0,0,0,0,2,0,0,0,3,4
+2023-08-20,2023-24,La Liga,Real Betis,Atlético Madrid,Home,0,0,D,Marc Roca,Y,DM,90,0,0,0,0,0,2,0,0,1,1,1
+2023-08-27,2023-24,La Liga,Real Betis,Athletic Club,Away,2,4,L,Marc Roca,Y,DM,73,0,0,1,0,0,3,1,0,0,0,1
+2023-09-02,2023-24,La Liga,Real Betis,Rayo Vallecano,Home,1,0,W,Marc Roca,Y,DM,90,0,0,0,0,1,3,0,0,0,1,1
+2023-09-16,2023-24,La Liga,Real Betis,Barcelona,Away,0,5,L,Marc Roca,Y,DM,65,0,0,0,0,0,4,1,0,2,0,0
+2023-09-24,2023-24,La Liga,Real Betis,Cádiz,Home,1,1,D,Marc Roca,Y,DM,60,0,0,1,1,0,0,0,0,1,3,0
+2023-09-28,2023-24,La Liga,Real Betis,Granada,Away,1,1,D,Marc Roca,N,DM,10,0,0,0,0,0,0,0,1,0,0,1
+2023-10-01,2023-24,La Liga,Real Betis,Valencia,Home,3,0,W,Marc Roca,Y,DM,90,1,1,3,2,0,4,1,0,1,1,0
+2023-10-08,2023-24,La Liga,Real Betis,Alavés,Away,1,1,D,Marc Roca,Y,DM,75,0,0,0,0,0,0,0,0,0,2,0
+2023-10-21,2023-24,La Liga,Real Betis,Getafe,Away,1,1,D,Marc Roca,Y,DM,90,1,0,1,1,0,1,0,0,1,2,0
+2023-10-29,2023-24,La Liga,Real Betis,Osasuna,Home,2,1,W,Marc Roca,Y,DM,86,0,0,2,0,0,1,1,0,1,1,0
+2023-11-04,2023-24,La Liga,Real Betis,Mallorca,Home,2,0,W,Marc Roca,Y,DM,90,0,0,3,0,0,2,2,0,1,1,0
+2023-11-12,2023-24,La Liga,Real Betis,Sevilla,Away,1,1,D,Marc Roca,Y,DM,90,0,0,0,0,0,3,1,0,0,1,0
+2023-12-03,2023-24,La Liga,Real Betis,Almería,Away,0,0,D,Marc Roca,Y,CM,90,0,0,0,0,1,3,2,0,2,0,3
+2023-12-09,2023-24,La Liga,Real Betis,Real Madrid,Home,1,1,D,Marc Roca,Y,DM,90,0,0,1,1,0,3,0,1,2,2,1
+2023-12-17,2023-24,La Liga,Real Betis,Real Sociedad,Away,0,0,D,Marc Roca,Y,DM,90,0,0,1,1,1,3,0,0,1,1,0
+2023-12-21,2023-24,La Liga,Real Betis,Girona,Home,1,1,D,Marc Roca,Y,DM,65,0,0,1,0,1,2,0,0,2,3,2
+2024-01-03,2023-24,La Liga,Real Betis,Celta Vigo,Away,1,2,L,Marc Roca,Y,DM,90,0,0,0,0,0,1,1,0,3,1,0
+2024-01-13,2023-24,La Liga,Real Betis,Granada,Home,1,0,W,Marc Roca,Y,DM,90,0,1,2,1,0,2,1,0,1,2,0
+2024-01-21,2023-24,La Liga,Real Betis,Barcelona,Home,2,4,L,Marc Roca,Y,DM,90,0,0,2,0,0,1,1,0,1,0,0
+2024-02-09,2023-24,La Liga,Real Betis,Cádiz,Away,2,0,W,Marc Roca,Y,DM,89,0,0,2,0,0,2,1,0,0,4,1
+2024-02-18,2023-24,La Liga,Real Betis,Alavés,Home,0,0,D,Marc Roca,Y,DM,65,0,0,0,0,1,1,0,0,0,2,1
+2024-03-03,2023-24,La Liga,Real Betis,Atlético Madrid,Away,1,2,L,Marc Roca,Y,DM,45,0,0,0,0,0,2,1,0,1,2,0
+2024-03-10,2023-24,La Liga,Real Betis,Villarreal,Home,2,3,L,Marc Roca,N,DM,13,0,0,0,0,0,1,0,0,0,2,0
+2024-05-16,2023-24,La Liga,Real Betis,Las Palmas,Away,2,2,D,Marc Roca,Y,DM,74,0,0,0,0,0,1,0,0,1,2,1
+2024-05-25,2023-24,La Liga,Real Betis,Real Madrid,Away,0,0,D,Marc Roca,Y,DM,90,0,0,0,0,0,1,0,1,3,0,0
+2024-08-15,2024-25,La Liga,Real Betis,Girona,Home,1,1,D,Marc Roca,Y,DM,76,0,0,0,0,0,0,0,0,0,0,1
+2024-08-25,2024-25,La Liga,Real Betis,Alavés,Away,0,0,D,Marc Roca,Y,DM,90,0,0,0,0,1,0,2,2,1,2,1
+2024-09-01,2024-25,La Liga,Real Betis,Real Madrid,Away,0,2,L,Marc Roca,Y,DM,90,0,0,1,0,0,0,2,0,0,1,2
+2024-09-13,2024-25,La Liga,Real Betis,Leganés,Home,2,0,W,Marc Roca,Y,DM,90,0,0,1,0,0,0,1,0,2,0,1
+2024-09-18,2024-25,La Liga,Real Betis,Getafe,Home,2,1,W,Marc Roca,Y,DM,90,0,1,0,0,0,0,2,0,2,2,2
+2024-09-23,2024-25,La Liga,Real Betis,Mallorca,Home,1,2,L,Marc Roca,Y,DM,90,0,0,2,0,0,0,1,1,2,1,0
+2024-09-26,2024-25,La Liga,Real Betis,Las Palmas,Away,1,1,D,Marc Roca,Y,DM,63,0,0,2,0,1,0,4,1,0,0,1
+2024-09-29,2024-25,La Liga,Real Betis,Espanyol,Home,1,0,W,Marc Roca,Y,DM,77,0,0,2,0,1,0,3,0,0,1,1
+2024-10-06,2024-25,La Liga,Real Betis,Sevilla,Away,0,1,L,Marc Roca,Y,DM,63,0,0,0,0,1,0,0,0,0,0,0
+2025-01-18,2024-25,La Liga,Real Betis,Alavés,Home,1,3,L,Marc Roca,N,DM,20,0,0,0,0,0,0,1,0,0,1,0
+2025-01-25,2024-25,La Liga,Real Betis,Mallorca,Away,1,0,W,Marc Roca,Y,DM,45,0,0,1,1,0,0,0,0,1,1,2
+2025-02-02,2024-25,La Liga,Real Betis,Athletic Club,Home,2,2,D,Marc Roca,N,DM,10,0,0,0,0,1,0,1,0,0,1,1
+2025-02-08,2024-25,La Liga,Real Betis,Celta Vigo,Away,2,3,L,Marc Roca,Y,DM,57,0,1,1,1,0,0,0,0,1,2,2
+2025-02-16,2024-25,La Liga,Real Betis,Real Sociedad,Home,3,0,W,Marc Roca,N,DM,45,2,0,2,2,0,0,0,0,1,2,0
