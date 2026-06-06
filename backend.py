@@ -162,7 +162,16 @@ def clean_player_name(filepath):
 
 def normalize(name):
     import unicodedata
-    name = unicodedata.normalize("NFKD", str(name))
+    # Extra replacements for characters NFKD does not decompose
+    extra = {
+        "ø":"o","Ø":"O","ð":"d","Ð":"D","þ":"th","æ":"ae",
+        "Æ":"AE","ł":"l","Ł":"L","ß":"ss","đ":"d","ħ":"h",
+        "ĸ":"k","ŋ":"n","ŧ":"t","ı":"i",
+    }
+    name = str(name)
+    for char, repl in extra.items():
+        name = name.replace(char, repl)
+    name = unicodedata.normalize("NFKD", name)
     return "".join(c for c in name if not unicodedata.combining(c)).lower().strip()
 
 def safe_col(df, col):
