@@ -1,0 +1,43 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2018-11-10,2018-2019,La Liga,Leganés,Girona,Away,0,0,D,Andriy Lunin,N,GK,5,0,0,0,0,0,0,0,1,0,0,0
+2018-11-23,2018-2019,La Liga,Leganés,Alavés,Home,1,0,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2019-03-09,2018-2019,La Liga,Leganés,Atlético Madrid,Away,0,1,L,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2019-05-12,2018-2019,La Liga,Leganés,Espanyol,Home,0,2,L,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2019-05-18,2018-2019,La Liga,Leganés,Huesca,Away,1,2,L,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2022-05-08,2021-2022,La Liga,Real Madrid,Atlético Madrid,Away,0,1,L,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,1,0,0,0
+2022-05-15,2021-2022,La Liga,Real Madrid,Cádiz,Away,1,1,D,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,1,0,0,0,0
+2022-10-02,2022-2023,La Liga,Real Madrid,Osasuna,Home,1,1,D,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2022-10-08,2022-2023,La Liga,Real Madrid,Getafe,Away,1,0,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2022-10-16,2022-2023,La Liga,Real Madrid,Barcelona,Home,3,1,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2022-10-19,2022-2023,La Liga,Real Madrid,Elche,Away,3,0,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2023-02-05,2022-2023,La Liga,Real Madrid,Mallorca,Away,0,1,L,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2023-02-15,2022-2023,La Liga,Real Madrid,Elche,Home,4,0,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2023-04-25,2022-2023,La Liga,Real Madrid,Girona,Away,2,4,L,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2023-08-12,2023-2024,La Liga,Real Madrid,Athletic Club,Away,2,0,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2023-08-19,2023-2024,La Liga,Real Madrid,Almería,Away,3,1,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2023-11-11,2023-2024,La Liga,Real Madrid,Valencia,Home,5,1,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2023-11-26,2023-2024,La Liga,Real Madrid,Cádiz,Away,3,0,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2023-12-02,2023-2024,La Liga,Real Madrid,Granada,Home,2,0,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2023-12-09,2023-2024,La Liga,Real Madrid,Real Betis,Away,1,1,D,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2023-12-17,2023-2024,La Liga,Real Madrid,Villarreal,Home,4,1,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2024-01-03,2023-2024,La Liga,Real Madrid,Mallorca,Home,1,0,W,Andriy Lunin,Y,GK,90,0,0,0,0,1,0,0,1,0,0,0
+2024-01-27,2023-2024,La Liga,Real Madrid,Las Palmas,Away,2,1,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2024-02-01,2023-2024,La Liga,Real Madrid,Getafe,Away,2,0,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2024-02-04,2023-2024,La Liga,Real Madrid,Atlético Madrid,Home,1,1,D,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2024-02-10,2023-2024,La Liga,Real Madrid,Girona,Home,4,0,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2024-02-18,2023-2024,La Liga,Real Madrid,Rayo Vallecano,Away,1,1,D,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2024-02-25,2023-2024,La Liga,Real Madrid,Sevilla,Home,1,0,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,1,0,0,0
+2024-03-02,2023-2024,La Liga,Real Madrid,Valencia,Away,2,2,D,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2024-03-10,2023-2024,La Liga,Real Madrid,Celta Vigo,Home,4,0,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2024-03-16,2023-2024,La Liga,Real Madrid,Osasuna,Away,4,2,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2024-03-31,2023-2024,La Liga,Real Madrid,Athletic Club,Home,2,0,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,1,0,0,0
+2024-04-13,2023-2024,La Liga,Real Madrid,Mallorca,Away,1,0,W,Andriy Lunin,Y,GK,90,0,0,0,0,1,0,0,0,0,0,0
+2024-04-21,2023-2024,La Liga,Real Madrid,Barcelona,Home,3,2,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2024-05-19,2023-2024,La Liga,Real Madrid,Villarreal,Away,4,4,D,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2024-10-05,2024-2025,La Liga,Real Madrid,Villarreal,Home,2,0,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,1,0,0,0
+2024-10-26,2024-2025,La Liga,Real Madrid,Barcelona,Home,0,4,L,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2024-11-09,2024-2025,La Liga,Real Madrid,Osasuna,Home,4,0,W,Andriy Lunin,Y,GK,90,0,1,0,0,0,0,0,0,0,0,0
+2025-03-09,2024-2025,La Liga,Real Madrid,Rayo Vallecano,Home,2,1,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2025-03-29,2024-2025,La Liga,Real Madrid,Leganés,Home,3,2,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2025-05-18,2024-2025,La Liga,Real Madrid,Sevilla,Away,2,0,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
+2025-05-24,2024-2025,La Liga,Real Madrid,Real Sociedad,Home,2,0,W,Andriy Lunin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0
