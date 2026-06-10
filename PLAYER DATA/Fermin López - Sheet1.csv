@@ -1,0 +1,60 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2023-08-27,2023-2024,La Liga,Barcelona,Villarreal,Away,4,3,W,Fermín López,N,N/A,5,0,0,1,1,0,0,1,0,0,0,0
+2023-09-26,2023-2024,La Liga,Barcelona,Mallorca,Away,2,2,D,Fermín López,N,N/A,27,1,0,1,1,0,0,0,0,0,0,0
+2023-09-29,2023-2024,La Liga,Barcelona,Sevilla,Home,1,0,W,Fermín López,N,N/A,54,0,0,1,1,0,0,3,2,1,0,0
+2023-10-08,2023-2024,La Liga,Barcelona,Granada,Away,2,2,D,Fermín López,Y,CM,60,0,0,2,2,0,0,3,0,0,1,0
+2023-10-22,2023-2024,La Liga,Barcelona,Athletic Club,Home,1,0,W,Fermín López,Y,FW,78,0,0,3,2,0,0,1,1,1,0,0
+2023-10-28,2023-2024,La Liga,Barcelona,Real Madrid,Home,1,2,L,Fermín López,Y,AM,71,0,0,2,0,1,0,2,1,0,1,0
+2023-11-04,2023-2024,La Liga,Barcelona,Real Sociedad,Away,1,0,W,Fermín López,Y,AM,56,0,0,2,1,0,0,0,2,0,1,0
+2023-11-12,2023-2024,La Liga,Barcelona,Alavés,Home,2,1,W,Fermín López,Y,AM,62,0,0,1,0,0,0,1,0,0,0,0
+2023-11-25,2023-2024,La Liga,Barcelona,Rayo Vallecano,Away,1,1,D,Fermín López,N,N/A,16,0,0,0,0,0,0,0,0,0,0,0
+2023-12-03,2023-2024,La Liga,Barcelona,Atlético Madrid,Home,1,0,W,Fermín López,N,N/A,2,0,0,0,0,0,0,0,0,0,0,0
+2023-12-10,2023-2024,La Liga,Barcelona,Girona,Home,2,4,L,Fermín López,N,N/A,11,0,0,3,0,0,0,1,0,0,0,0
+2023-12-20,2023-2024,La Liga,Barcelona,Almería,Home,3,2,W,Fermín López,Y,CM,66,0,0,1,0,0,0,4,1,0,0,0
+2024-01-04,2023-2024,La Liga,Barcelona,Las Palmas,Away,2,1,W,Fermín López,N,N/A,13,0,0,0,0,0,0,0,0,0,1,0
+2024-01-21,2023-2024,La Liga,Barcelona,Real Betis,Away,4,2,W,Fermín López,N,N/A,20,0,0,0,0,0,0,1,0,0,2,0
+2024-01-31,2023-2024,La Liga,Barcelona,Osasuna,Home,1,0,W,Fermín López,N,N/A,55,0,0,3,1,0,0,2,0,0,0,0
+2024-02-03,2023-2024,La Liga,Barcelona,Alavés,Away,3,1,W,Fermín López,N,N/A,17,0,0,1,1,0,0,0,1,0,1,0
+2024-02-11,2023-2024,La Liga,Barcelona,Granada,Home,3,3,D,Fermín López,N,N/A,24,0,0,0,0,1,0,0,0,0,1,0
+2024-02-17,2023-2024,La Liga,Barcelona,Celta Vigo,Away,2,1,W,Fermín López,N,N/A,16,0,0,0,0,0,0,1,0,0,0,0
+2024-02-24,2023-2024,La Liga,Barcelona,Getafe,Home,4,0,W,Fermín López,N,N/A,28,1,0,2,2,0,0,3,2,1,2,0
+2024-03-03,2023-2024,La Liga,Barcelona,Athletic Club,Away,0,0,D,Fermín López,N,N/A,65,0,0,2,1,0,0,1,2,1,1,0
+2024-03-08,2023-2024,La Liga,Barcelona,Mallorca,Home,1,0,W,Fermín López,N,N/A,54,0,0,2,1,0,0,2,0,0,2,1
+2024-03-17,2023-2024,La Liga,Barcelona,Atlético Madrid,Away,3,0,W,Fermín López,Y,CM,81,1,0,2,2,0,0,0,0,1,0,0
+2024-03-30,2023-2024,La Liga,Barcelona,Las Palmas,Home,1,0,W,Fermín López,Y,CM,55,0,0,2,0,0,0,1,0,1,2,0
+2024-04-13,2023-2024,La Liga,Barcelona,Cádiz,Away,1,0,W,Fermín López,Y,CM,79,0,0,4,1,0,0,2,1,0,2,0
+2024-04-21,2023-2024,La Liga,Barcelona,Real Madrid,Away,2,3,L,Fermín López,N,N/A,45,1,0,3,1,0,0,4,0,0,1,0
+2024-04-29,2023-2024,La Liga,Barcelona,Valencia,Home,4,2,W,Fermín López,Y,CM,72,1,0,2,1,0,0,2,1,0,3,0
+2024-05-04,2023-2024,La Liga,Barcelona,Girona,Away,2,4,L,Fermín López,Y,FW,68,0,0,2,0,0,0,1,1,2,0,1
+2024-05-13,2023-2024,La Liga,Barcelona,Real Sociedad,Home,2,0,W,Fermín López,N,N/A,21,0,0,1,0,0,0,3,0,0,0,1
+2024-05-16,2023-2024,La Liga,Barcelona,Almería,Away,2,0,W,Fermín López,Y,CM,90,2,0,4,4,0,0,0,1,1,3,1
+2024-05-19,2023-2024,La Liga,Barcelona,Rayo Vallecano,Home,3,0,W,Fermín López,Y,AM,61,0,0,2,1,0,0,1,0,0,1,0
+2024-05-26,2023-2024,La Liga,Barcelona,Sevilla,Away,2,1,W,Fermín López,Y,FW,74,1,0,2,1,0,0,3,1,4,2,1
+2024-08-24,2024-2025,La Liga,Barcelona,Athletic Club,Home,2,1,W,Fermín López,N,N/A,28,0,0,0,0,1,0,0,1,1,1,0
+2024-08-27,2024-2025,La Liga,Barcelona,Rayo Vallecano,Away,2,1,W,Fermín López,N,N/A,1,0,0,0,0,0,0,0,0,0,0,0
+2024-08-31,2024-2025,La Liga,Barcelona,Valladolid,Home,7,0,W,Fermín López,N,N/A,30,0,0,1,0,0,0,1,1,1,1,1
+2024-10-20,2024-2025,La Liga,Barcelona,Sevilla,Home,5,1,W,Fermín López,N,N/A,25,0,0,0,0,0,0,0,0,1,1,0
+2024-10-26,2024-2025,La Liga,Barcelona,Real Madrid,Away,4,0,W,Fermín López,Y,AM,45,0,0,1,0,0,0,2,0,0,1,0
+2024-11-03,2024-2025,La Liga,Barcelona,Espanyol,Home,3,1,W,Fermín López,N,N/A,35,0,0,1,1,0,0,0,1,1,0,0
+2024-11-10,2024-2025,La Liga,Barcelona,Real Sociedad,Away,0,1,L,Fermín López,Y,AM,68,0,0,2,0,0,0,1,0,2,1,0
+2024-11-23,2024-2025,La Liga,Barcelona,Celta Vigo,Away,2,2,D,Fermín López,N,N/A,16,0,0,1,0,1,0,1,1,0,0,1
+2024-11-30,2024-2025,La Liga,Barcelona,Las Palmas,Home,1,2,L,Fermín López,Y,AM,56,0,0,3,1,0,0,2,0,0,0,0
+2024-12-03,2024-2025,La Liga,Barcelona,Mallorca,Away,5,1,W,Fermín López,N,N/A,4,0,0,0,0,0,0,1,0,0,0,0
+2024-12-15,2024-2025,La Liga,Barcelona,Leganés,Home,0,1,L,Fermín López,N,N/A,25,0,0,2,1,0,0,1,0,1,0,1
+2024-12-21,2024-2025,La Liga,Barcelona,Atlético Madrid,Home,1,2,L,Fermín López,Y,AM,63,0,0,1,1,0,0,1,0,3,0,0
+2025-01-26,2024-2025,La Liga,Barcelona,Valencia,Home,7,1,W,Fermín López,Y,AM,90,2,2,2,2,0,0,5,1,4,1,0
+2025-02-02,2024-2025,La Liga,Barcelona,Alavés,Home,1,0,W,Fermín López,N,N/A,77,0,0,2,0,1,0,2,3,0,2,1
+2025-02-09,2024-2025,La Liga,Barcelona,Sevilla,Away,4,1,W,Fermín López,N,N/A,16,0,0,1,1,0,1,1,1,0,1,0
+2025-02-22,2024-2025,La Liga,Barcelona,Las Palmas,Away,2,0,W,Fermín López,Y,AM,45,0,0,1,0,0,0,0,0,2,0,0
+2025-03-02,2024-2025,La Liga,Barcelona,Real Sociedad,Home,4,0,W,Fermín López,N,N/A,20,0,0,0,0,0,0,0,0,0,0,0
+2025-03-27,2024-2025,La Liga,Barcelona,Osasuna,Home,3,0,W,Fermín López,N,N/A,63,0,1,1,0,0,0,1,0,0,3,0
+2025-03-30,2024-2025,La Liga,Barcelona,Girona,Home,4,1,W,Fermín López,Y,AM,66,0,1,4,1,0,0,3,2,0,2,0
+2025-04-05,2024-2025,La Liga,Barcelona,Real Betis,Home,1,1,D,Fermín López,N,N/A,16,0,0,0,0,0,0,0,0,1,1,0
+2025-04-12,2024-2025,La Liga,Barcelona,Leganés,Away,1,0,W,Fermín López,Y,AM,66,0,0,2,0,0,0,1,0,3,0,0
+2025-04-19,2024-2025,La Liga,Barcelona,Celta Vigo,Home,4,3,W,Fermín López,Y,CM,58,0,0,1,1,0,0,0,0,2,0,0
+2025-04-22,2024-2025,La Liga,Barcelona,Mallorca,Home,1,0,W,Fermín López,N,N/A,29,0,0,4,2,0,0,0,0,1,1,0
+2025-05-03,2024-2025,La Liga,Barcelona,Valladolid,Away,2,1,W,Fermín López,Y,AM,90,1,0,3,1,0,0,4,1,8,0,0
+2025-05-11,2024-2025,La Liga,Barcelona,Real Madrid,Home,4,3,W,Fermín López,N,N/A,14,0,0,0,0,1,0,2,0,0,0,0
+2025-05-15,2024-2025,La Liga,Barcelona,Espanyol,Away,2,0,W,Fermín López,N,N/A,26,1,0,1,1,0,0,0,1,0,0,0
+2025-05-18,2024-2025,La Liga,Barcelona,Villarreal,Home,2,3,L,Fermín López,Y,AM,90,1,0,6,3,0,0,0,0,7,0,1
+2025-05-25,2024-2025,La Liga,Barcelona,Athletic Club,Away,3,0,W,Fermín López,Y,AM,90,0,1,1,0,0,0,3,4,5,1,0
