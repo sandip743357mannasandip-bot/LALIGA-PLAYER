@@ -1,0 +1,265 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2015-01-25,2014-2015,Ligue 1,Saint-Étienne,Paris Saint-Germain,Home,0,1,L,Jonathan Bamba,N,N/A,10,0,0,0,0,0,0,0,0,0,0,0
+2015-02-01,2014-2015,Ligue 1,Saint-Étienne,Caen,Away,0,1,L,Jonathan Bamba,N,N/A,7,0,0,0,0,0,0,0,0,0,0,0
+2015-05-23,2014-2015,Ligue 1,Saint-Étienne,Guingamp,Home,2,1,W,Jonathan Bamba,N,N/A,1,0,0,0,0,0,0,0,0,0,0,0
+2015-08-09,2015-2016,Ligue 1,Saint-Étienne,Toulouse,Away,1,2,L,Jonathan Bamba,Y,FW,70,0,0,3,1,0,0,1,0,1,0,0
+2015-09-12,2015-2016,Ligue 1,Saint-Étienne,Montpellier,Away,2,1,W,Jonathan Bamba,N,N/A,33,0,0,1,0,0,0,2,0,0,1,1
+2015-09-20,2015-2016,Ligue 1,Saint-Étienne,Nantes,Home,2,0,W,Jonathan Bamba,Y,FW,90,1,0,4,1,0,0,2,1,2,2,1
+2015-09-27,2015-2016,Ligue 1,Saint-Étienne,Nice,Home,1,4,L,Jonathan Bamba,Y,AM,45,0,0,0,0,0,0,0,0,1,0,0
+2015-12-02,2015-2016,Ligue 1,Saint-Étienne,Lille,Away,0,1,L,Jonathan Bamba,Y,FW,55,0,0,1,0,0,0,2,0,1,0,0
+2017-01-14,2016-2017,Ligue 1,Angers,Bordeaux,Home,1,1,D,Jonathan Bamba,Y,FW,60,0,0,0,0,0,0,1,0,1,0,0
+2017-02-05,2016-2017,Ligue 1,Angers,Toulouse,Away,0,4,L,Jonathan Bamba,N,N/A,38,0,0,1,1,0,0,0,0,2,0,1
+2017-02-08,2016-2017,Ligue 1,Angers,Rennes,Home,0,0,D,Jonathan Bamba,Y,FW,61,0,0,0,0,0,0,2,0,0,1,0
+2017-02-11,2016-2017,Ligue 1,Angers,Lille,Away,2,1,W,Jonathan Bamba,Y,FW,90,0,0,2,2,0,0,1,0,1,3,1
+2017-02-18,2016-2017,Ligue 1,Angers,Nancy,Home,1,0,W,Jonathan Bamba,Y,FW,90,1,0,4,1,0,0,0,0,2,0,1
+2017-02-25,2016-2017,Ligue 1,Angers,Bastia,Home,3,0,W,Jonathan Bamba,Y,FW,80,0,0,1,1,0,0,1,0,1,1,1
+2017-03-10,2016-2017,Ligue 1,Angers,Marseille,Away,0,3,L,Jonathan Bamba,Y,FW,57,0,0,3,1,0,0,0,0,2,0,0
+2017-03-18,2016-2017,Ligue 1,Angers,Guingamp,Home,3,0,W,Jonathan Bamba,Y,FW,72,1,1,2,1,0,0,0,0,1,0,0
+2017-04-02,2016-2017,Ligue 1,Angers,Nantes,Away,1,2,L,Jonathan Bamba,Y,FW,57,0,0,0,0,0,0,0,0,2,3,1
+2017-04-08,2016-2017,Ligue 1,Angers,Monaco,Home,0,1,L,Jonathan Bamba,N,N/A,27,0,0,1,0,0,0,1,1,2,0,1
+2017-04-14,2016-2017,Ligue 1,Angers,Paris Saint-Germain,Home,0,2,L,Jonathan Bamba,N,N/A,15,0,0,0,0,0,0,0,0,1,0,0
+2017-04-22,2016-2017,Ligue 1,Angers,Dijon,Away,2,3,L,Jonathan Bamba,N,N/A,23,0,0,0,0,0,0,1,1,0,0,0
+2017-04-28,2016-2017,Ligue 1,Angers,Lyon,Home,1,2,L,Jonathan Bamba,Y,FW,74,0,0,4,0,0,0,1,0,2,1,0
+2017-05-06,2016-2017,Ligue 1,Angers,Lorient,Away,1,1,D,Jonathan Bamba,N,N/A,28,0,0,0,0,0,0,0,0,0,0,0
+2017-05-14,2016-2017,Ligue 1,Angers,Nice,Away,2,0,W,Jonathan Bamba,N,N/A,30,0,0,0,0,0,0,0,0,1,0,0
+2017-05-20,2016-2017,Ligue 1,Angers,Montpellier,Home,2,0,W,Jonathan Bamba,N,N/A,32,1,1,2,1,0,0,0,0,0,2,0
+2017-08-05,2017-2018,Ligue 1,Saint-Étienne,Nice,Home,1,0,W,Jonathan Bamba,Y,FW,90,1,0,2,1,0,0,2,0,4,0,0
+2017-08-12,2017-2018,Ligue 1,Saint-Étienne,Caen,Away,1,0,W,Jonathan Bamba,Y,FW,90,0,1,1,0,0,0,3,2,0,1,1
+2017-08-19,2017-2018,Ligue 1,Saint-Étienne,Amiens,Home,3,0,W,Jonathan Bamba,Y,FW,90,1,0,2,1,0,0,1,1,0,1,1
+2017-08-25,2017-2018,Ligue 1,Saint-Étienne,Paris Saint-Germain,Away,0,3,L,Jonathan Bamba,Y,FW,90,0,0,3,2,0,0,0,2,0,1,0
+2017-09-10,2017-2018,Ligue 1,Saint-Étienne,Angers,Home,1,1,D,Jonathan Bamba,N,N/A,45,0,0,3,1,0,0,0,2,3,0,0
+2017-09-16,2017-2018,Ligue 1,Saint-Étienne,Dijon,Away,1,0,W,Jonathan Bamba,Y,AM,90,1,0,4,2,0,0,1,4,6,1,1
+2017-09-24,2017-2018,Ligue 1,Saint-Étienne,Rennes,Home,2,2,D,Jonathan Bamba,Y,FW,90,1,0,5,2,0,0,1,3,8,0,1
+2017-10-01,2017-2018,Ligue 1,Saint-Étienne,Troyes,Away,1,2,L,Jonathan Bamba,Y,FW,90,0,0,2,0,0,0,1,0,8,0,0
+2017-10-29,2017-2018,Ligue 1,Saint-Étienne,Toulouse,Away,0,0,D,Jonathan Bamba,Y,FW,90,0,0,1,0,0,0,1,1,3,0,0
+2017-11-05,2017-2018,Ligue 1,Saint-Étienne,Lyon,Home,0,5,L,Jonathan Bamba,Y,FW,90,0,0,4,1,0,0,3,0,4,1,0
+2017-11-17,2017-2018,Ligue 1,Saint-Étienne,Lille,Away,1,3,L,Jonathan Bamba,Y,FW,90,1,0,2,1,0,0,1,1,7,1,0
+2017-11-24,2017-2018,Ligue 1,Saint-Étienne,Strasbourg,Home,2,2,D,Jonathan Bamba,Y,AM,90,0,0,2,0,0,0,0,0,5,0,1
+2017-11-28,2017-2018,Ligue 1,Saint-Étienne,Bordeaux,Away,0,3,L,Jonathan Bamba,Y,FW,90,0,0,2,2,0,0,1,2,0,0,0
+2017-12-03,2017-2018,Ligue 1,Saint-Étienne,Nantes,Home,1,1,D,Jonathan Bamba,Y,FW,78,0,1,1,0,0,0,0,0,4,0,1
+2017-12-10,2017-2018,Ligue 1,Saint-Étienne,Marseille,Away,0,3,L,Jonathan Bamba,Y,FW,73,0,0,0,0,0,0,0,1,4,1,0
+2018-01-14,2017-2018,Ligue 1,Saint-Étienne,Toulouse,Home,2,0,W,Jonathan Bamba,Y,AM,90,0,0,1,0,0,0,0,1,5,1,1
+2018-01-17,2017-2018,Ligue 1,Saint-Étienne,Metz,Away,0,3,L,Jonathan Bamba,Y,FW,90,0,0,1,1,0,0,0,2,2,2,0
+2018-01-21,2017-2018,Ligue 1,Saint-Étienne,Nice,Away,0,1,L,Jonathan Bamba,N,N/A,24,0,0,0,0,0,0,0,1,1,2,1
+2018-01-27,2017-2018,Ligue 1,Saint-Étienne,Caen,Home,2,1,W,Jonathan Bamba,N,N/A,28,1,0,3,2,0,0,0,1,1,0,1
+2018-02-03,2017-2018,Ligue 1,Saint-Étienne,Amiens,Away,2,0,W,Jonathan Bamba,Y,AM,90,0,0,5,2,1,0,4,1,8,0,1
+2018-02-09,2017-2018,Ligue 1,Saint-Étienne,Marseille,Home,2,2,D,Jonathan Bamba,Y,FW,90,0,2,1,0,0,0,0,1,4,0,0
+2018-02-17,2017-2018,Ligue 1,Saint-Étienne,Angers,Away,1,0,W,Jonathan Bamba,N,N/A,23,0,0,0,0,0,0,1,1,1,0,0
+2018-02-25,2017-2018,Ligue 1,Saint-Étienne,Lyon,Away,1,1,D,Jonathan Bamba,Y,AM,90,0,0,1,0,0,0,4,0,8,0,0
+2018-03-03,2017-2018,Ligue 1,Saint-Étienne,Dijon,Home,2,2,D,Jonathan Bamba,Y,AM,63,0,0,2,0,0,0,0,0,6,1,0
+2018-03-10,2017-2018,Ligue 1,Saint-Étienne,Rennes,Away,1,1,D,Jonathan Bamba,Y,FW,65,0,0,2,1,0,0,1,4,0,0,0
+2018-03-18,2017-2018,Ligue 1,Saint-Étienne,Guingamp,Home,2,0,W,Jonathan Bamba,Y,AM,90,0,1,2,1,0,0,1,4,4,1,0
+2018-04-01,2017-2018,Ligue 1,Saint-Étienne,Nantes,Away,3,0,W,Jonathan Bamba,Y,AM,90,0,1,1,1,0,0,1,1,2,1,2
+2018-04-06,2017-2018,Ligue 1,Saint-Étienne,Paris Saint-Germain,Home,1,1,D,Jonathan Bamba,Y,AM,82,0,1,2,0,0,0,0,2,5,2,1
+2018-04-14,2017-2018,Ligue 1,Saint-Étienne,Strasbourg,Away,1,0,W,Jonathan Bamba,N,N/A,31,0,0,0,0,0,0,1,0,0,0,0
+2018-04-22,2017-2018,Ligue 1,Saint-Étienne,Troyes,Home,2,1,W,Jonathan Bamba,Y,AM,90,0,0,5,1,0,0,0,3,4,2,2
+2018-04-27,2017-2018,Ligue 1,Saint-Étienne,Montpellier,Away,1,0,W,Jonathan Bamba,N,N/A,35,0,0,2,1,0,0,0,1,0,0,0
+2018-05-06,2017-2018,Ligue 1,Saint-Étienne,Bordeaux,Home,1,3,L,Jonathan Bamba,N,N/A,45,0,0,3,0,0,0,0,1,1,0,0
+2018-05-12,2017-2018,Ligue 1,Saint-Étienne,Monaco,Away,0,1,L,Jonathan Bamba,Y,FW,90,0,0,2,1,0,0,1,3,3,0,2
+2018-05-19,2017-2018,Ligue 1,Saint-Étienne,Lille,Home,5,0,W,Jonathan Bamba,Y,AM,90,1,1,1,1,0,0,1,0,0,1,2
+2018-08-11,2018-2019,Ligue 1,Lille,Rennes,Home,3,1,W,Jonathan Bamba,Y,AM,90,1,0,1,1,0,0,0,3,0,4,1
+2018-08-18,2018-2019,Ligue 1,Lille,Monaco,Away,0,0,D,Jonathan Bamba,Y,AM,90,0,0,0,0,0,1,3,0,0,1,1
+2018-08-26,2018-2019,Ligue 1,Lille,Guingamp,Home,3,0,W,Jonathan Bamba,Y,AM,90,2,0,3,2,0,0,0,1,0,2,1
+2018-09-01,2018-2019,Ligue 1,Lille,Angers,Away,0,1,L,Jonathan Bamba,Y,AM,90,0,0,1,0,0,0,1,2,0,6,3
+2018-09-15,2018-2019,Ligue 1,Lille,Amiens,Away,3,2,W,Jonathan Bamba,Y,AM,90,0,0,2,1,0,0,1,0,2,0,2
+2018-09-22,2018-2019,Ligue 1,Lille,Nantes,Home,2,1,W,Jonathan Bamba,Y,AM,90,0,0,0,0,0,0,2,0,0,0,3
+2018-09-26,2018-2019,Ligue 1,Lille,Bordeaux,Away,0,1,L,Jonathan Bamba,Y,AM,56,0,0,1,1,0,0,0,0,3,1,1
+2018-09-30,2018-2019,Ligue 1,Lille,Marseille,Home,3,0,W,Jonathan Bamba,Y,AM,90,2,0,3,2,0,1,3,0,2,0,0
+2018-10-06,2018-2019,Ligue 1,Lille,Saint-Étienne,Home,3,1,W,Jonathan Bamba,Y,AM,90,2,1,3,2,0,0,1,1,0,1,1
+2018-10-20,2018-2019,Ligue 1,Lille,Dijon,Away,2,1,W,Jonathan Bamba,Y,AM,90,0,0,1,0,0,0,3,4,0,4,1
+2018-10-27,2018-2019,Ligue 1,Lille,Caen,Home,1,0,W,Jonathan Bamba,Y,AM,90,0,0,1,0,0,0,5,0,1,1,2
+2018-11-02,2018-2019,Ligue 1,Lille,Paris Saint-Germain,Away,1,2,L,Jonathan Bamba,Y,AM,90,0,0,1,0,0,0,3,0,0,1,1
+2018-11-09,2018-2019,Ligue 1,Lille,Strasbourg,Home,0,0,D,Jonathan Bamba,Y,AM,90,0,0,3,2,0,1,1,0,3,0,0
+2018-11-25,2018-2019,Ligue 1,Lille,Nice,Away,0,2,L,Jonathan Bamba,Y,AM,75,0,0,2,1,0,0,1,1,9,1,0
+2018-12-01,2018-2019,Ligue 1,Lille,Lyon,Home,2,2,D,Jonathan Bamba,Y,AM,69,0,0,1,1,1,0,1,2,0,1,1
+2018-12-04,2018-2019,Ligue 1,Lille,Montpellier,Away,1,0,W,Jonathan Bamba,N,N/A,27,0,0,1,0,0,0,1,0,0,1,0
+2018-12-09,2018-2019,Ligue 1,Lille,Reims,Home,1,1,D,Jonathan Bamba,N,N/A,22,0,0,0,0,0,0,2,0,1,0,0
+2018-12-16,2018-2019,Ligue 1,Lille,Nîmes,Away,3,2,W,Jonathan Bamba,Y,AM,90,1,1,3,2,1,0,3,5,0,1,6
+2018-12-22,2018-2019,Ligue 1,Lille,Toulouse,Home,1,2,L,Jonathan Bamba,Y,AM,90,0,0,3,0,0,0,1,0,3,0,0
+2019-01-11,2018-2019,Ligue 1,Lille,Caen,Away,3,1,W,Jonathan Bamba,Y,AM,90,0,0,2,0,0,0,0,1,0,0,1
+2019-01-18,2018-2019,Ligue 1,Lille,Amiens,Home,2,1,W,Jonathan Bamba,Y,AM,67,0,0,3,0,0,0,3,0,0,0,0
+2019-01-25,2018-2019,Ligue 1,Lille,Marseille,Away,2,1,W,Jonathan Bamba,Y,AM,90,0,0,1,0,0,0,4,0,1,0,0
+2019-02-01,2018-2019,Ligue 1,Lille,Nice,Home,4,0,W,Jonathan Bamba,Y,AM,90,1,0,5,2,0,0,1,0,1,0,1
+2019-02-10,2018-2019,Ligue 1,Lille,Guingamp,Away,2,0,W,Jonathan Bamba,Y,AM,90,0,0,1,0,0,0,3,0,1,0,0
+2019-02-17,2018-2019,Ligue 1,Lille,Montpellier,Home,0,0,D,Jonathan Bamba,Y,AM,54,0,0,0,0,0,0,1,0,1,2,0
+2019-02-22,2018-2019,Ligue 1,Lille,Strasbourg,Away,1,1,D,Jonathan Bamba,Y,AM,76,0,0,1,1,0,0,0,3,3,0,1
+2019-03-03,2018-2019,Ligue 1,Lille,Dijon,Home,1,0,W,Jonathan Bamba,N,N/A,12,0,0,0,0,0,0,0,0,0,0,0
+2019-03-10,2018-2019,Ligue 1,Lille,Saint-Étienne,Away,1,0,W,Jonathan Bamba,Y,LM,82,0,0,1,1,1,0,3,0,3,1,0
+2019-03-15,2018-2019,Ligue 1,Lille,Monaco,Home,0,1,L,Jonathan Bamba,Y,AM,70,0,0,4,1,0,0,1,1,1,1,0
+2019-03-31,2018-2019,Ligue 1,Lille,Nantes,Away,3,2,W,Jonathan Bamba,Y,AM,90,1,0,1,1,0,0,1,1,0,1,0
+2019-04-07,2018-2019,Ligue 1,Lille,Reims,Away,1,1,D,Jonathan Bamba,Y,AM,90,0,0,3,0,0,0,1,2,0,0,0
+2019-04-14,2018-2019,Ligue 1,Lille,Paris Saint-Germain,Home,5,1,W,Jonathan Bamba,Y,AM,90,1,0,4,3,0,0,2,1,0,1,2
+2019-04-21,2018-2019,Ligue 1,Lille,Toulouse,Away,0,0,D,Jonathan Bamba,Y,AM,69,0,0,2,0,0,0,0,1,0,1,2
+2019-04-28,2018-2019,Ligue 1,Lille,Nîmes,Home,5,0,W,Jonathan Bamba,Y,LM,75,1,0,1,1,0,0,0,1,1,0,0
+2019-05-05,2018-2019,Ligue 1,Lille,Lyon,Away,2,2,D,Jonathan Bamba,Y,AM,90,0,0,1,0,1,0,2,4,0,0,3
+2019-05-12,2018-2019,Ligue 1,Lille,Bordeaux,Home,1,0,W,Jonathan Bamba,Y,FW,90,0,0,2,2,0,0,2,1,1,2,0
+2019-05-18,2018-2019,Ligue 1,Lille,Angers,Home,5,0,W,Jonathan Bamba,Y,LM,90,1,1,1,1,0,0,0,0,0,1,2
+2019-05-24,2018-2019,Ligue 1,Lille,Rennes,Away,1,3,L,Jonathan Bamba,Y,AM,90,0,0,4,1,0,0,1,0,2,0,1
+2019-08-11,2019-2020,Ligue 1,Lille,Nantes,Home,2,1,W,Jonathan Bamba,Y,AM,90,0,0,3,1,0,0,3,5,0,6,0
+2019-08-17,2019-2020,Ligue 1,Lille,Amiens,Away,0,1,L,Jonathan Bamba,Y,AM,83,0,0,1,0,0,0,0,3,0,1,0
+2019-08-28,2019-2020,Ligue 1,Lille,Saint-Étienne,Home,3,0,W,Jonathan Bamba,Y,AM,90,1,0,3,3,0,0,0,4,0,0,1
+2019-09-01,2019-2020,Ligue 1,Lille,Reims,Away,0,2,L,Jonathan Bamba,Y,AM,90,0,0,3,2,0,0,1,4,1,0,1
+2019-09-13,2019-2020,Ligue 1,Lille,Angers,Home,2,1,W,Jonathan Bamba,Y,AM,90,0,0,3,1,0,0,0,2,0,2,0
+2019-09-22,2019-2020,Ligue 1,Lille,Rennes,Away,1,1,D,Jonathan Bamba,Y,AM,90,0,0,4,3,0,0,0,2,0,6,0
+2019-09-28,2019-2020,Ligue 1,Lille,Nice,Away,1,1,D,Jonathan Bamba,Y,AM,90,0,1,2,2,0,0,1,0,0,0,1
+2019-10-06,2019-2020,Ligue 1,Lille,Nîmes,Home,2,2,D,Jonathan Bamba,Y,LW,60,0,0,2,1,0,0,0,0,0,2,0
+2019-10-19,2019-2020,Ligue 1,Lille,Toulouse,Away,1,2,L,Jonathan Bamba,Y,AM,76,0,0,1,0,0,0,0,0,0,3,2
+2019-10-26,2019-2020,Ligue 1,Lille,Bordeaux,Home,3,0,W,Jonathan Bamba,N,N/A,17,0,0,0,0,0,0,0,0,0,0,1
+2019-11-02,2019-2020,Ligue 1,Lille,Marseille,Away,1,2,L,Jonathan Bamba,N,N/A,17,0,0,0,0,0,0,3,1,0,0,0
+2019-11-09,2019-2020,Ligue 1,Lille,Metz,Home,0,0,D,Jonathan Bamba,Y,AM,72,0,0,1,0,0,0,0,3,3,0,0
+2019-11-30,2019-2020,Ligue 1,Lille,Dijon,Home,1,0,W,Jonathan Bamba,Y,AM,90,0,0,3,2,0,0,2,1,1,1,0
+2019-12-03,2019-2020,Ligue 1,Lille,Lyon,Away,1,0,W,Jonathan Bamba,Y,AM,90,0,0,2,0,0,0,2,1,1,1,2
+2019-12-06,2019-2020,Ligue 1,Lille,Brest,Home,1,0,W,Jonathan Bamba,Y,AM,90,0,0,4,3,0,0,0,3,0,5,2
+2019-12-13,2019-2020,Ligue 1,Lille,Montpellier,Home,2,1,W,Jonathan Bamba,Y,AM,82,0,0,4,2,0,0,0,1,0,3,0
+2019-12-21,2019-2020,Ligue 1,Lille,Monaco,Away,1,5,L,Jonathan Bamba,Y,AM,90,0,0,1,1,0,0,2,0,0,3,0
+2020-01-12,2019-2020,Ligue 1,Lille,Dijon,Away,0,1,L,Jonathan Bamba,N,N/A,12,0,0,1,1,0,0,0,1,0,5,0
+2020-01-26,2019-2020,Ligue 1,Lille,Paris Saint-Germain,Home,0,2,L,Jonathan Bamba,N,N/A,24,0,0,1,0,0,0,0,1,0,0,0
+2020-02-01,2019-2020,Ligue 1,Lille,Strasbourg,Away,2,1,W,Jonathan Bamba,Y,LM,90,0,0,1,1,0,0,1,2,0,0,1
+2020-02-04,2019-2020,Ligue 1,Lille,Rennes,Home,1,0,W,Jonathan Bamba,Y,LM,86,0,0,2,1,0,0,1,2,0,1,0
+2020-02-07,2019-2020,Ligue 1,Lille,Angers,Away,2,0,W,Jonathan Bamba,Y,LW,90,0,1,2,0,0,0,0,2,1,0,1
+2020-02-16,2019-2020,Ligue 1,Lille,Marseille,Home,1,2,L,Jonathan Bamba,Y,LW,90,0,1,1,0,0,0,0,1,2,1,0
+2020-02-22,2019-2020,Ligue 1,Lille,Toulouse,Home,3,0,W,Jonathan Bamba,Y,LM,70,0,0,1,0,0,0,0,2,0,0,0
+2020-03-01,2019-2020,Ligue 1,Lille,Nantes,Away,1,0,W,Jonathan Bamba,Y,LM,79,0,0,1,1,0,0,1,0,0,0,2
+2020-03-08,2019-2020,Ligue 1,Lille,Lyon,Home,1,0,W,Jonathan Bamba,Y,LM,89,0,1,1,1,0,0,1,2,0,1,0
+2020-08-22,2020-2021,Ligue 1,Lille,Rennes,Home,1,1,D,Jonathan Bamba,Y,LW,90,1,0,1,1,0,0,0,2,0,0,2
+2020-08-30,2020-2021,Ligue 1,Lille,Reims,Away,1,0,W,Jonathan Bamba,Y,LM,90,1,0,2,1,0,0,0,4,0,0,0
+2020-09-13,2020-2021,Ligue 1,Lille,Metz,Home,1,0,W,Jonathan Bamba,Y,LM,90,0,0,4,2,0,0,1,3,0,12,1
+2020-09-20,2020-2021,Ligue 1,Lille,Marseille,Away,1,1,D,Jonathan Bamba,Y,LM,90,0,1,1,0,0,0,1,1,0,6,0
+2020-09-25,2020-2021,Ligue 1,Lille,Nantes,Home,2,0,W,Jonathan Bamba,Y,LM,90,0,0,2,0,0,0,0,2,0,1,2
+2020-10-04,2020-2021,Ligue 1,Lille,Strasbourg,Away,3,0,W,Jonathan Bamba,Y,DM,89,0,1,0,0,0,0,2,2,0,1,0
+2020-10-18,2020-2021,Ligue 1,Lille,Lens,Home,4,0,W,Jonathan Bamba,Y,LM,90,1,2,2,1,0,0,0,1,0,0,1
+2020-10-25,2020-2021,Ligue 1,Lille,Nice,Away,1,1,D,Jonathan Bamba,Y,LM,90,0,0,2,0,0,0,2,1,0,0,1
+2020-11-01,2020-2021,Ligue 1,Lille,Lyon,Home,1,1,D,Jonathan Bamba,Y,LM,88,1,0,5,3,0,0,0,1,0,3,0
+2020-11-08,2020-2021,Ligue 1,Lille,Brest,Away,2,3,L,Jonathan Bamba,Y,LM,90,0,0,2,1,0,0,0,0,0,1,1
+2020-11-22,2020-2021,Ligue 1,Lille,Lorient,Home,4,0,W,Jonathan Bamba,Y,LM,85,0,1,3,1,0,0,1,3,0,5,1
+2020-11-29,2020-2021,Ligue 1,Lille,Saint-Étienne,Away,1,1,D,Jonathan Bamba,N,N/A,23,0,0,1,0,0,0,0,3,0,3,0
+2020-12-06,2020-2021,Ligue 1,Lille,Monaco,Home,2,1,W,Jonathan Bamba,Y,LM,82,0,0,2,1,0,0,1,1,0,1,2
+2020-12-13,2020-2021,Ligue 1,Lille,Bordeaux,Home,2,1,W,Jonathan Bamba,Y,LM,90,1,1,1,1,0,0,1,0,1,14,2
+2020-12-16,2020-2021,Ligue 1,Lille,Dijon,Away,2,0,W,Jonathan Bamba,Y,DM,90,0,0,1,0,0,0,0,3,0,2,1
+2020-12-20,2020-2021,Ligue 1,Lille,Paris Saint-Germain,Home,0,0,D,Jonathan Bamba,Y,DM,90,0,0,0,0,0,0,1,2,0,2,0
+2020-12-23,2020-2021,Ligue 1,Lille,Montpellier,Away,3,2,W,Jonathan Bamba,Y,LM,90,0,0,1,0,0,0,2,1,0,2,1
+2021-01-06,2020-2021,Ligue 1,Lille,Angers,Home,1,2,L,Jonathan Bamba,Y,LM,90,0,1,0,0,0,0,0,3,0,13,0
+2021-01-09,2020-2021,Ligue 1,Lille,Nîmes,Away,1,0,W,Jonathan Bamba,Y,AM,90,0,0,2,0,0,0,2,1,0,6,2
+2021-01-17,2020-2021,Ligue 1,Lille,Reims,Home,2,1,W,Jonathan Bamba,Y,LM,90,1,0,5,1,0,0,1,3,0,2,0
+2021-01-24,2020-2021,Ligue 1,Lille,Rennes,Away,1,0,W,Jonathan Bamba,Y,LM,90,0,0,0,0,0,0,3,1,0,2,1
+2021-01-31,2020-2021,Ligue 1,Lille,Dijon,Home,1,0,W,Jonathan Bamba,Y,LM,80,0,0,2,0,0,0,0,1,0,1,0
+2021-02-03,2020-2021,Ligue 1,Lille,Bordeaux,Away,3,0,W,Jonathan Bamba,Y,LM,61,0,1,1,1,0,0,1,1,0,2,2
+2021-02-07,2020-2021,Ligue 1,Lille,Nantes,Away,2,0,W,Jonathan Bamba,Y,LM,87,0,0,2,0,0,0,0,5,1,3,0
+2021-02-14,2020-2021,Ligue 1,Lille,Brest,Home,0,0,D,Jonathan Bamba,Y,LM,90,0,0,4,0,1,0,3,3,0,12,1
+2021-02-21,2020-2021,Ligue 1,Lille,Lorient,Away,4,1,W,Jonathan Bamba,Y,LM,64,0,0,1,1,0,0,0,0,0,6,1
+2021-02-28,2020-2021,Ligue 1,Lille,Strasbourg,Home,1,1,D,Jonathan Bamba,Y,LM,60,0,0,0,0,0,0,0,2,0,9,0
+2021-03-03,2020-2021,Ligue 1,Lille,Marseille,Home,2,0,W,Jonathan Bamba,N,N/A,33,0,0,0,0,0,0,0,0,0,3,0
+2021-03-14,2020-2021,Ligue 1,Lille,Monaco,Away,0,0,D,Jonathan Bamba,Y,AM,90,0,0,0,0,0,0,2,1,0,4,1
+2021-03-21,2020-2021,Ligue 1,Lille,Nîmes,Home,1,2,L,Jonathan Bamba,Y,LM,64,0,1,2,0,1,0,1,0,0,7,0
+2021-04-03,2020-2021,Ligue 1,Lille,Paris Saint-Germain,Away,1,0,W,Jonathan Bamba,Y,LM,90,0,0,1,1,0,0,0,3,1,0,3
+2021-04-09,2020-2021,Ligue 1,Lille,Metz,Away,2,0,W,Jonathan Bamba,Y,LM,87,0,0,0,0,0,0,1,2,0,5,1
+2021-04-16,2020-2021,Ligue 1,Lille,Montpellier,Home,1,1,D,Jonathan Bamba,Y,LM,76,0,0,5,2,0,0,0,2,0,8,0
+2021-04-25,2020-2021,Ligue 1,Lille,Lyon,Away,3,2,W,Jonathan Bamba,N,N/A,30,0,0,2,1,0,0,0,0,1,1,0
+2021-05-01,2020-2021,Ligue 1,Lille,Nice,Home,2,0,W,Jonathan Bamba,Y,LM,90,0,0,1,1,0,0,0,5,0,6,0
+2021-05-07,2020-2021,Ligue 1,Lille,Lens,Away,3,0,W,Jonathan Bamba,Y,LM,90,0,0,1,1,0,0,1,2,0,2,0
+2021-05-16,2020-2021,Ligue 1,Lille,Saint-Étienne,Home,0,0,D,Jonathan Bamba,Y,LM,62,0,0,1,0,0,0,0,1,0,2,0
+2021-05-23,2020-2021,Ligue 1,Lille,Angers,Away,2,1,W,Jonathan Bamba,N,N/A,24,0,0,0,0,0,0,0,1,0,0,0
+2021-08-08,2021-2022,Ligue 1,Lille,Metz,Away,3,3,D,Jonathan Bamba,Y,LM,90,0,0,2,0,0,1,2,0,5,0,2
+2021-08-14,2021-2022,Ligue 1,Lille,Nice,Home,0,4,L,Jonathan Bamba,Y,LM,90,0,0,3,1,0,1,4,0,4,0,2
+2021-08-21,2021-2022,Ligue 1,Lille,Saint-Étienne,Away,1,1,D,Jonathan Bamba,Y,LM,74,0,0,1,1,0,0,2,0,1,1,1
+2021-10-03,2021-2022,Ligue 1,Lille,Marseille,Home,2,0,W,Jonathan Bamba,Y,LM,71,0,0,0,0,0,0,3,0,1,0,2
+2021-10-16,2021-2022,Ligue 1,Lille,Clermont Foot,Away,0,1,L,Jonathan Bamba,Y,AM,90,0,0,3,0,0,0,2,0,1,1,0
+2021-10-23,2021-2022,Ligue 1,Lille,Brest,Home,1,1,D,Jonathan Bamba,N,N/A,28,0,0,1,1,0,0,1,1,1,0,0
+2021-10-29,2021-2022,Ligue 1,Lille,Paris Saint-Germain,Away,1,2,L,Jonathan Bamba,Y,LM,89,0,0,0,0,0,0,1,0,0,0,0
+2021-11-06,2021-2022,Ligue 1,Lille,Angers,Home,1,1,D,Jonathan Bamba,Y,LM,74,0,0,1,0,1,0,1,0,1,0,0
+2021-11-27,2021-2022,Ligue 1,Lille,Nantes,Home,1,1,D,Jonathan Bamba,Y,LM,85,0,1,0,0,0,0,1,1,3,0,0
+2021-12-01,2021-2022,Ligue 1,Lille,Rennes,Away,2,1,W,Jonathan Bamba,Y,LM,89,0,0,1,0,0,0,3,1,1,2,0
+2021-12-04,2021-2022,Ligue 1,Lille,Troyes,Home,2,1,W,Jonathan Bamba,Y,LM,82,0,0,1,0,0,0,0,1,11,0,1
+2021-12-12,2021-2022,Ligue 1,Lille,Lyon,Home,0,0,D,Jonathan Bamba,Y,LM,80,0,0,0,0,0,1,3,0,1,1,0
+2021-12-22,2021-2022,Ligue 1,Lille,Bordeaux,Away,3,2,W,Jonathan Bamba,Y,LM,68,0,0,2,0,0,0,0,1,6,0,0
+2022-01-16,2021-2022,Ligue 1,Lille,Marseille,Away,1,1,D,Jonathan Bamba,Y,LM,83,0,0,1,1,0,1,2,2,1,0,0
+2022-01-19,2021-2022,Ligue 1,Lille,Lorient,Home,3,1,W,Jonathan Bamba,Y,LM,75,0,0,1,1,0,0,1,0,1,0,0
+2022-01-22,2021-2022,Ligue 1,Lille,Brest,Away,0,2,L,Jonathan Bamba,Y,LM,75,0,0,2,1,0,0,0,0,2,0,0
+2022-02-06,2021-2022,Ligue 1,Lille,Paris Saint-Germain,Home,1,5,L,Jonathan Bamba,Y,LM,85,0,0,2,1,0,0,2,1,4,0,1
+2022-02-12,2021-2022,Ligue 1,Lille,Montpellier,Away,1,0,W,Jonathan Bamba,Y,RM,90,0,0,2,1,0,0,1,2,6,0,0
+2022-02-18,2021-2022,Ligue 1,Lille,Metz,Home,0,0,D,Jonathan Bamba,Y,LM,66,0,0,1,0,0,0,0,0,10,1,2
+2022-02-27,2021-2022,Ligue 1,Lille,Lyon,Away,1,0,W,Jonathan Bamba,Y,AM,90,0,0,1,0,0,0,2,1,5,0,0
+2022-03-06,2021-2022,Ligue 1,Lille,Clermont Foot,Home,4,0,W,Jonathan Bamba,Y,LW,87,1,0,3,1,0,0,1,1,2,0,0
+2022-03-11,2021-2022,Ligue 1,Lille,Saint-Étienne,Home,0,0,D,Jonathan Bamba,Y,AM,90,0,0,1,0,0,0,0,4,3,0,0
+2022-03-19,2021-2022,Ligue 1,Lille,Nantes,Away,1,0,W,Jonathan Bamba,Y,AM,90,0,0,1,0,1,0,1,3,8,0,0
+2022-04-02,2021-2022,Ligue 1,Lille,Bordeaux,Home,0,0,D,Jonathan Bamba,Y,AM,77,0,0,3,1,0,0,0,1,0,6,0
+2022-04-10,2021-2022,Ligue 1,Lille,Angers,Away,1,1,D,Jonathan Bamba,Y,LW,90,0,0,2,0,0,0,0,2,2,10,1
+2022-04-16,2021-2022,Ligue 1,Lille,Lens,Home,1,2,L,Jonathan Bamba,Y,DM,90,0,0,4,1,0,0,0,3,0,10,2
+2022-04-20,2021-2022,Ligue 1,Lille,Reims,Away,1,2,L,Jonathan Bamba,Y,DM,90,0,0,3,0,0,0,0,2,0,1,1
+2022-05-01,2021-2022,Ligue 1,Lille,Troyes,Away,0,3,L,Jonathan Bamba,N,N/A,21,0,0,1,0,0,0,0,0,0,1,1
+2022-05-06,2021-2022,Ligue 1,Lille,Monaco,Home,1,2,L,Jonathan Bamba,Y,RM,89,0,1,5,0,1,0,1,2,1,4,2
+2022-05-14,2021-2022,Ligue 1,Lille,Nice,Away,3,1,W,Jonathan Bamba,N,N/A,45,0,0,0,0,0,0,0,2,0,2,0
+2022-05-21,2021-2022,Ligue 1,Lille,Rennes,Home,2,2,D,Jonathan Bamba,Y,LM,85,0,0,3,1,0,0,1,2,0,4,0
+2022-08-07,2022-2023,Ligue 1,Lille,Auxerre,Home,4,1,W,Jonathan Bamba,Y,AM,88,0,1,1,0,0,2,0,7,1,0,0
+2022-08-12,2022-2023,Ligue 1,Lille,Nantes,Away,1,1,D,Jonathan Bamba,Y,AM,90,0,0,3,1,0,0,0,4,1,0,0
+2022-08-21,2022-2023,Ligue 1,Lille,Paris Saint-Germain,Home,1,7,L,Jonathan Bamba,Y,AM,90,1,0,6,5,0,3,2,1,1,1,0
+2022-08-26,2022-2023,Ligue 1,Lille,Ajaccio,Away,3,1,W,Jonathan Bamba,Y,AM,90,1,0,1,1,0,1,6,0,4,0,2
+2022-08-31,2022-2023,Ligue 1,Lille,Nice,Home,1,2,L,Jonathan Bamba,Y,AM,90,1,0,3,1,1,4,3,0,4,1,0
+2022-09-04,2022-2023,Ligue 1,Lille,Montpellier,Away,3,1,W,Jonathan Bamba,Y,AM,90,0,1,2,0,0,0,1,0,3,1,0
+2022-09-10,2022-2023,Ligue 1,Lille,Marseille,Away,1,2,L,Jonathan Bamba,Y,FW,90,0,0,0,0,0,2,3,0,2,1,1
+2022-09-17,2022-2023,Ligue 1,Lille,Toulouse,Home,2,1,W,Jonathan Bamba,Y,AM,90,0,0,4,0,0,1,2,1,3,0,2
+2022-10-02,2022-2023,Ligue 1,Lille,Lorient,Away,1,2,L,Jonathan Bamba,Y,AM,90,0,1,1,0,0,1,1,0,6,0,1
+2022-10-09,2022-2023,Ligue 1,Lille,Lens,Home,1,0,W,Jonathan Bamba,Y,AM,73,0,0,1,0,0,1,1,0,0,1,0
+2022-10-14,2022-2023,Ligue 1,Lille,Strasbourg,Away,3,0,W,Jonathan Bamba,Y,AM,90,0,0,0,0,0,1,2,0,2,0,0
+2022-10-23,2022-2023,Ligue 1,Lille,Monaco,Home,4,3,W,Jonathan Bamba,Y,AM,90,1,0,4,2,1,1,2,0,1,0,2
+2022-10-30,2022-2023,Ligue 1,Lille,Lyon,Away,0,1,L,Jonathan Bamba,N,N/A,21,0,0,0,0,0,1,0,0,1,0,0
+2022-11-06,2022-2023,Ligue 1,Lille,Rennes,Home,1,1,D,Jonathan Bamba,Y,AM,83,0,0,2,1,1,1,0,1,0,1,0
+2022-11-13,2022-2023,Ligue 1,Lille,Angers,Home,1,0,W,Jonathan Bamba,Y,AM,90,0,0,2,1,0,1,1,0,2,0,0
+2023-01-02,2022-2023,Ligue 1,Lille,Reims,Home,1,1,D,Jonathan Bamba,Y,AM,90,0,0,4,2,0,1,1,0,0,1,1
+2023-02-01,2022-2023,Ligue 1,Lille,Clermont Foot,Home,0,0,D,Jonathan Bamba,N,N/A,26,0,0,3,1,0,1,0,2,0,0,0
+2023-02-04,2022-2023,Ligue 1,Lille,Rennes,Away,3,1,W,Jonathan Bamba,Y,AM,83,0,0,3,0,0,1,2,3,2,1,0
+2023-02-12,2022-2023,Ligue 1,Lille,Strasbourg,Home,2,0,W,Jonathan Bamba,Y,AM,72,0,0,2,1,0,0,2,0,1,1,1
+2023-02-19,2022-2023,Ligue 1,Lille,Paris Saint-Germain,Away,3,4,L,Jonathan Bamba,Y,AM,90,1,0,1,1,1,2,2,2,1,0,0
+2023-02-24,2022-2023,Ligue 1,Lille,Brest,Home,2,1,W,Jonathan Bamba,Y,AM,90,0,0,2,0,0,0,1,1,2,1,1
+2023-03-04,2022-2023,Ligue 1,Lille,Lens,Away,1,1,D,Jonathan Bamba,Y,AM,90,0,1,2,1,0,0,1,1,4,0,2
+2023-03-10,2022-2023,Ligue 1,Lille,Lyon,Home,3,3,D,Jonathan Bamba,Y,AM,90,0,1,2,1,1,3,3,0,5,0,0
+2023-03-18,2022-2023,Ligue 1,Lille,Toulouse,Away,2,0,W,Jonathan Bamba,Y,AM,90,0,0,3,1,0,0,0,0,2,0,0
+2023-04-02,2022-2023,Ligue 1,Lille,Lorient,Home,3,1,W,Jonathan Bamba,Y,AM,90,0,0,3,1,0,2,0,1,1,0,0
+2023-04-08,2022-2023,Ligue 1,Lille,Angers,Away,0,1,L,Jonathan Bamba,Y,AM,68,0,0,2,0,0,2,0,1,0,0,0
+2023-04-16,2022-2023,Ligue 1,Lille,Montpellier,Home,2,1,W,Jonathan Bamba,Y,AM,45,0,0,2,1,0,1,2,0,1,1,0
+2023-04-22,2022-2023,Ligue 1,Lille,Auxerre,Away,1,1,D,Jonathan Bamba,Y,AM,77,0,0,1,0,0,1,1,2,0,1,0
+2023-04-29,2022-2023,Ligue 1,Lille,Ajaccio,Home,3,0,W,Jonathan Bamba,Y*,AM,77,0,1,0,0,0,2,3,0,1,0,0
+2023-05-06,2022-2023,Ligue 1,Lille,Reims,Away,0,1,L,Jonathan Bamba,Y,AM,90,0,0,2,2,0,1,4,0,5,2,0
+2023-05-14,2022-2023,Ligue 1,Lille,Monaco,Away,0,0,D,Jonathan Bamba,Y,AM,90,0,0,2,2,0,3,1,0,0,1,2
+2023-05-20,2022-2023,Ligue 1,Lille,Marseille,Home,2,1,W,Jonathan Bamba,Y,FW,90,1,0,3,2,1,0,4,0,3,0,0
+2023-05-27,2022-2023,Ligue 1,Lille,Nantes,Home,2,1,W,Jonathan Bamba,Y,AM,90,0,0,0,0,0,0,2,4,0,0,0
+2023-06-03,2022-2023,Ligue 1,Lille,Troyes,Away,1,1,D,Jonathan Bamba,Y,LW,90,0,1,4,1,0,0,0,3,0,0,0
+2023-08-13,2023-2024,La Liga,Celta Vigo,Osasuna,Home,0,2,L,Jonathan Bamba,Y,LM,90,0,0,1,1,0,0,4,1,5,0,0
+2023-08-19,2023-2024,La Liga,Celta Vigo,Real Sociedad,Away,1,1,D,Jonathan Bamba,Y,LM,90,0,0,3,1,0,1,1,1,0,0,1
+2023-08-25,2023-2024,La Liga,Celta Vigo,Real Madrid,Home,0,1,L,Jonathan Bamba,Y,CM,90,0,0,1,0,0,0,1,0,3,2,1
+2023-09-01,2023-2024,La Liga,Celta Vigo,Almería,Away,3,2,W,Jonathan Bamba,Y,LM,89,0,0,1,1,0,0,1,1,5,1,0
+2023-09-16,2023-2024,La Liga,Celta Vigo,Mallorca,Home,0,1,L,Jonathan Bamba,Y,FW,90,0,0,1,1,0,0,4,0,3,1,0
+2023-09-23,2023-2024,La Liga,Celta Vigo,Barcelona,Away,2,3,L,Jonathan Bamba,Y,CM,89,0,0,2,2,0,3,3,0,0,0,0
+2023-09-28,2023-2024,La Liga,Celta Vigo,Alavés,Home,1,1,D,Jonathan Bamba,Y,CM,73,0,0,1,0,0,1,0,0,0,0,0
+2023-10-02,2023-2024,La Liga,Celta Vigo,Las Palmas,Away,1,2,L,Jonathan Bamba,Y,CM,90,0,1,2,1,0,0,2,0,2,1,0
+2023-10-08,2023-2024,La Liga,Celta Vigo,Getafe,Home,2,2,D,Jonathan Bamba,Y,LM,78,1,0,3,1,0,1,7,0,2,0,0
+2023-10-21,2023-2024,La Liga,Celta Vigo,Atlético Madrid,Home,0,3,L,Jonathan Bamba,Y,FW,90,0,0,1,0,0,0,6,0,2,0,1
+2023-10-27,2023-2024,La Liga,Celta Vigo,Girona,Away,0,1,L,Jonathan Bamba,Y,LM,74,0,0,1,1,0,0,1,0,1,0,1
+2023-11-04,2023-2024,La Liga,Celta Vigo,Sevilla,Home,1,1,D,Jonathan Bamba,Y,LM,80,0,0,3,1,0,0,0,1,1,0,0
+2023-11-10,2023-2024,La Liga,Celta Vigo,Athletic Club,Away,3,4,L,Jonathan Bamba,Y,LM,83,1,0,2,1,0,1,3,0,1,1,0
+2023-11-25,2023-2024,La Liga,Celta Vigo,Valencia,Away,0,0,D,Jonathan Bamba,Y,LM,66,0,0,3,0,0,0,3,0,2,1,0
+2023-12-04,2023-2024,La Liga,Celta Vigo,Cádiz,Home,1,1,D,Jonathan Bamba,Y,LM,90,0,0,4,2,0,1,4,1,10,0,0
+2023-12-11,2023-2024,La Liga,Celta Vigo,Rayo Vallecano,Away,0,0,D,Jonathan Bamba,Y,LM,64,0,0,0,0,0,1,3,0,1,0,2
+2023-12-16,2023-2024,La Liga,Celta Vigo,Granada,Home,1,0,W,Jonathan Bamba,Y,RM,71,0,0,1,1,0,0,1,1,2,2,0
+2023-12-20,2023-2024,La Liga,Celta Vigo,Villarreal,Away,2,3,L,Jonathan Bamba,N,N/A,9,0,0,1,0,0,0,1,0,1,0,0
+2024-03-01,2023-2024,La Liga,Celta Vigo,Almería,Home,1,0,W,Jonathan Bamba,Y,LM,90,0,0,2,0,0,1,5,0,4,0,0
+2024-03-10,2023-2024,La Liga,Celta Vigo,Real Madrid,Away,0,4,L,Jonathan Bamba,Y,CM,59,0,0,2,0,0,0,1,0,0,1,1
+2024-03-17,2023-2024,La Liga,Celta Vigo,Sevilla,Away,2,1,W,Jonathan Bamba,Y,AM,90,0,1,2,0,0,1,3,1,2,0,2
+2024-03-31,2023-2024,La Liga,Celta Vigo,Rayo Vallecano,Home,0,0,D,Jonathan Bamba,Y,AM,65,0,0,1,0,0,1,1,0,0,1,0
+2024-04-12,2023-2024,La Liga,Celta Vigo,Real Betis,Away,1,2,L,Jonathan Bamba,Y,FW,69,0,0,1,1,0,2,1,1,1,0,2
+2024-04-20,2023-2024,La Liga,Celta Vigo,Las Palmas,Home,4,1,W,Jonathan Bamba,N,N/A,25,0,0,1,0,0,0,0,0,0,1,0
+2024-05-12,2023-2024,La Liga,Celta Vigo,Atlético Madrid,Away,0,1,L,Jonathan Bamba,Y,FW,87,0,0,0,0,0,0,4,0,2,0,0
+2024-05-15,2023-2024,La Liga,Celta Vigo,Athletic Club,Home,2,1,W,Jonathan Bamba,Y,FW,45,0,0,0,0,0,1,2,0,1,0,0
+2024-05-19,2023-2024,La Liga,Celta Vigo,Granada,Away,2,1,W,Jonathan Bamba,N,N/A,45,1,0,1,1,0,0,3,0,0,0,0
+2024-08-16,2024-2025,La Liga,Celta Vigo,Alavés,Home,2,1,W,Jonathan Bamba,Y,LM,45,0,0,0,0,0,1,2,0,1,0,0
+2024-08-23,2024-2025,La Liga,Celta Vigo,Valencia,Home,3,1,W,Jonathan Bamba,N,N/A,26,0,0,0,0,0,1,0,0,0,0,0
+2024-08-26,2024-2025,La Liga,Celta Vigo,Villarreal,Away,3,4,L,Jonathan Bamba,Y,FW,90,0,0,3,1,0,0,0,4,1,1,0
+2024-09-22,2024-2025,La Liga,Celta Vigo,Athletic Club,Away,1,3,L,Jonathan Bamba,Y,FW,90,0,0,1,0,0,0,4,1,5,0,1
+2024-10-19,2024-2025,La Liga,Celta Vigo,Real Madrid,Home,1,2,L,Jonathan Bamba,Y,FW,77,0,0,2,2,0,1,2,0,4,1,0
+2024-10-27,2024-2025,La Liga,Celta Vigo,Leganés,Away,0,3,L,Jonathan Bamba,Y,FW,61,0,0,2,1,0,2,3,0,0,1,0
+2024-11-04,2024-2025,La Liga,Celta Vigo,Getafe,Home,1,0,W,Jonathan Bamba,Y,FW,88,0,0,0,0,0,0,1,0,0,1,0
+2024-11-10,2024-2025,La Liga,Celta Vigo,Real Betis,Away,2,2,D,Jonathan Bamba,Y,AM,90,0,0,0,0,0,1,0,2,2,2,0
+2024-11-23,2024-2025,La Liga,Celta Vigo,Barcelona,Home,2,2,D,Jonathan Bamba,Y,LM,61,0,0,2,0,0,1,0,0,2,0,1
+2024-11-30,2024-2025,La Liga,Celta Vigo,Espanyol,Away,1,3,L,Jonathan Bamba,Y,RM,90,0,0,1,0,0,0,1,0,5,0,0
+2024-12-14,2024-2025,La Liga,Celta Vigo,Sevilla,Away,0,1,L,Jonathan Bamba,N,N/A,25,0,0,0,0,0,0,1,1,0,0,0
+2025-01-10,2024-2025,La Liga,Celta Vigo,Rayo Vallecano,Away,1,2,L,Jonathan Bamba,Y,AM,68,0,1,2,2,0,0,4,0,1,2,0
