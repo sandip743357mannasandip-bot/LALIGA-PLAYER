@@ -1,0 +1,56 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2023-08-14,2023-2024,La Liga,Granada,Atlético Madrid,Away,1,3,Loss,Bryan Zaragoza,No,FW,10,0,0,0,0,0,0,0,1,1,1,0
+2023-08-21,2023-2024,La Liga,Granada,Rayo Vallecano,Home,0,2,Loss,Bryan Zaragoza,Yes,FW,90,0,0,4,2,0,0,0,0,3,2,1
+2023-08-26,2023-2024,La Liga,Granada,Mallorca,Home,3,2,Win,Bryan Zaragoza,Yes,FW,71,1,0,1,1,0,0,0,0,3,0,0
+2023-09-02,2023-2024,La Liga,Granada,Real Sociedad,Away,3,5,Loss,Bryan Zaragoza,Yes,FW,90,1,0,3,3,1,0,1,0,6,0,0
+2023-09-18,2023-2024,La Liga,Granada,Girona,Home,2,4,Loss,Bryan Zaragoza,Yes,RM,82,0,0,0,0,0,0,1,1,5,0,0
+2023-09-24,2023-2024,La Liga,Granada,Las Palmas,Away,0,1,Loss,Bryan Zaragoza,No,FW,18,0,0,0,0,0,0,0,0,2,0,0
+2023-09-28,2023-2024,La Liga,Granada,Real Betis,Home,1,1,Draw,Bryan Zaragoza,No,FW,53,0,1,2,1,0,0,1,1,4,0,0
+2023-10-01,2023-2024,La Liga,Granada,Almería,Away,3,3,Draw,Bryan Zaragoza,Yes,LM,90,1,0,2,1,0,0,0,1,2,0,0
+2023-10-08,2023-2024,La Liga,Granada,Barcelona,Home,2,2,Draw,Bryan Zaragoza,Yes,LM,90,2,0,3,2,1,0,0,1,2,1,0
+2023-10-20,2023-2024,La Liga,Granada,Osasuna,Away,0,2,Loss,Bryan Zaragoza,Yes,AM,90,0,0,2,1,1,0,1,1,5,0,0
+2023-10-30,2023-2024,La Liga,Granada,Villarreal,Home,2,3,Loss,Bryan Zaragoza,Yes,AM,90,0,1,2,2,0,0,0,2,12,0,0
+2023-11-05,2023-2024,La Liga,Granada,Valencia,Away,0,1,Loss,Bryan Zaragoza,Yes,CM,90,0,0,1,0,1,0,0,5,3,0,0
+2023-11-11,2023-2024,La Liga,Granada,Getafe,Home,1,1,Draw,Bryan Zaragoza,Yes,LW,73,0,0,1,1,1,0,1,0,5,0,0
+2023-12-02,2023-2024,La Liga,Granada,Real Madrid,Away,0,2,Loss,Bryan Zaragoza,Yes,LM,82,0,0,0,0,0,0,0,0,1,0,0
+2023-12-11,2023-2024,La Liga,Granada,Athletic Club,Home,1,1,Draw,Bryan Zaragoza,Yes,AM,90,0,0,1,1,0,0,0,3,3,1,0
+2023-12-16,2023-2024,La Liga,Granada,Celta Vigo,Away,0,1,Loss,Bryan Zaragoza,Yes,AM,90,0,0,3,0,0,0,0,5,6,0,0
+2023-12-19,2023-2024,La Liga,Granada,Sevilla,Home,0,3,Loss,Bryan Zaragoza,Yes,LW,90,0,0,0,0,0,0,0,1,11,0,2
+2024-01-03,2023-2024,La Liga,Granada,Cádiz,Home,2,0,Win,Bryan Zaragoza,Yes,RM,90,1,0,3,2,0,0,3,0,7,1,0
+2024-01-13,2023-2024,La Liga,Granada,Real Betis,Away,0,1,Loss,Bryan Zaragoza,Yes,RM,90,0,0,1,1,0,0,2,1,6,1,0
+2024-01-22,2023-2024,La Liga,Granada,Atlético Madrid,Home,0,1,Loss,Bryan Zaragoza,Yes,FW,79,0,0,1,0,0,0,1,0,6,1,0
+2024-01-29,2023-2024,La Liga,Granada,Getafe,Away,0,2,Loss,Bryan Zaragoza,Yes,FW,90,0,0,3,1,0,0,1,2,6,0,0
+2024-02-18,2023-2024,Bundesliga,Bayern Munich,Bochum,Away,2,3,Loss,Bryan Zaragoza,No,AM,28,0,0,1,1,0,0,0,1,0,2,1
+2024-03-09,2023-2024,Bundesliga,Bayern Munich,Mainz 05,Home,8,1,Win,Bryan Zaragoza,No,AM,16,0,0,1,0,0,0,0,0,0,0,0
+2024-04-06,2023-2024,Bundesliga,Bayern Munich,Heidenheim,Away,2,3,Loss,Bryan Zaragoza,No,AM,8,0,0,1,1,0,0,0,0,0,3,1
+2024-04-20,2023-2024,Bundesliga,Bayern Munich,Union Berlin,Away,5,1,Win,Bryan Zaragoza,No,AM,20,0,0,2,1,0,0,0,0,1,2,0
+2024-05-04,2023-2024,Bundesliga,Bayern Munich,Stuttgart,Away,1,3,Loss,Bryan Zaragoza,No,AM,27,0,0,1,0,0,0,0,1,0,0,0
+2024-05-12,2023-2024,Bundesliga,Bayern Munich,Wolfsburg,Home,2,0,Win,Bryan Zaragoza,Yes,AM,74,0,0,1,1,0,0,0,0,0,3,1
+2024-05-18,2023-2024,Bundesliga,Bayern Munich,Hoffenheim,Away,2,4,Loss,Bryan Zaragoza,No,AM,10,0,0,0,0,1,0,1,0,0,0,0
+2024-08-17,2024-2025,La Liga,Osasuna,Leganés,Home,1,1,Draw,Bryan Zaragoza,No,FW,31,0,0,2,1,0,0,0,2,0,5,1
+2024-08-24,2024-2025,La Liga,Osasuna,Mallorca,Home,1,0,Win,Bryan Zaragoza,Yes,LW,90,0,0,2,0,0,0,1,2,0,4,1
+2024-08-29,2024-2025,La Liga,Osasuna,Girona,Away,0,4,Loss,Bryan Zaragoza,Yes,AM,67,0,0,0,0,0,0,0,2,1,0,0
+2024-09-01,2024-2025,La Liga,Osasuna,Celta Vigo,Home,3,2,Win,Bryan Zaragoza,Yes,LW,62,0,1,0,0,0,0,0,1,1,5,0
+2024-09-16,2024-2025,La Liga,Osasuna,Rayo Vallecano,Away,1,3,Loss,Bryan Zaragoza,Yes,FW,83,0,0,2,1,1,0,1,2,0,3,1
+2024-09-21,2024-2025,La Liga,Osasuna,Las Palmas,Home,2,1,Win,Bryan Zaragoza,Yes,LW,63,0,0,3,0,0,0,2,1,1,2,1
+2024-09-24,2024-2025,La Liga,Osasuna,Valencia,Away,0,0,Draw,Bryan Zaragoza,No,FW,14,0,0,0,0,0,0,0,0,0,2,0
+2024-09-28,2024-2025,La Liga,Osasuna,Barcelona,Home,4,2,Win,Bryan Zaragoza,Yes,FW,76,1,1,1,1,1,0,1,1,1,3,1
+2024-10-05,2024-2025,La Liga,Osasuna,Getafe,Away,1,1,Draw,Bryan Zaragoza,Yes,FW,78,0,1,0,0,0,0,0,3,0,2,1
+2024-10-19,2024-2025,La Liga,Osasuna,Real Betis,Home,1,2,Loss,Bryan Zaragoza,Yes,FW,87,0,0,3,1,0,0,1,1,0,6,0
+2024-10-27,2024-2025,La Liga,Osasuna,Real Sociedad,Away,2,0,Win,Bryan Zaragoza,Yes,FW,82,0,2,1,1,1,0,0,0,0,1,0
+2024-11-02,2024-2025,La Liga,Osasuna,Valladolid,Home,1,0,Win,Bryan Zaragoza,Yes,FW,84,0,0,3,1,0,0,2,0,0,5,0
+2024-11-09,2024-2025,La Liga,Osasuna,Real Madrid,Away,0,4,Loss,Bryan Zaragoza,Yes,FW,81,0,0,0,0,0,0,0,0,2,1,0
+2024-11-24,2024-2025,La Liga,Osasuna,Villarreal,Home,2,2,Draw,Bryan Zaragoza,Yes,FW,77,0,0,0,0,0,0,0,2,0,2,1
+2024-12-02,2024-2025,La Liga,Osasuna,Sevilla,Away,1,1,Draw,Bryan Zaragoza,Yes,FW,76,0,0,1,1,0,0,0,2,0,4,0
+2025-02-02,2024-2025,La Liga,Osasuna,Real Sociedad,Home,2,1,Win,Bryan Zaragoza,No,FW,5,0,0,0,0,0,0,0,1,0,1,0
+2025-02-10,2024-2025,La Liga,Osasuna,Mallorca,Away,1,1,Draw,Bryan Zaragoza,Yes,LW,59,0,0,2,0,0,0,0,0,0,5,0
+2025-02-15,2024-2025,La Liga,Osasuna,Real Madrid,Home,1,1,Draw,Bryan Zaragoza,Yes,LW,78,0,0,0,0,0,0,1,2,0,4,0
+2025-02-21,2024-2025,La Liga,Osasuna,Celta Vigo,Away,0,1,Loss,Bryan Zaragoza,Yes,FW,79,0,0,5,0,0,0,1,2,0,6,0
+2025-03-02,2024-2025,La Liga,Osasuna,Valencia,Home,3,3,Draw,Bryan Zaragoza,Yes,AM,72,0,0,3,2,0,0,1,1,1,3,0
+2025-03-16,2024-2025,La Liga,Osasuna,Getafe,Home,1,2,Loss,Bryan Zaragoza,Yes,FW,90,0,0,3,1,0,0,1,2,0,5,1
+2025-04-24,2024-2025,La Liga,Osasuna,Sevilla,Home,1,0,Win,Bryan Zaragoza,No,FW,45,0,0,2,1,1,0,1,3,0,4,0
+2025-05-03,2024-2025,La Liga,Osasuna,Villarreal,Away,2,4,Loss,Bryan Zaragoza,No,FW,45,0,0,1,0,0,0,1,1,1,5,0
+2025-05-11,2024-2025,La Liga,Osasuna,Real Betis,Away,1,1,Draw,Bryan Zaragoza,Yes,AM,88,0,0,4,1,0,0,3,1,1,4,1
+2025-05-15,2024-2025,La Liga,Osasuna,Atlético Madrid,Home,2,0,Win,Bryan Zaragoza,Yes,AM,71,0,1,2,0,0,0,1,2,0,6,3
+2025-05-18,2024-2025,La Liga,Osasuna,Espanyol,Home,2,0,Win,Bryan Zaragoza,Yes,AM,72,0,0,1,1,0,0,0,2,1,8,0
+2025-05-24,2024-2025,La Liga,Osasuna,Alavés,Away,1,1,Draw,Bryan Zaragoza,Yes,AM,81,0,0,1,0,0,0,1,4,0,6,1

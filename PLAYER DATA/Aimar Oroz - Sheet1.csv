@@ -1,0 +1,103 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2020-07-19,2019-2020,La Liga,Osasuna,Mallorca,Home,2,2,Draw,Aimar Oroz,No,N/A,11,0,0,0,0,0,0,2,0,0,0,0
+2022-08-12,2022-2023,La Liga,Osasuna,Sevilla,Home,2,1,Win,Aimar Oroz,Yes,FW,80,1,0,1,1,0,0,1,0,0,0,1
+2022-08-20,2022-2023,La Liga,Osasuna,Cádiz,Home,2,0,Win,Aimar Oroz,Yes,FW,83,0,0,0,0,0,0,1,0,1,1,1
+2022-08-26,2022-2023,La Liga,Osasuna,Real Betis,Away,0,1,Loss,Aimar Oroz,Yes,AM,61,0,0,0,0,1,0,3,0,0,0,3
+2022-09-04,2022-2023,La Liga,Osasuna,Rayo Vallecano,Home,2,1,Win,Aimar Oroz,Yes,FW,90,1,0,4,2,0,0,1,1,1,2,0
+2022-10-02,2022-2023,La Liga,Osasuna,Real Madrid,Away,1,1,Draw,Aimar Oroz,No,N/A,22,0,0,0,0,0,0,0,0,0,0,0
+2022-10-07,2022-2023,La Liga,Osasuna,Valencia,Home,1,2,Loss,Aimar Oroz,Yes,CM,62,0,0,0,0,0,0,1,0,0,0,1
+2022-10-17,2022-2023,La Liga,Osasuna,Villarreal,Away,0,2,Loss,Aimar Oroz,No,N/A,27,0,0,0,0,1,0,1,0,0,0,1
+2022-10-20,2022-2023,La Liga,Osasuna,Espanyol,Home,1,0,Win,Aimar Oroz,Yes,AM,88,0,0,2,1,0,0,3,0,0,0,0
+2022-10-23,2022-2023,La Liga,Osasuna,Girona,Away,1,1,Draw,Aimar Oroz,No,N/A,27,0,0,1,0,0,0,0,0,0,1,0
+2022-10-30,2022-2023,La Liga,Osasuna,Valladolid,Home,2,0,Win,Aimar Oroz,Yes,CM,90,0,1,1,0,0,0,2,0,1,0,3
+2022-11-05,2022-2023,La Liga,Osasuna,Celta Vigo,Away,2,1,Win,Aimar Oroz,Yes,CM,71,0,0,0,0,1,0,1,0,0,0,0
+2022-11-08,2022-2023,La Liga,Osasuna,Barcelona,Home,1,2,Loss,Aimar Oroz,Yes,AM,73,0,0,0,0,0,0,2,1,1,1,1
+2022-12-31,2022-2023,La Liga,Osasuna,Real Sociedad,Away,0,2,Loss,Aimar Oroz,Yes,FW,57,0,0,1,0,0,0,1,0,1,0,0
+2023-01-09,2022-2023,La Liga,Osasuna,Athletic Club,Away,0,0,Draw,Aimar Oroz,No,N/A,21,0,0,0,0,0,0,0,0,0,1,0
+2023-01-14,2022-2023,La Liga,Osasuna,Mallorca,Home,1,0,Win,Aimar Oroz,Yes,CM,89,1,0,3,1,0,0,1,0,0,0,1
+2023-01-22,2022-2023,La Liga,Osasuna,Elche,Away,1,1,Draw,Aimar Oroz,No,N/A,34,0,0,0,0,0,0,1,0,0,0,0
+2023-02-18,2022-2023,La Liga,Osasuna,Real Madrid,Home,0,2,Loss,Aimar Oroz,No,N/A,19,0,0,0,0,0,0,0,0,0,0,0
+2023-02-26,2022-2023,La Liga,Osasuna,Sevilla,Away,3,2,Win,Aimar Oroz,Yes,CM,70,0,0,1,0,1,0,2,0,0,1,1
+2023-03-06,2022-2023,La Liga,Osasuna,Celta Vigo,Home,0,0,Draw,Aimar Oroz,Yes,CM,84,0,0,1,1,0,0,1,0,0,0,1
+2023-03-11,2022-2023,La Liga,Osasuna,Valencia,Away,0,1,Loss,Aimar Oroz,No,N/A,13,0,0,0,0,1,0,1,0,0,0,0
+2023-03-31,2022-2023,La Liga,Osasuna,Mallorca,Away,0,0,Draw,Aimar Oroz,Yes,CM,66,0,0,2,0,0,0,3,0,0,0,0
+2023-04-08,2022-2023,La Liga,Osasuna,Elche,Home,2,1,Win,Aimar Oroz,No,N/A,45,0,1,0,0,1,0,2,0,1,0,1
+2023-04-14,2022-2023,La Liga,Osasuna,Rayo Vallecano,Away,1,2,Loss,Aimar Oroz,Yes,CM,90,0,1,1,1,0,0,1,0,0,1,2
+2023-04-22,2022-2023,La Liga,Osasuna,Real Betis,Home,3,2,Win,Aimar Oroz,Yes,CM,86,0,0,0,0,0,0,1,0,0,0,0
+2023-04-28,2022-2023,La Liga,Osasuna,Real Sociedad,Home,0,2,Loss,Aimar Oroz,Yes,AM,73,0,0,1,0,0,0,1,0,0,1,1
+2023-05-02,2022-2023,La Liga,Osasuna,Barcelona,Away,0,1,Loss,Aimar Oroz,Yes,AM,45,0,0,0,0,0,0,1,0,1,0,0
+2023-05-13,2022-2023,La Liga,Osasuna,Almería,Home,3,1,Win,Aimar Oroz,Yes,CM,90,0,2,1,0,0,0,0,0,0,0,1
+2023-05-21,2022-2023,La Liga,Osasuna,Atlético Madrid,Away,0,3,Loss,Aimar Oroz,Yes,CM,90,0,0,1,1,0,0,0,0,0,1,1
+2023-05-25,2022-2023,La Liga,Osasuna,Athletic Club,Home,2,0,Win,Aimar Oroz,Yes,AM,87,0,1,0,0,0,0,3,0,0,3,1
+2023-05-28,2022-2023,La Liga,Osasuna,Getafe,Away,1,2,Loss,Aimar Oroz,Yes,AM,90,0,0,2,0,0,0,0,0,0,0,3
+2023-06-04,2022-2023,La Liga,Osasuna,Girona,Home,2,1,Win,Aimar Oroz,Yes,CM,90,0,0,0,0,0,0,1,0,0,1,1
+2023-08-13,2023-2024,La Liga,Osasuna,Celta Vigo,Away,2,0,Win,Aimar Oroz,Yes,CM,78,0,0,0,0,0,0,1,0,0,0,1
+2023-08-19,2023-2024,La Liga,Osasuna,Athletic Club,Home,0,2,Loss,Aimar Oroz,Yes,CM,73,0,0,0,0,0,0,0,0,0,0,0
+2023-08-27,2023-2024,La Liga,Osasuna,Valencia,Away,2,1,Win,Aimar Oroz,Yes,CM,66,1,0,1,1,0,0,2,0,0,1,0
+2023-09-03,2023-2024,La Liga,Osasuna,Barcelona,Home,1,2,Loss,Aimar Oroz,Yes,AM,90,0,0,1,1,0,0,1,0,1,1,1
+2023-09-17,2023-2024,La Liga,Osasuna,Getafe,Away,2,3,Loss,Aimar Oroz,Yes,CM,78,0,1,0,0,0,0,0,0,1,0,1
+2023-09-23,2023-2024,La Liga,Osasuna,Sevilla,Home,0,0,Draw,Aimar Oroz,Yes,CM,90,0,0,2,0,0,0,1,0,1,2,0
+2023-09-28,2023-2024,La Liga,Osasuna,Atlético Madrid,Home,0,2,Loss,Aimar Oroz,Yes,CM,89,0,0,0,0,1,0,1,0,1,0,0
+2023-10-01,2023-2024,La Liga,Osasuna,Alavés,Away,2,0,Win,Aimar Oroz,Yes,CM,90,0,0,0,0,0,0,1,0,0,1,0
+2023-10-07,2023-2024,La Liga,Osasuna,Real Madrid,Away,0,4,Loss,Aimar Oroz,Yes,CM,79,0,0,0,0,0,0,1,0,0,0,1
+2023-10-20,2023-2024,La Liga,Osasuna,Granada,Home,2,0,Win,Aimar Oroz,Yes,CM,79,0,0,0,0,1,0,3,0,0,0,0
+2023-10-29,2023-2024,La Liga,Osasuna,Real Betis,Away,1,2,Loss,Aimar Oroz,Yes,AM,90,0,0,2,0,0,0,2,0,0,3,0
+2023-11-04,2023-2024,La Liga,Osasuna,Girona,Home,2,4,Loss,Aimar Oroz,Yes,AM,82,0,0,0,0,0,0,1,0,0,0,1
+2023-11-11,2023-2024,La Liga,Osasuna,Las Palmas,Home,1,1,Draw,Aimar Oroz,Yes,AM,87,0,0,0,0,0,0,2,0,0,0,0
+2023-11-26,2023-2024,La Liga,Osasuna,Villarreal,Away,1,3,Loss,Aimar Oroz,Yes,AM,76,0,0,2,1,0,0,1,0,1,0,0
+2023-12-02,2023-2024,La Liga,Osasuna,Real Sociedad,Home,1,1,Draw,Aimar Oroz,Yes,CM,74,0,0,0,0,0,0,3,0,0,1,0
+2023-12-10,2023-2024,La Liga,Osasuna,Cádiz,Away,1,1,Draw,Aimar Oroz,Yes,CM,77,0,0,1,0,0,0,4,0,0,2,2
+2023-12-15,2023-2024,La Liga,Osasuna,Rayo Vallecano,Home,1,0,Win,Aimar Oroz,Yes,CM,83,0,0,1,0,0,0,2,0,0,1,0
+2023-12-21,2023-2024,La Liga,Osasuna,Mallorca,Away,2,3,Loss,Aimar Oroz,No,N/A,45,0,0,0,0,0,0,0,0,1,0,0
+2024-01-04,2023-2024,La Liga,Osasuna,Almería,Home,1,0,Win,Aimar Oroz,Yes,CM,90,0,0,1,0,0,0,3,0,1,1,0
+2024-01-21,2023-2024,La Liga,Osasuna,Getafe,Home,3,2,Win,Aimar Oroz,No,N/A,25,0,0,0,0,0,0,0,0,1,1,0
+2024-01-28,2023-2024,La Liga,Osasuna,Sevilla,Away,1,1,Draw,Aimar Oroz,No,N/A,15,0,0,1,0,0,0,0,0,0,0,0
+2024-01-31,2023-2024,La Liga,Osasuna,Barcelona,Away,0,1,Loss,Aimar Oroz,Yes,CM,67,0,0,0,0,0,0,1,0,0,0,0
+2024-02-04,2023-2024,La Liga,Osasuna,Celta Vigo,Home,0,3,Loss,Aimar Oroz,No,N/A,29,0,0,1,0,0,0,1,0,0,1,0
+2024-02-10,2023-2024,La Liga,Osasuna,Real Sociedad,Away,1,0,Win,Aimar Oroz,Yes,CM,90,0,0,2,0,0,0,2,1,1,2,2
+2024-02-17,2023-2024,La Liga,Osasuna,Cádiz,Home,2,0,Win,Aimar Oroz,Yes,CM,77,0,0,3,0,1,0,2,1,0,1,0
+2024-02-25,2023-2024,La Liga,Osasuna,Las Palmas,Away,1,1,Draw,Aimar Oroz,Yes,CM,90,0,0,1,1,0,0,2,0,0,4,2
+2024-03-04,2023-2024,La Liga,Osasuna,Alavés,Home,1,0,Win,Aimar Oroz,Yes,AM,78,0,0,2,1,0,0,1,0,0,0,1
+2024-03-09,2023-2024,La Liga,Osasuna,Girona,Away,0,2,Loss,Aimar Oroz,Yes,CM,90,0,0,0,0,0,0,0,1,1,4,1
+2024-03-30,2023-2024,La Liga,Osasuna,Almería,Away,3,0,Win,Aimar Oroz,No,N/A,35,0,0,0,0,0,0,0,0,0,0,0
+2024-05-11,2023-2024,La Liga,Osasuna,Athletic Club,Away,2,2,Draw,Aimar Oroz,No,N/A,23,0,0,0,0,0,0,0,0,0,1,0
+2024-05-14,2023-2024,La Liga,Osasuna,Mallorca,Home,1,1,Draw,Aimar Oroz,Yes,CM,65,0,0,0,0,0,0,1,0,0,0,2
+2024-05-19,2023-2024,La Liga,Osasuna,Atlético Madrid,Away,4,1,Win,Aimar Oroz,No,N/A,60,1,0,2,1,0,0,0,0,0,0,1
+2024-05-25,2023-2024,La Liga,Osasuna,Villarreal,Home,1,1,Draw,Aimar Oroz,Yes,LW,79,0,0,2,0,0,0,0,0,0,0,0
+2024-08-17,2024-2025,La Liga,Osasuna,Leganés,Home,1,1,Draw,Aimar Oroz,Yes,FW,89,0,0,4,1,0,0,1,0,1,1,2
+2024-08-24,2024-2025,La Liga,Osasuna,Mallorca,Home,1,0,Win,Aimar Oroz,Yes,AM,78,0,0,5,2,0,0,1,0,3,1,0
+2024-08-29,2024-2025,La Liga,Osasuna,Girona,Away,0,4,Loss,Aimar Oroz,Yes,AM,58,0,0,0,0,0,0,1,0,0,1,1
+2024-09-01,2024-2025,La Liga,Osasuna,Celta Vigo,Home,3,2,Win,Aimar Oroz,Yes,AM,87,0,0,1,0,0,0,1,3,0,1,1
+2024-09-16,2024-2025,La Liga,Osasuna,Rayo Vallecano,Away,1,3,Loss,Aimar Oroz,Yes,CM,65,0,0,0,0,0,0,0,0,0,1,2
+2024-09-21,2024-2025,La Liga,Osasuna,Las Palmas,Home,2,1,Win,Aimar Oroz,Yes,AM,90,1,0,1,1,0,0,0,1,0,2,0
+2024-09-24,2024-2025,La Liga,Osasuna,Valencia,Away,0,0,Draw,Aimar Oroz,Yes,CM,62,0,0,0,0,0,0,0,1,0,0,0
+2024-09-28,2024-2025,La Liga,Osasuna,Barcelona,Home,4,2,Win,Aimar Oroz,Yes,CM,90,0,0,0,0,0,0,0,1,2,1,0
+2024-10-05,2024-2025,La Liga,Osasuna,Getafe,Away,1,1,Draw,Aimar Oroz,Yes,CM,78,0,0,0,0,0,0,0,2,0,1,0
+2024-10-19,2024-2025,La Liga,Osasuna,Real Betis,Home,1,2,Loss,Aimar Oroz,Yes,CM,86,0,0,4,2,0,0,2,0,1,0,4
+2024-10-27,2024-2025,La Liga,Osasuna,Real Sociedad,Away,2,0,Win,Aimar Oroz,Yes,CM,90,0,0,1,0,1,0,2,3,0,0,0
+2024-11-02,2024-2025,La Liga,Osasuna,Valladolid,Home,1,0,Win,Aimar Oroz,Yes,CM,89,0,0,2,0,0,0,1,1,0,0,1
+2024-11-09,2024-2025,La Liga,Osasuna,Real Madrid,Away,0,4,Loss,Aimar Oroz,Yes,CM,71,0,0,0,0,0,0,2,2,0,0,1
+2024-11-24,2024-2025,La Liga,Osasuna,Villarreal,Home,2,2,Draw,Aimar Oroz,Yes,CM,85,0,0,0,0,1,0,2,1,0,0,1
+2024-12-02,2024-2025,La Liga,Osasuna,Sevilla,Away,1,1,Draw,Aimar Oroz,Yes,CM,90,0,0,1,0,0,0,0,3,0,1,2
+2024-12-08,2024-2025,La Liga,Osasuna,Alavés,Home,2,2,Draw,Aimar Oroz,Yes,AM,90,0,0,0,0,1,0,1,4,1,1,0
+2024-12-14,2024-2025,La Liga,Osasuna,Espanyol,Away,0,0,Draw,Aimar Oroz,Yes,AM,85,0,0,1,0,0,0,0,4,0,1,0
+2024-12-21,2024-2025,La Liga,Osasuna,Athletic Club,Home,1,2,Loss,Aimar Oroz,Yes,CM,84,0,0,2,1,0,0,0,3,1,1,0
+2025-01-12,2024-2025,La Liga,Osasuna,Atlético Madrid,Away,0,1,Loss,Aimar Oroz,No,N/A,28,0,0,0,0,0,0,0,0,0,0,0
+2025-01-19,2024-2025,La Liga,Osasuna,Rayo Vallecano,Home,1,1,Draw,Aimar Oroz,Yes,AM,90,0,0,2,0,0,0,0,6,0,5,1
+2025-01-24,2024-2025,La Liga,Osasuna,Las Palmas,Away,1,1,Draw,Aimar Oroz,Yes,AM,90,1,0,3,1,0,0,1,2,1,1,1
+2025-02-02,2024-2025,La Liga,Osasuna,Real Sociedad,Home,2,1,Win,Aimar Oroz,Yes,CM,90,0,1,2,0,0,0,1,3,0,0,0
+2025-02-10,2024-2025,La Liga,Osasuna,Mallorca,Away,1,1,Draw,Aimar Oroz,Yes,AM,90,0,0,4,0,1,0,3,1,0,1,0
+2025-02-15,2024-2025,La Liga,Osasuna,Real Madrid,Home,1,1,Draw,Aimar Oroz,Yes,AM,90,0,0,2,1,1,0,2,1,0,1,0
+2025-03-02,2024-2025,La Liga,Osasuna,Valencia,Home,3,3,Draw,Aimar Oroz,Yes,AM,54,2,0,2,2,0,0,0,1,0,1,0
+2025-03-16,2024-2025,La Liga,Osasuna,Getafe,Home,1,2,Loss,Aimar Oroz,No,N/A,30,0,0,1,1,0,0,0,0,0,2,0
+2025-03-27,2024-2025,La Liga,Osasuna,Barcelona,Away,0,3,Loss,Aimar Oroz,Yes,FW,60,0,0,0,0,0,0,2,1,0,0,1
+2025-03-30,2024-2025,La Liga,Osasuna,Athletic Club,Away,0,0,Draw,Aimar Oroz,Yes,LM,88,0,0,1,0,0,0,0,1,0,0,2
+2025-04-07,2024-2025,La Liga,Osasuna,Leganés,Away,1,1,Draw,Aimar Oroz,Yes,CM,76,0,0,0,0,1,0,1,4,0,0,1
+2025-04-13,2024-2025,La Liga,Osasuna,Girona,Home,2,1,Win,Aimar Oroz,Yes,CM,86,0,1,1,1,0,0,0,2,0,1,0
+2025-04-20,2024-2025,La Liga,Osasuna,Valladolid,Away,3,2,Win,Aimar Oroz,Yes,CM,90,0,0,0,0,1,0,1,0,1,1,0
+2025-04-24,2024-2025,La Liga,Osasuna,Sevilla,Home,1,0,Win,Aimar Oroz,Yes,CM,90,0,0,2,0,0,0,0,1,0,0,0
+2025-05-03,2024-2025,La Liga,Osasuna,Villarreal,Away,2,4,Loss,Aimar Oroz,Yes,CM,90,1,0,3,2,1,0,1,1,0,3,0
+2025-05-11,2024-2025,La Liga,Osasuna,Real Betis,Away,1,1,Draw,Aimar Oroz,Yes,AM,90,0,1,0,0,0,0,0,2,0,1,0
+2025-05-15,2024-2025,La Liga,Osasuna,Atlético Madrid,Home,2,0,Win,Aimar Oroz,Yes,AM,87,0,0,1,1,0,0,2,0,0,0,2
+2025-05-18,2024-2025,La Liga,Osasuna,Espanyol,Home,2,0,Win,Aimar Oroz,Yes,AM,90,0,1,1,0,0,0,0,0,0,2,0
+2025-05-24,2024-2025,La Liga,Osasuna,Alavés,Away,1,1,Draw,Aimar Oroz,Yes,AM,90,0,0,1,0,0,0,0,4,0,3,1
