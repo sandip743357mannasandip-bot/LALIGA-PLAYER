@@ -1,0 +1,78 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2020-08-30,2020-2021,Ligue 1,Saint-Étienne,Lorient,Home,2,0,W 2-0,Yvan Neyou,Y,DM,70,0,0,2,1,1,0,3,2,0,1,0
+2020-09-12,2020-2021,Ligue 1,Saint-Étienne,Strasbourg,Home,2,0,W 2-0,Yvan Neyou,Y,DM,71,0,0,1,0,1,0,5,2,0,1,0
+2020-09-17,2020-2021,Ligue 1,Saint-Étienne,Marseille,Away,2,0,W 2-0,Yvan Neyou,Y,CM,70,0,0,0,0,0,0,2,1,0,0,1
+2020-09-20,2020-2021,Ligue 1,Saint-Étienne,Nantes,Away,2,2,D 2-2,Yvan Neyou,Y,CM,79,0,1,0,0,0,0,1,3,0,0,0
+2020-09-26,2020-2021,Ligue 1,Saint-Étienne,Rennes,Home,0,3,L 0-3,Yvan Neyou,N,-,45,0,0,0,0,1,0,1,3,0,1,0
+2020-10-03,2020-2021,Ligue 1,Saint-Étienne,Lens,Away,0,2,L 0-2,Yvan Neyou,Y,DM,84,0,0,0,0,0,0,0,5,0,2,2
+2020-10-25,2020-2021,Ligue 1,Saint-Étienne,Metz,Away,0,2,L 0-2,Yvan Neyou,Y,DM,81,0,0,1,0,1,0,1,1,0,0,3
+2020-11-01,2020-2021,Ligue 1,Saint-Étienne,Montpellier,Home,0,1,L 0-1,Yvan Neyou,Y,CM,90,0,0,1,0,0,0,2,2,0,1,2
+2020-11-08,2020-2021,Ligue 1,Saint-Étienne,Lyon,Away,1,2,L 1-2,Yvan Neyou,Y,CM,90,0,0,2,0,0,0,2,2,0,4,5
+2020-11-21,2020-2021,Ligue 1,Saint-Étienne,Brest,Away,1,4,L 1-4,Yvan Neyou,Y,CM,90,0,0,1,0,0,0,1,0,1,0,1
+2020-11-29,2020-2021,Ligue 1,Saint-Étienne,Lille,Home,1,1,D 1-1,Yvan Neyou,Y,CM,90,0,0,0,0,1,0,2,2,0,3,1
+2020-12-06,2020-2021,Ligue 1,Saint-Étienne,Dijon,Away,0,0,D 0-0,Yvan Neyou,Y,CM,90,0,0,0,0,0,0,5,0,0,0,1
+2020-12-11,2020-2021,Ligue 1,Saint-Étienne,Angers,Home,0,0,D 0-0,Yvan Neyou,Y,DM,90,0,0,2,2,0,0,1,0,0,3,1
+2020-12-16,2020-2021,Ligue 1,Saint-Étienne,Bordeaux,Away,2,1,W 2-1,Yvan Neyou,Y,DM,90,1,0,3,1,0,0,2,1,0,0,0
+2020-12-20,2020-2021,Ligue 1,Saint-Étienne,Nîmes,Home,2,2,D 2-2,Yvan Neyou,Y,DM,90,0,0,2,1,1,0,1,1,0,1,1
+2020-12-23,2020-2021,Ligue 1,Saint-Étienne,Monaco,Away,2,2,D 2-2,Yvan Neyou,Y,DM,90,0,0,3,0,0,0,4,1,0,1,0
+2021-01-24,2020-2021,Ligue 1,Saint-Étienne,Lyon,Home,0,5,L 0-5,Yvan Neyou,Y,FW,75,0,0,0,0,0,0,1,0,0,1,0
+2021-01-31,2020-2021,Ligue 1,Saint-Étienne,Nice,Away,1,0,W 1-0,Yvan Neyou,Y,DM,71,0,0,0,0,0,0,1,1,0,3,0
+2021-02-03,2020-2021,Ligue 1,Saint-Étienne,Nantes,Home,1,1,D 1-1,Yvan Neyou,Y,CM,90,0,0,0,0,0,0,1,1,0,2,1
+2021-02-07,2020-2021,Ligue 1,Saint-Étienne,Metz,Home,1,0,W 1-0,Yvan Neyou,Y,CM,76,0,0,2,0,0,0,1,1,0,0,0
+2021-02-14,2020-2021,Ligue 1,Saint-Étienne,Rennes,Away,2,0,W 2-0,Yvan Neyou,Y,CM,68,0,1,0,0,0,0,0,0,0,2,0
+2021-02-20,2020-2021,Ligue 1,Saint-Étienne,Reims,Home,1,1,D 1-1,Yvan Neyou,Y,AM,90,0,0,2,0,0,0,2,0,0,2,3
+2021-02-28,2020-2021,Ligue 1,Saint-Étienne,Lorient,Away,1,2,L 1-2,Yvan Neyou,Y,DM,90,0,0,1,1,0,0,2,2,0,1,1
+2021-03-03,2020-2021,Ligue 1,Saint-Étienne,Lens,Home,2,3,L 2-3,Yvan Neyou,N,-,20,0,0,1,0,0,0,0,0,0,0,0
+2021-03-19,2020-2021,Ligue 1,Saint-Étienne,Monaco,Home,0,4,L 0-4,Yvan Neyou,Y,DM,66,0,0,1,1,0,0,2,2,0,0,3
+2021-04-04,2020-2021,Ligue 1,Saint-Étienne,Nîmes,Away,2,0,W 2-0,Yvan Neyou,Y,DM,63,0,0,1,0,0,0,1,0,0,3,1
+2021-04-11,2020-2021,Ligue 1,Saint-Étienne,Bordeaux,Away,4,1,W 4-1,Yvan Neyou,Y,DM,82,0,0,1,0,1,0,0,2,0,0,4
+2021-04-18,2020-2021,Ligue 1,Saint-Étienne,Paris Saint-Germain,Away,2,3,L 2-3,Yvan Neyou,Y,CM,90,0,0,0,0,1,0,0,1,0,0,2
+2021-05-09,2020-2021,Ligue 1,Saint-Étienne,Marseille,Home,1,0,W 1-0,Yvan Neyou,Y,CM,90,0,0,0,0,0,0,1,2,0,1,0
+2021-05-16,2020-2021,Ligue 1,Saint-Étienne,Lille,Away,0,0,D 0-0,Yvan Neyou,Y,CM,80,0,0,2,0,1,0,2,3,0,0,2
+2021-05-23,2020-2021,Ligue 1,Saint-Étienne,Dijon,Home,0,1,L 0-1,Yvan Neyou,Y,CM,77,0,0,1,0,0,0,1,2,0,0,0
+2021-08-15,2021-2022,Ligue 1,Saint-Étienne,Lens,Away,2,2,D,Yvan Neyou,Y,CM,78,0,0,1,0,0,0,1,2,0,1,1
+2021-08-21,2021-2022,Ligue 1,Saint-Étienne,Lille,Home,1,1,D,Yvan Neyou,Y,CM,79,0,0,0,0,0,0,1,4,0,1,4
+2021-08-28,2021-2022,Ligue 1,Saint-Étienne,Marseille,Away,1,3,L,Yvan Neyou,Y,CM,90,0,0,0,0,0,0,0,3,2,2,3
+2021-09-12,2021-2022,Ligue 1,Saint-Étienne,Montpellier,Away,0,2,L,Yvan Neyou,Y,DM,90,0,0,2,1,1,0,3,2,0,1,2
+2021-09-18,2021-2022,Ligue 1,Saint-Étienne,Bordeaux,Home,1,2,L,Yvan Neyou,Y,DM,90,0,0,1,1,0,0,1,1,0,1,3
+2021-09-22,2021-2022,Ligue 1,Saint-Étienne,Monaco,Away,1,3,L,Yvan Neyou,Y,DM,90,0,0,0,0,0,0,0,4,0,0,1
+2021-09-25,2021-2022,Ligue 1,Saint-Étienne,Nice,Home,0,3,L,Yvan Neyou,Y,CM,66,0,0,0,0,0,0,0,0,0,1,0
+2021-10-03,2021-2022,Ligue 1,Saint-Étienne,Lyon,Home,1,1,D,Yvan Neyou,Y,DM,64,0,0,1,0,0,0,2,1,0,1,1
+2021-10-17,2021-2022,Ligue 1,Saint-Étienne,Strasbourg,Away,1,5,L,Yvan Neyou,Y,DM,77,0,0,0,0,0,0,0,0,0,0,2
+2021-10-22,2021-2022,Ligue 1,Saint-Étienne,Angers,Home,2,2,D,Yvan Neyou,Y,CB,81,0,0,0,0,0,0,3,0,0,4,2
+2021-10-30,2021-2022,Ligue 1,Saint-Étienne,Metz,Away,1,1,D,Yvan Neyou,Y,DM,6,0,0,0,0,0,0,0,1,0,0,0
+2021-12-11,2021-2022,Ligue 1,Saint-Étienne,Reims,Away,0,2,L,Yvan Neyou,N,-,37,0,0,0,0,0,0,0,0,0,0,4
+2021-12-12,2021-2022,Ligue 1,Saint-Étienne,Nantes,Home,0,1,L,Yvan Neyou,Y,CM,45,0,0,1,0,0,0,0,0,0,1,1
+2022-04-08,2021-2022,Ligue 1,Saint-Étienne,Lorient,Away,2,6,L,Yvan Neyou,N,-,6,0,0,0,0,2,1,2,1,0,0,0
+2022-04-20,2021-2022,Ligue 1,Saint-Étienne,Bordeaux,Away,2,2,D,Yvan Neyou,N,-,19,0,0,0,0,1,0,1,1,0,0,0
+2022-04-30,2021-2022,Ligue 1,Saint-Étienne,Rennes,Away,0,2,L,Yvan Neyou,N,-,18,0,0,0,0,0,0,1,0,0,0,0
+2024-08-17,2024-2025,La Liga,Leganés,Osasuna,Away,1,1,D 1-1,Yvan Neyou,Y,DM,90,0,0,1,0,0,0,1,1,0,2,2
+2024-08-25,2024-2025,La Liga,Leganés,Las Palmas,Home,2,1,W 2-1,Yvan Neyou,Y,DM,90,0,1,0,0,0,0,0,3,0,1,2
+2024-08-28,2024-2025,La Liga,Leganés,Valladolid,Away,0,0,D 0-0,Yvan Neyou,Y,DM,84,0,0,2,0,1,0,2,2,0,0,1
+2024-08-31,2024-2025,La Liga,Leganés,Mallorca,Home,0,1,L 0-1,Yvan Neyou,N,-,45,0,0,0,0,1,0,1,3,0,1,1
+2024-09-13,2024-2025,La Liga,Leganés,Real Betis,Away,0,2,L 0-2,Yvan Neyou,Y,DM,65,0,0,1,0,0,0,0,2,0,1,2
+2024-10-04,2024-2025,La Liga,Leganés,Valencia,Home,0,0,D 0-0,Yvan Neyou,Y,DM,70,0,0,0,0,0,0,1,1,0,1,0
+2024-10-20,2024-2025,La Liga,Leganés,Atlético Madrid,Away,1,3,L 1-3,Yvan Neyou,Y,DM,90,1,0,1,1,0,0,0,4,0,0,0
+2024-10-27,2024-2025,La Liga,Leganés,Celta Vigo,Home,3,0,W 3-0,Yvan Neyou,Y,DM,90,0,0,0,0,1,0,1,4,0,2,5
+2024-11-02,2024-2025,La Liga,Leganés,Girona,Away,3,4,L 3-4,Yvan Neyou,Y,DM,75,0,0,0,0,1,0,1,3,0,0,1
+2024-11-24,2024-2025,La Liga,Leganés,Real Madrid,Home,0,3,L 0-3,Yvan Neyou,Y,DM,57,0,0,0,0,0,0,0,1,0,0,1
+2024-11-30,2024-2025,La Liga,Leganés,Alavés,Away,1,1,D 1-1,Yvan Neyou,Y,DM,90,0,0,0,0,1,0,3,3,0,1,3
+2024-12-08,2024-2025,La Liga,Leganés,Real Sociedad,Home,0,3,L 0-3,Yvan Neyou,Y,DM,90,0,0,2,0,1,0,1,2,0,2,2
+2024-12-15,2024-2025,La Liga,Leganés,Barcelona,Away,1,0,W 1-0,Yvan Neyou,Y,CM,90,0,0,1,1,0,0,0,0,0,1,2
+2024-12-22,2024-2025,La Liga,Leganés,Villarreal,Home,2,5,L 2-5,Yvan Neyou,Y,CM,90,0,0,1,0,0,0,1,2,0,0,2
+2025-01-11,2024-2025,La Liga,Leganés,Espanyol,Away,1,1,D 1-1,Yvan Neyou,Y,CM,84,0,0,2,0,0,0,3,3,0,0,1
+2025-01-18,2024-2025,La Liga,Leganés,Atlético Madrid,Home,1,0,W 1-0,Yvan Neyou,Y,CM,90,0,0,1,0,1,0,2,0,0,1,0
+2025-01-26,2024-2025,La Liga,Leganés,Athletic Club,Away,0,0,D 0-0,Yvan Neyou,Y,CM,90,0,0,0,0,0,0,2,1,0,0,3
+2025-01-31,2024-2025,La Liga,Leganés,Rayo Vallecano,Home,0,1,L 0-1,Yvan Neyou,Y,CM,90,0,0,0,0,1,0,1,2,0,0,4
+2025-02-09,2024-2025,La Liga,Leganés,Valencia,Away,0,2,L 0-2,Yvan Neyou,Y,CM,90,0,0,1,0,1,0,2,0,0,1,1
+2025-02-23,2024-2025,La Liga,Leganés,Real Sociedad,Away,0,3,L 0-3,Yvan Neyou,Y,CM,90,0,0,0,0,0,0,0,4,0,0,0
+2025-03-02,2024-2025,La Liga,Leganés,Getafe,Home,1,0,W 1-0,Yvan Neyou,Y,CM,89,0,0,0,0,0,0,2,1,0,2,2
+2025-03-08,2024-2025,La Liga,Leganés,Celta Vigo,Away,1,2,L 1-2,Yvan Neyou,Y,CM,90,0,0,0,0,0,0,1,0,0,1,2
+2025-03-16,2024-2025,La Liga,Leganés,Real Betis,Home,2,3,L,Yvan Neyou,Y,CM,74,0,0,0,0,1,0,1,0,0,0,1
+2025-03-29,2024-2025,La Liga,Leganés,Real Madrid,Away,2,3,L,Yvan Neyou,Y,DM,65,0,0,1,0,0,0,1,1,0,0,0
+2025-04-07,2024-2025,La Liga,Leganés,Osasuna,Home,1,1,D,Yvan Neyou,Y,DM,90,0,0,0,0,1,0,2,1,0,1,0
+2025-04-12,2024-2025,La Liga,Leganés,Barcelona,Home,0,1,L,Yvan Neyou,N,-,24,0,0,0,0,0,0,1,1,0,0,0
+2025-04-19,2024-2025,La Liga,Leganés,Mallorca,Away,0,0,D,Yvan Neyou,Y,DM,79,0,0,0,0,1,0,3,2,0,1,1
+2025-05-04,2024-2025,La Liga,Leganés,Sevilla,Away,2,2,D,Yvan Neyou,N,-,10,0,0,0,0,1,0,0,1,0,1,0
+2025-05-11,2024-2025,La Liga,Leganés,Espanyol,Home,3,2,W,Yvan Neyou,Y,CM,79,0,0,0,0,0,0,1,1,0,0,1
+2025-05-14,2024-2025,La Liga,Leganés,Villarreal,Away,0,3,L,Yvan Neyou,Y,DM,62,0,0,2,1,0,0,0,0,0,0,0
