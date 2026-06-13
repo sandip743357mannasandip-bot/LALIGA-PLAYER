@@ -1,0 +1,30 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2023-02-18,2022-2023,La Liga,Real Madrid,Osasuna,Away,2,0,W,Álvaro Rodríguez,N,,3,0,1,0,0,0,0,0,0,0,0,0
+2023-02-25,2022-2023,La Liga,Real Madrid,Atlético Madrid,Home,1,1,D,Álvaro Rodríguez,N,,14,1,0,1,1,0,0,1,0,0,0,0
+2023-03-05,2022-2023,La Liga,Real Madrid,Real Betis,Away,0,0,D,Álvaro Rodríguez,N,,4,0,0,0,0,0,0,1,0,0,0,0
+2023-03-11,2022-2023,La Liga,Real Madrid,Espanyol,Home,3,1,W,Álvaro Rodríguez,N,,1,0,0,0,0,0,0,0,0,0,0,0
+2023-05-02,2022-2023,La Liga,Real Madrid,Real Sociedad,Away,0,2,L,Álvaro Rodríguez,N,,32,0,0,1,0,0,0,0,0,1,0,1
+2023-05-27,2022-2023,La Liga,Real Madrid,Sevilla,Away,2,1,W,Álvaro Rodríguez,N,,25,0,0,0,0,0,0,1,0,1,0,0
+2024-02-25,2023-2024,La Liga,Real Madrid,Sevilla,Home,1,0,W 1-0,Álvaro Rodríguez,N,N,1,0,0,0,0,0,0,0,0,0,0,0
+2024-09-28,2024-2025,La Liga,Getafe,Alavés,Home,2,0,W,Álvaro Rodríguez,N,,2,0,0,1,1,1,0,0,2,0,0,0
+2024-10-05,2024-2025,La Liga,Getafe,Osasuna,Home,1,1,D,Álvaro Rodríguez,N,,17,0,0,1,0,0,0,2,1,1,0,0
+2024-10-20,2024-2025,La Liga,Getafe,Villarreal,Away,1,1,D,Álvaro Rodríguez,N,,45,0,0,3,0,0,0,1,0,0,0,0
+2024-10-27,2024-2025,La Liga,Getafe,Valencia,Away,1,1,D,Álvaro Rodríguez,Y,FW,45,0,0,0,0,0,0,0,2,0,0,1
+2024-11-04,2024-2025,La Liga,Getafe,Celta Vigo,Away,0,1,L,Álvaro Rodríguez,N,,60,0,0,2,1,0,0,1,0,1,0,0
+2024-11-10,2024-2025,La Liga,Getafe,Girona,Home,0,1,L,Álvaro Rodríguez,N,,27,0,0,0,0,0,0,3,2,0,0,0
+2024-11-22,2024-2025,La Liga,Getafe,Valladolid,Home,2,0,W,Álvaro Rodríguez,N,,26,1,0,1,1,0,0,0,0,1,0,0
+2024-12-01,2024-2025,La Liga,Getafe,Real Madrid,Away,0,2,L,Álvaro Rodríguez,Y,FW,88,0,0,0,0,1,0,9,2,1,0,2
+2024-12-09,2024-2025,La Liga,Getafe,Espanyol,Home,1,0,W,Álvaro Rodríguez,Y,FW,74,1,0,2,1,0,0,1,3,0,1,0
+2024-12-15,2024-2025,La Liga,Getafe,Atlético Madrid,Away,0,1,L,Álvaro Rodríguez,Y,FW,76,0,0,1,0,0,0,1,1,0,1,0
+2024-12-21,2024-2025,La Liga,Getafe,Mallorca,Home,0,1,L,Álvaro Rodríguez,N,,28,0,0,2,0,0,0,1,1,0,1,0
+2025-01-18,2024-2025,La Liga,Getafe,Barcelona,Home,1,1,D,Álvaro Rodríguez,N,,25,0,0,0,0,0,0,0,0,0,1,0
+2025-02-01,2024-2025,La Liga,Getafe,Sevilla,Home,0,0,D,Álvaro Rodríguez,N,,1,0,0,0,0,0,0,0,1,0,0,0
+2025-02-09,2024-2025,La Liga,Getafe,Alavés,Away,1,0,W,Álvaro Rodríguez,N,,8,0,0,1,1,0,0,0,0,0,0,0
+2025-02-23,2024-2025,La Liga,Getafe,Real Betis,Home,0,0,D,Álvaro Rodríguez,N,,26,0,0,0,0,1,0,1,1,0,0,0
+2025-03-09,2024-2025,La Liga,Getafe,Atlético Madrid,Home,2,1,W,Álvaro Rodríguez,Y,FW,61,0,0,0,0,1,0,3,2,1,0,1
+2025-03-30,2024-2025,La Liga,Getafe,Villarreal,Home,1,2,L,Álvaro Rodríguez,N,,24,0,0,3,1,0,0,0,0,0,0,0
+2025-04-18,2024-2025,La Liga,Getafe,Espanyol,Away,0,1,L,Álvaro Rodríguez,N,,35,0,0,2,2,0,0,1,1,1,0,0
+2025-04-23,2024-2025,La Liga,Getafe,Real Madrid,Home,0,1,L,Álvaro Rodríguez,N,,41,0,0,3,1,1,0,3,0,0,1,0
+2025-05-10,2024-2025,La Liga,Getafe,Valencia,Away,0,3,L,Álvaro Rodríguez,Y,FW,68,0,0,1,1,0,0,1,1,1,0,0
+2025-05-15,2024-2025,La Liga,Getafe,Athletic Club,Home,0,2,L,Álvaro Rodríguez,Y,FW,66,0,0,2,0,0,0,1,0,0,1,0
+2025-05-18,2024-2025,La Liga,Getafe,Mallorca,Away,2,1,W,Álvaro Rodríguez,N,,9,0,0,0,0,1,0,1,0,0,0,0
