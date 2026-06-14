@@ -1,0 +1,77 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2020-09-19,2020-2021,Premier League,Manchester Utd,Crystal Palace,Home,1,3,L,Donny van de Beek,N,,24,1,0,1,1,0,0,0,0,0,0,0
+2020-09-26,2020-2021,Premier League,Manchester Utd,Brighton,Away,3,2,W,Donny van de Beek,N,,1,0,0,0,0,0,0,0,0,0,0,0
+2020-10-04,2020-2021,Premier League,Manchester Utd,Tottenham Hotspur,Home,1,6,L,Donny van de Beek,N,,23,0,0,0,0,0,0,0,0,0,1,0
+2020-10-17,2020-2021,Premier League,Manchester Utd,Newcastle United,Away,4,1,W,Donny van de Beek,N,,15,0,0,0,0,0,0,1,0,0,0,0
+2020-11-01,2020-2021,Premier League,Manchester Utd,Arsenal,Home,0,1,L,Donny van de Beek,N,,16,0,0,0,0,0,0,0,0,0,0,0
+2020-11-21,2020-2021,Premier League,Manchester Utd,West Brom,Home,1,0,W,Donny van de Beek,N,,12,0,0,0,0,0,0,0,0,0,0,1
+2020-11-29,2020-2021,Premier League,Manchester Utd,Southampton,Away,3,2,W,Donny van de Beek,N,DM,90,0,0,0,0,0,0,1,2,0,0,2
+2020-12-05,2020-2021,Premier League,Manchester Utd,West Ham United,Away,3,1,W,Donny van de Beek,Y,AM,45,0,0,0,0,0,0,0,0,0,0,1
+2020-12-17,2020-2021,Premier League,Manchester Utd,Sheffield United,Away,3,2,W,Donny van de Beek,N,,11,0,0,0,0,0,0,0,0,0,0,0
+2020-12-20,2020-2021,Premier League,Manchester Utd,Leeds United,Home,6,2,W,Donny van de Beek,N,,20,0,0,0,0,0,0,0,0,0,2,1
+2021-01-27,2020-2021,Premier League,Manchester Utd,Sheffield United,Home,1,2,L,Donny van de Beek,N,,8,0,0,0,0,0,0,0,0,0,1,0
+2021-02-02,2020-2021,Premier League,Manchester Utd,Southampton,Home,9,0,W,Donny van de Beek,N,,45,0,0,0,0,1,0,1,0,0,0,0
+2021-02-14,2020-2021,Premier League,Manchester Utd,West Brom,Away,1,1,D,Donny van de Beek,N,,12,0,0,0,0,0,0,0,0,0,0,0
+2021-04-04,2020-2021,Premier League,Manchester Utd,Brighton,Home,2,1,W,Donny van de Beek,N,,9,0,0,0,0,0,0,0,0,0,0,0
+2021-04-18,2020-2021,Premier League,Manchester Utd,Burnley,Home,3,1,W,Donny van de Beek,N,,7,0,1,0,0,0,0,0,1,0,1,0
+2021-04-25,2020-2021,Premier League,Manchester Utd,Leeds United,Away,0,0,D,Donny van de Beek,N,,2,0,0,0,0,0,0,1,0,0,0,0
+2021-05-11,2020-2021,Premier League,Manchester Utd,Leicester City,Home,1,2,L,Donny van de Beek,Y,DM,90,0,0,0,0,0,0,0,1,0,1,1
+2021-05-18,2020-2021,Premier League,Manchester Utd,Fulham,Home,1,1,D,Donny van de Beek,N,,4,0,0,0,0,0,0,0,0,0,0,0
+2021-05-23,2020-2021,Premier League,Manchester Utd,Wolves,Away,2,1,W,Donny van de Beek,Y,DM,90,0,0,1,0,0,0,3,0,0,2,1
+2021-09-11,2021-2022,Premier League,Manchester Utd,Newcastle United,Home,4,1,W,Donny van de Beek,N,,6,0,0,0,0,0,0,0,0,0,0,0
+2021-11-06,2021-2022,Premier League,Manchester Utd,Manchester City,Home,0,2,L,Donny van de Beek,N,,11,0,0,0,0,0,0,2,0,0,0,0
+2021-11-20,2021-2022,Premier League,Manchester Utd,Watford,Away,1,4,L,Donny van de Beek,N,,45,1,0,1,1,0,0,0,0,0,2,1
+2021-11-28,2021-2022,Premier League,Manchester Utd,Chelsea,Away,1,1,D,Donny van de Beek,N,,2,0,0,0,0,0,0,0,1,0,1,0
+2021-12-02,2021-2022,Premier League,Manchester Utd,Arsenal,Home,3,2,W,Donny van de Beek,N,,1,0,0,0,0,0,0,0,0,0,0,0
+2021-12-05,2021-2022,Premier League,Manchester Utd,Crystal Palace,Home,1,0,W,Donny van de Beek,N,,5,0,0,0,0,0,0,0,1,0,1,0
+2021-12-11,2021-2022,Premier League,Manchester Utd,Norwich City,Away,1,0,W,Donny van de Beek,N,,3,0,0,0,0,0,0,0,0,0,1,1
+2022-01-15,2021-2022,Premier League,Manchester Utd,Aston Villa,Away,2,2,D,Donny van de Beek,N,,2,0,0,1,0,0,0,0,0,0,0,0
+2022-02-08,2021-2022,Premier League,Everton,Newcastle United,Away,1,3,L,Donny van de Beek,N,,31,0,0,0,0,0,0,0,0,0,0,0
+2022-02-12,2021-2022,Premier League,Everton,Leeds United,Home,3,0,W,Donny van de Beek,Y,CM,90,0,0,0,0,0,0,2,0,0,2,1
+2022-02-19,2021-2022,Premier League,Everton,Southampton,Away,0,2,L,Donny van de Beek,Y,CM,90,0,0,3,0,0,0,0,0,0,2,1
+2022-02-26,2021-2022,Premier League,Everton,Manchester City,Home,0,1,L,Donny van de Beek,Y,AM,70,0,0,0,0,1,0,1,0,0,2,1
+2022-03-07,2021-2022,Premier League,Everton,Tottenham Hotspur,Away,0,5,L,Donny van de Beek,Y,CM,58,0,0,0,0,0,0,3,1,0,1,1
+2022-03-13,2021-2022,Premier League,Everton,Wolves,Home,0,1,L,Donny van de Beek,Y,CM,90,0,0,0,0,0,0,1,0,0,1,1
+2022-05-22,2021-2022,Premier League,Everton,Arsenal,Away,1,5,L,Donny van de Beek,N,,54,1,0,1,1,0,0,0,0,0,2,1
+2022-08-07,2022-2023,Premier League,Manchester Utd,Brighton,Home,1,2,L,Donny van de Beek,N,,13,0,0,0,0,0,0,0,0,0,0,0
+2022-08-13,2022-2023,Premier League,Manchester Utd,Brentford,Away,0,4,L,Donny van de Beek,N,,4,0,0,0,0,0,0,0,0,0,0,0
+2022-08-22,2022-2023,Premier League,Manchester Utd,Liverpool,Home,2,1,W,Donny van de Beek,N,,5,0,0,0,0,0,0,1,0,0,0,0
+2022-11-06,2022-2023,Premier League,Manchester Utd,Aston Villa,Away,1,3,L,Donny van de Beek,Y,AM,65,0,0,1,0,0,0,0,0,1,0,0
+2022-12-27,2022-2023,Premier League,Manchester Utd,Nottingham Forest,Home,3,0,W,Donny van de Beek,N,,26,0,0,1,0,0,0,0,0,0,0,0
+2022-12-31,2022-2023,Premier League,Manchester Utd,Wolves,Away,1,0,W,Donny van de Beek,N,,10,0,0,0,0,0,0,1,1,0,0,0
+2023-01-03,2022-2023,Premier League,Manchester Utd,Bournemouth,Home,3,0,W,Donny van de Beek,Y,AM,44,0,0,0,0,0,0,2,1,0,0,1
+2023-09-30,2023-2024,Premier League,Manchester Utd,Crystal Palace,Home,0,1,L,Donny van de Beek,N,,3,0,0,1,0,0,0,0,0,0,0,0
+2024-01-13,2023-2024,Bundesliga,Eintracht Frankfurt,RB Leipzig,Away,1,0,W,Donny van de Beek,Y,FW,62,0,0,0,0,0,0,4,1,2,3,0
+2024-01-20,2023-2024,Bundesliga,Eintracht Frankfurt,Darmstadt 98,Away,2,2,D,Donny van de Beek,Y,AM,63,0,0,0,0,0,0,0,0,1,1,1
+2024-01-26,2023-2024,Bundesliga,Eintracht Frankfurt,Mainz 05,Home,1,0,W,Donny van de Beek,Y,AM,45,0,0,0,0,0,0,1,0,0,1,0
+2024-02-10,2023-2024,Bundesliga,Eintracht Frankfurt,Bochum,Home,1,1,D,Donny van de Beek,N,,63,0,0,1,0,0,0,1,0,0,1,1
+2024-02-25,2023-2024,Bundesliga,Eintracht Frankfurt,Wolfsburg,Home,2,2,D,Donny van de Beek,Y,CM,66,0,0,0,0,0,0,0,0,1,0,1
+2024-03-10,2023-2024,Bundesliga,Eintracht Frankfurt,Hoffenheim,Home,3,1,W,Donny van de Beek,N,,19,0,0,0,1,0,0,0,0,0,1,0
+2024-04-13,2023-2024,Bundesliga,Eintracht Frankfurt,Stuttgart,Away,0,3,L,Donny van de Beek,N,,25,0,0,0,0,0,0,1,0,0,0,0
+2024-04-27,2023-2024,Bundesliga,Eintracht Frankfurt,Bayern Munich,Away,1,2,L,Donny van de Beek,N,,14,0,0,0,0,0,0,0,0,1,0,0
+2024-08-29,2024-2025,La Liga,Girona,Osasuna,Home,4,0,W,Donny van de Beek,N,,10,0,1,0,0,0,0,0,0,0,0,0
+2024-09-15,2024-2025,La Liga,Girona,Barcelona,Home,1,4,L,Donny van de Beek,N,,22,0,0,1,0,0,0,0,0,1,0,1
+2024-09-21,2024-2025,La Liga,Girona,Valencia,Away,0,2,L,Donny van de Beek,N,,12,0,0,0,0,0,0,0,0,0,0,0
+2024-09-29,2024-2025,La Liga,Girona,Celta Vigo,Away,1,1,D,Donny van de Beek,N,,77,0,0,0,0,0,0,3,0,0,1,0
+2024-10-06,2024-2025,La Liga,Girona,Athletic Club,Home,2,1,W,Donny van de Beek,Y,AM,90,0,0,1,0,0,0,0,0,0,2,0
+2024-10-19,2024-2025,La Liga,Girona,Real Sociedad,Home,0,1,L,Donny van de Beek,Y,AM,58,0,0,0,0,0,0,2,0,0,0,0
+2024-10-26,2024-2025,La Liga,Girona,Las Palmas,Away,0,1,L,Donny van de Beek,Y,CM,90,0,0,0,0,1,0,4,0,0,2,3
+2024-11-02,2024-2025,La Liga,Girona,Leganés,Home,4,3,W,Donny van de Beek,Y,CM,90,0,0,1,0,0,0,3,0,0,1,0
+2024-11-10,2024-2025,La Liga,Girona,Getafe,Away,1,0,W,Donny van de Beek,Y,AM,72,0,0,1,0,1,0,2,0,0,0,0
+2024-11-23,2024-2025,La Liga,Girona,Espanyol,Home,4,1,W,Donny van de Beek,Y,AM,59,0,1,2,1,0,0,0,0,0,2,0
+2024-12-01,2024-2025,La Liga,Girona,Villarreal,Away,2,2,D,Donny van de Beek,Y,AM,72,1,0,1,1,1,0,1,0,0,1,2
+2024-12-07,2024-2025,La Liga,Girona,Real Madrid,Home,0,3,L,Donny van de Beek,Y,AM,77,0,0,1,0,0,0,0,0,0,1,2
+2024-12-14,2024-2025,La Liga,Girona,Mallorca,Away,1,2,L,Donny van de Beek,Y,CM,62,1,0,1,1,0,0,3,0,0,1,2
+2024-12-20,2024-2025,La Liga,Girona,Valladolid,Home,3,0,W,Donny van de Beek,Y,CM,82,0,0,3,0,0,0,1,0,0,0,0
+2025-01-11,2024-2025,La Liga,Girona,Alavés,Away,1,0,W,Donny van de Beek,Y,AM,69,0,0,0,0,0,0,1,1,0,0,1
+2025-01-18,2024-2025,La Liga,Girona,Sevilla,Home,1,2,L,Donny van de Beek,N,,22,0,0,0,0,0,0,0,1,0,0,0
+2025-01-26,2024-2025,La Liga,Girona,Rayo Vallecano,Away,1,2,L,Donny van de Beek,Y,AM,78,0,0,0,0,0,0,3,0,0,1,1
+2025-02-03,2024-2025,La Liga,Girona,Las Palmas,Home,2,1,W,Donny van de Beek,Y,AM,65,0,0,1,0,1,0,0,1,2,0,0
+2025-02-08,2024-2025,La Liga,Girona,Athletic Club,Away,0,3,L,Donny van de Beek,Y,CM,90,0,0,0,0,0,0,1,0,1,0,3
+2025-02-23,2024-2025,La Liga,Girona,Real Madrid,Away,0,2,L,Donny van de Beek,Y,AM,55,0,0,1,1,0,0,0,0,0,0,3
+2025-03-10,2024-2025,La Liga,Girona,Espanyol,Away,1,1,D,Donny van de Beek,N,,8,0,0,0,0,0,0,0,1,0,0,0
+2025-03-15,2024-2025,La Liga,Girona,Valencia,Home,1,1,D,Donny van de Beek,N,,54,0,0,2,0,1,0,2,1,0,1,1
+2025-04-05,2024-2025,La Liga,Girona,Alavés,Home,0,1,L,Donny van de Beek,Y,AM,67,0,0,1,1,0,0,1,0,0,1,0
+2025-04-13,2024-2025,La Liga,Girona,Osasuna,Away,1,2,L,Donny van de Beek,N,,1,0,0,0,0,0,0,0,0,0,0,0
+2025-04-21,2024-2025,La Liga,Girona,Real Betis,Home,1,3,L,Donny van de Beek,N,,34,0,0,1,0,0,0,0,0,0,0,0
+2025-04-24,2024-2025,La Liga,Girona,Leganés,Away,1,1,D,Donny van de Beek,N,,5,0,0,0,0,0,0,0,0,0,1,0

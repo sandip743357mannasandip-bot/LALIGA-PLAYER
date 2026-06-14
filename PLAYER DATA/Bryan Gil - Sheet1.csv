@@ -1,0 +1,134 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2019-01-05,2018-2019,La Liga,Sevilla,Atlético Madrid,Home,1,1,D,Bryan Gil,N,,1,0,0,0,0,0,0,0,0,0,0,0
+2019-01-13,2018-2019,La Liga,Sevilla,Athletic Club,Away,0,2,L,Bryan Gil,N,,4,0,0,1,0,0,0,0,0,0,0,0
+2019-01-19,2018-2019,La Liga,Sevilla,Real Madrid,Away,0,2,L,Bryan Gil,N,,5,0,0,0,0,0,0,0,0,0,1,0
+2019-02-10,2018-2019,La Liga,Sevilla,Eibar,Home,2,2,D,Bryan Gil,N,,17,0,0,1,0,0,0,1,1,0,0,0
+2019-03-10,2018-2019,La Liga,Sevilla,Real Sociedad,Home,5,2,W,Bryan Gil,N,,16,0,0,0,0,0,0,0,0,1,1,0
+2019-03-31,2018-2019,La Liga,Sevilla,Valencia,Home,0,1,L,Bryan Gil,N,,24,0,0,0,0,0,0,0,1,0,3,0
+2019-04-07,2018-2019,La Liga,Sevilla,Valladolid,Home,2,0,W,Bryan Gil,N,,20,0,1,0,0,0,0,0,1,3,0,0
+2019-04-25,2018-2019,La Liga,Sevilla,Rayo Vallecano,Home,5,0,W,Bryan Gil,N,,16,1,0,1,1,0,0,0,1,0,0,0
+2019-04-28,2018-2019,La Liga,Sevilla,Girona,Away,0,1,L,Bryan Gil,N,,21,0,0,0,0,0,0,2,0,2,1,0
+2019-05-01,2018-2019,La Liga,Sevilla,Leganés,Home,0,3,L,Bryan Gil,N,,21,0,0,1,0,0,0,0,3,0,1,0
+2019-05-18,2018-2019,La Liga,Sevilla,Athletic Club,Home,2,0,W,Bryan Gil,N,,22,0,0,0,0,0,0,0,1,0,1,0
+2019-08-30,2019-2020,La Liga,Sevilla,Celta Vigo,Home,1,1,D,Bryan Gil,N,,36,0,0,0,0,1,0,1,0,0,1,0
+2019-12-01,2019-2020,La Liga,Sevilla,Leganés,Home,1,0,W,Bryan Gil,N,,29,0,0,0,0,1,0,0,0,0,1,0
+2020-02-16,2019-2020,La Liga,Leganés,Real Betis,Home,0,0,D,Bryan Gil,N,,36,0,0,0,0,1,0,1,1,0,2,0
+2020-02-22,2019-2020,La Liga,Leganés,Celta Vigo,Away,0,1,L,Bryan Gil,N,,24,0,0,1,0,0,0,2,1,0,0,1
+2020-02-29,2019-2020,La Liga,Leganés,Alavés,Home,1,1,D,Bryan Gil,N,,33,0,0,0,0,1,0,3,2,1,1,0
+2020-06-13,2019-2020,La Liga,Leganés,Valladolid,Home,1,2,L,Bryan Gil,N,,32,0,0,0,0,0,0,0,1,0,1,1
+2020-06-16,2019-2020,La Liga,Leganés,Barcelona,Away,0,2,L,Bryan Gil,N,,6,0,0,0,0,0,0,0,0,0,0,0
+2020-06-19,2019-2020,La Liga,Leganés,Mallorca,Away,1,1,D,Bryan Gil,N,,35,0,0,2,0,0,0,1,1,0,6,1
+2020-06-22,2019-2020,La Liga,Leganés,Granada,Home,0,0,D,Bryan Gil,N,,9,0,0,0,0,0,0,0,0,0,1,0
+2020-06-27,2019-2020,La Liga,Leganés,Osasuna,Away,1,2,L,Bryan Gil,Y,CM,60,0,0,3,2,0,0,2,2,0,6,0
+2020-06-30,2019-2020,La Liga,Leganés,Sevilla,Home,0,3,L,Bryan Gil,Y,FW,79,0,0,1,0,0,0,0,0,0,2,1
+2020-07-12,2019-2020,La Liga,Leganés,Valencia,Home,1,0,W,Bryan Gil,N,,64,0,0,2,0,0,0,1,0,1,1,1
+2020-07-16,2019-2020,La Liga,Leganés,Athletic Club,Away,2,0,W,Bryan Gil,Y,LM,90,0,0,2,0,0,0,0,1,0,2,0
+2020-07-19,2019-2020,La Liga,Leganés,Real Madrid,Home,2,2,D,Bryan Gil,Y,LM,90,1,0,3,2,0,0,0,3,0,8,0
+2020-09-27,2020-2021,La Liga,Sevilla,Cádiz,Away,3,1,W,Bryan Gil,N,,13,0,0,0,0,0,0,1,0,0,1,1
+2020-10-18,2020-2021,La Liga,Eibar,Osasuna,Home,0,0,D,Bryan Gil,N,,21,0,0,2,2,0,0,0,2,0,2,0
+2020-10-24,2020-2021,La Liga,Eibar,Sevilla,Away,1,0,W,Bryan Gil,Y,,84,0,0,0,0,0,0,1,3,0,2,1
+2020-10-30,2020-2021,La Liga,Eibar,Cádiz,Home,0,2,L,Bryan Gil,Y,AM,90,0,0,2,0,0,0,1,2,0,14,3
+2020-11-07,2020-2021,La Liga,Eibar,Huesca,Away,1,1,D,Bryan Gil,Y,AM,85,0,0,1,0,0,0,2,3,0,5,0
+2020-11-22,2020-2021,La Liga,Eibar,Getafe,Home,0,0,D,Bryan Gil,Y,LM,90,0,0,1,0,0,0,0,4,0,10,0
+2020-11-30,2020-2021,La Liga,Eibar,Real Betis,Away,2,0,W,Bryan Gil,Y,AM,89,0,0,2,2,1,0,4,1,10,3,1
+2020-12-07,2020-2021,La Liga,Eibar,Valencia,Home,0,0,D,Bryan Gil,Y,LM,90,0,0,2,0,0,0,1,0,0,17,2
+2020-12-13,2020-2021,La Liga,Eibar,Real Sociedad,Away,1,1,D,Bryan Gil,Y,LM,89,0,0,2,0,0,0,1,4,0,15,0
+2020-12-20,2020-2021,La Liga,Eibar,Real Madrid,Home,1,3,L,Bryan Gil,Y,LM,90,0,0,0,0,0,0,0,2,0,11,0
+2020-12-23,2020-2021,La Liga,Eibar,Alavés,Away,1,2,L,Bryan Gil,Y,AM,90,0,0,1,1,1,0,2,2,0,6,1
+2021-01-03,2020-2021,La Liga,Eibar,Granada,Home,2,0,W,Bryan Gil,Y,LM,90,2,0,4,2,0,0,2,0,3,13,0
+2021-01-24,2020-2021,La Liga,Eibar,Celta Vigo,Away,1,1,D,Bryan Gil,Y,LW,90,1,0,1,1,0,0,1,2,0,4,0
+2021-01-30,2020-2021,La Liga,Eibar,Sevilla,Home,0,2,L,Bryan Gil,Y,LM,90,0,0,3,0,0,0,0,0,0,11,0
+2021-02-07,2020-2021,La Liga,Eibar,Osasuna,Away,1,2,L,Bryan Gil,Y,LM,90,0,1,1,1,0,0,0,2,0,8,0
+2021-02-13,2020-2021,La Liga,Eibar,Valladolid,Home,1,1,D,Bryan Gil,Y,LM,90,0,1,0,0,0,0,0,4,1,6,0
+2021-02-20,2020-2021,La Liga,Eibar,Elche,Away,0,1,L,Bryan Gil,Y,LM,90,0,0,1,0,1,0,3,1,2,0,0
+2021-02-27,2020-2021,La Liga,Eibar,Huesca,Home,1,1,D,Bryan Gil,Y,LM,78,0,0,0,0,0,0,1,0,0,3,1
+2021-03-06,2020-2021,La Liga,Eibar,Cádiz,Away,0,1,L,Bryan Gil,Y,LM,90,0,0,2,0,0,0,1,1,0,5,0
+2021-03-14,2020-2021,La Liga,Eibar,Villarreal,Home,1,3,L,Bryan Gil,Y,AM,90,0,0,3,0,1,0,1,1,1,8,1
+2021-03-20,2020-2021,La Liga,Eibar,Athletic Club,Away,1,1,D,Bryan Gil,Y,AM,90,0,0,1,1,0,0,1,0,1,3,1
+2021-04-03,2020-2021,La Liga,Eibar,Real Madrid,Away,0,2,L,Bryan Gil,Y,LW,45,0,0,1,0,1,0,1,0,0,0,0
+2021-04-22,2020-2021,La Liga,Eibar,Granada,Away,1,4,L,Bryan Gil,Y,FW,82,0,0,1,1,0,0,1,1,5,0,0
+2021-04-26,2020-2021,La Liga,Eibar,Real Sociedad,Home,0,1,L,Bryan Gil,Y,AM,90,0,0,2,0,1,0,0,3,0,3,0
+2021-05-01,2020-2021,La Liga,Eibar,Alavés,Home,3,0,W,Bryan Gil,Y,RM,81,0,1,1,1,0,0,1,0,6,1,1
+2021-05-09,2020-2021,La Liga,Eibar,Getafe,Away,1,0,W,Bryan Gil,Y,RM,90,0,0,0,0,0,0,1,2,1,3,0
+2021-05-13,2020-2021,La Liga,Eibar,Real Betis,Home,1,1,D,Bryan Gil,Y,RM,71,0,0,1,1,0,0,0,0,7,2,3
+2021-05-16,2020-2021,La Liga,Eibar,Valencia,Away,1,4,L,Bryan Gil,N,,55,1,0,4,3,0,0,2,2,6,2,0
+2021-05-22,2020-2021,La Liga,Eibar,Barcelona,Home,0,1,L,Bryan Gil,Y,RM,45,0,0,0,0,0,0,4,0,8,0,0
+2021-08-29,2021-2022,Premier League,Tottenham Hotspur,Watford,Home,1,0,W,Bryan Gil,N,,3,0,0,0,0,0,0,0,0,0,0,0
+2021-09-19,2021-2022,Premier League,Tottenham Hotspur,Chelsea,Home,0,3,L,Bryan Gil,N,,29,0,0,0,0,0,0,1,1,0,0,0
+2021-09-26,2021-2022,Premier League,Tottenham Hotspur,Arsenal,Away,1,3,L,Bryan Gil,N,,21,0,0,0,0,0,0,0,2,1,0,0
+2021-10-03,2021-2022,Premier League,Tottenham Hotspur,Aston Villa,Home,2,1,W,Bryan Gil,N,,2,0,0,0,0,0,0,0,1,0,0,0
+2021-10-24,2021-2022,Premier League,Tottenham Hotspur,West Ham United,Away,0,1,L,Bryan Gil,N,,7,0,0,0,0,0,0,0,0,0,0,0
+2021-12-26,2021-2022,Premier League,Tottenham Hotspur,Crystal Palace,Home,3,0,W,Bryan Gil,N,,15,0,0,0,0,0,0,0,0,0,0,0
+2021-12-28,2021-2022,Premier League,Tottenham Hotspur,Southampton,Away,1,1,D,Bryan Gil,N,,14,0,0,1,1,0,0,0,0,5,0,0
+2022-01-01,2021-2022,Premier League,Tottenham Hotspur,Watford,Away,1,0,W,Bryan Gil,N,,1,0,0,0,0,0,0,0,0,0,0,0
+2022-01-23,2021-2022,Premier League,Tottenham Hotspur,Chelsea,Away,0,2,L,Bryan Gil,N,,2,0,0,0,0,0,0,0,0,0,0,0
+2022-02-06,2021-2022,La Liga,Valencia,Real Sociedad,Home,0,0,D,Bryan Gil,Y,FW,90,0,0,4,1,0,0,0,1,7,0,1
+2022-02-13,2021-2022,La Liga,Valencia,Alavés,Away,1,2,L,Bryan Gil,N,,45,0,0,0,0,1,0,1,1,8,0,0
+2022-02-20,2021-2022,La Liga,Valencia,Barcelona,Home,1,4,L,Bryan Gil,Y,LM,90,0,1,1,0,0,0,2,2,10,1,0
+2022-02-26,2021-2022,La Liga,Valencia,Mallorca,Away,1,0,W,Bryan Gil,Y,AM,89,0,0,1,0,1,0,3,2,4,0,0
+2022-03-05,2021-2022,La Liga,Valencia,Granada,Home,3,1,W,Bryan Gil,N,,18,0,0,0,0,0,0,0,1,1,0,0
+2022-03-12,2021-2022,La Liga,Valencia,Getafe,Away,0,0,D,Bryan Gil,Y,AM,75,0,0,1,0,0,1,1,2,2,0,0
+2022-03-19,2021-2022,La Liga,Valencia,Elche,Away,1,0,W,Bryan Gil,Y,RW,71,0,0,0,0,0,1,1,2,2,2,0
+2022-04-03,2021-2022,La Liga,Valencia,Cádiz,Home,0,0,D,Bryan Gil,Y,AM,77,0,0,0,0,0,0,1,4,2,1,0
+2022-04-16,2021-2022,La Liga,Valencia,Osasuna,Home,1,2,L,Bryan Gil,Y,LM,73,0,0,1,0,0,0,0,3,2,0,0
+2022-04-30,2021-2022,La Liga,Valencia,Levante,Home,1,1,D,Bryan Gil,N,,1,0,0,0,0,0,0,0,0,0,1,0
+2022-05-10,2021-2022,La Liga,Valencia,Real Betis,Home,0,3,L,Bryan Gil,Y,FW,62,0,0,1,1,0,0,2,3,4,3,0
+2022-05-14,2021-2022,La Liga,Valencia,Espanyol,Away,1,1,D,Bryan Gil,N,,17,0,0,2,0,0,0,0,0,2,0,0
+2022-05-21,2021-2022,La Liga,Valencia,Celta Vigo,Home,2,0,W,Bryan Gil,Y,LM,45,0,0,0,0,0,0,1,1,1,0,0
+2022-10-29,2022-2023,Premier League,Tottenham Hotspur,Bournemouth,Away,3,2,W,Bryan Gil,N,,7,0,0,0,0,0,0,0,0,0,1,0
+2023-01-01,2022-2023,Premier League,Tottenham Hotspur,Aston Villa,Home,0,2,L,Bryan Gil,Y,FW,62,0,0,0,0,0,0,0,1,0,1,0
+2023-01-04,2022-2023,Premier League,Tottenham Hotspur,Crystal Palace,Away,4,0,W,Bryan Gil,Y,AM,76,0,1,2,1,1,0,2,1,1,0,1
+2023-01-15,2022-2023,Premier League,Tottenham Hotspur,Arsenal,Home,0,2,L,Bryan Gil,N,,3,0,0,0,0,0,0,0,0,1,0,0
+2023-02-05,2022-2023,La Liga,Sevilla,Barcelona,Away,0,3,L,Bryan Gil,N,,45,0,0,0,0,0,0,0,1,0,0,0
+2023-02-11,2022-2023,La Liga,Sevilla,Mallorca,Home,2,0,W,Bryan Gil,Y,DM,90,1,0,2,1,1,0,1,1,0,5,1
+2023-02-19,2022-2023,La Liga,Sevilla,Rayo Vallecano,Away,1,1,D,Bryan Gil,N,,28,0,0,1,0,0,0,0,0,0,0,0
+2023-02-26,2022-2023,La Liga,Sevilla,Osasuna,Home,2,3,L,Bryan Gil,Y,DM,56,0,0,0,0,0,0,3,1,0,2,2
+2023-03-04,2022-2023,La Liga,Sevilla,Atlético Madrid,Away,1,6,L,Bryan Gil,N,,13,0,0,0,0,0,0,0,0,0,0,0
+2023-03-12,2022-2023,La Liga,Sevilla,Almería,Home,2,1,W,Bryan Gil,N,,39,0,1,2,0,0,0,1,1,0,1,1
+2023-03-19,2022-2023,La Liga,Sevilla,Getafe,Away,0,2,L,Bryan Gil,Y,LM,54,0,0,1,1,0,0,1,2,0,1,0
+2023-04-01,2022-2023,La Liga,Sevilla,Cádiz,Away,2,0,W,Bryan Gil,Y,AM,75,0,1,0,0,0,0,1,2,0,1,0
+2023-04-07,2022-2023,La Liga,Sevilla,Celta Vigo,Home,2,2,D,Bryan Gil,Y,AM,77,0,0,2,0,0,0,0,2,0,3,2
+2023-04-16,2022-2023,La Liga,Sevilla,Valencia,Away,2,0,W,Bryan Gil,Y,AM,89,0,0,0,0,0,0,3,1,1,0,1
+2023-04-23,2022-2023,La Liga,Sevilla,Villarreal,Home,2,1,W,Bryan Gil,Y,AM,57,0,0,2,0,0,0,0,2,0,0,1
+2023-04-27,2022-2023,La Liga,Sevilla,Athletic Club,Away,1,0,W,Bryan Gil,N,,45,0,0,1,0,0,0,1,0,0,3,1
+2023-05-01,2022-2023,La Liga,Sevilla,Girona,Home,0,2,L,Bryan Gil,Y,AM,81,0,0,4,1,0,0,3,3,1,4,1
+2023-05-04,2022-2023,La Liga,Sevilla,Espanyol,Home,3,2,W,Bryan Gil,Y,AM,75,1,0,1,1,1,0,2,2,0,4,0
+2023-05-21,2022-2023,La Liga,Sevilla,Real Betis,Home,0,0,D,Bryan Gil,N,,20,0,0,0,0,0,0,0,0,0,2,0
+2023-05-24,2022-2023,La Liga,Sevilla,Elche,Away,1,1,D,Bryan Gil,N,,13,0,0,0,0,1,0,0,1,1,1,0
+2023-05-27,2022-2023,La Liga,Sevilla,Real Madrid,Home,1,2,L,Bryan Gil,Y,AM,61,0,0,1,0,0,0,2,2,0,2,0
+2023-10-27,2023-2024,Premier League,Tottenham Hotspur,Crystal Palace,Away,2,1,W,Bryan Gil,N,,2,0,0,0,0,0,0,0,1,1,0,0
+2023-11-11,2023-2024,Premier League,Tottenham Hotspur,Wolves,Away,1,2,L,Bryan Gil,N,,16,0,0,0,0,0,0,0,1,0,0,0
+2023-11-26,2023-2024,Premier League,Tottenham Hotspur,Aston Villa,Home,1,2,L,Bryan Gil,Y,AM,70,0,0,0,1,0,0,1,0,0,3,0
+2023-12-03,2023-2024,Premier League,Tottenham Hotspur,Manchester City,Away,3,3,D,Bryan Gil,Y,AM,45,0,0,0,0,0,0,0,0,0,0,1
+2023-12-07,2023-2024,Premier League,Tottenham Hotspur,West Ham United,Home,1,2,L,Bryan Gil,N,,7,0,0,0,0,0,0,0,0,0,0,0
+2023-12-10,2023-2024,Premier League,Tottenham Hotspur,Newcastle United,Home,4,1,W,Bryan Gil,N,,5,0,0,0,0,0,0,0,0,0,0,0
+2023-12-28,2023-2024,Premier League,Tottenham Hotspur,Brighton,Away,2,4,L,Bryan Gil,N,,26,0,0,0,1,0,0,1,1,0,4,0
+2023-12-31,2023-2024,Premier League,Tottenham Hotspur,Bournemouth,Home,3,1,W,Bryan Gil,N,,9,0,0,0,1,0,0,0,0,0,1,0
+2024-01-14,2023-2024,Premier League,Tottenham Hotspur,Manchester Utd,Away,2,2,D,Bryan Gil,N,,11,0,0,0,0,0,0,0,0,0,1,0
+2024-02-03,2023-2024,Premier League,Tottenham Hotspur,Everton,Away,2,2,D,Bryan Gil,N,,5,0,0,0,0,0,0,0,0,0,0,0
+2024-05-02,2023-2024,Premier League,Tottenham Hotspur,Chelsea,Away,0,2,L,Bryan Gil,N,,13,0,0,0,1,0,0,0,0,0,3,0
+2024-08-15,2024-2025,La Liga,Girona,Real Betis,Away,1,1,D,Bryan Gil,Y,FW,80,0,0,4,1,0,0,1,2,0,5,2
+2024-08-25,2024-2025,La Liga,Girona,Atlético Madrid,Away,0,3,L,Bryan Gil,Y,FW,90,0,0,4,0,0,0,2,2,0,2,2
+2024-08-29,2024-2025,La Liga,Girona,Osasuna,Home,4,0,W,Bryan Gil,Y,LM,80,1,0,2,2,0,0,0,1,0,3,0
+2024-09-01,2024-2025,La Liga,Girona,Sevilla,Home,2,0,W,Bryan Gil,Y,FW,88,0,0,1,0,0,0,2,0,0,2,4
+2024-09-15,2024-2025,La Liga,Girona,Barcelona,Home,1,4,L,Bryan Gil,Y,AM,53,0,0,2,2,1,0,2,0,1,1,0
+2024-09-21,2024-2025,La Liga,Girona,Rayo Vallecano,Away,0,2,L,Bryan Gil,N,,12,0,0,0,0,0,0,0,0,0,0,0
+2024-09-25,2024-2025,La Liga,Girona,Celta Vigo,Away,0,0,D,Bryan Gil,Y,LM,66,0,0,0,0,0,0,0,3,1,0,0
+2024-09-29,2024-2025,La Liga,Girona,Athletic Club,Away,1,1,D,Bryan Gil,N,,19,0,0,1,1,0,0,0,1,0,3,0
+2024-10-06,2024-2025,La Liga,Girona,Leganés,Home,2,1,W,Bryan Gil,N,,32,0,0,0,0,0,0,1,1,0,1,0
+2024-11-02,2024-2025,La Liga,Girona,Leganés,Home,4,3,W,Bryan Gil,Y,FW,90,0,0,1,0,0,0,1,2,0,4,1
+2024-11-10,2024-2025,La Liga,Girona,Getafe,Away,1,0,W,Bryan Gil,Y,AM,88,0,1,0,0,0,0,1,2,0,2,2
+2024-11-23,2024-2025,La Liga,Girona,Espanyol,Home,4,1,W,Bryan Gil,Y,AM,71,1,2,1,1,0,0,1,1,0,3,1
+2024-12-01,2024-2025,La Liga,Girona,Villarreal,Away,2,2,D,Bryan Gil,Y,AM,90,0,0,2,1,1,0,2,2,0,10,0
+2024-12-07,2024-2025,La Liga,Girona,Real Madrid,Home,0,3,L,Bryan Gil,Y,AM,57,0,0,1,0,0,0,0,2,0,0,0
+2024-12-14,2024-2025,La Liga,Girona,Mallorca,Away,1,2,L,Bryan Gil,Y,RM,56,0,0,2,0,0,0,1,3,0,2,0
+2024-12-20,2024-2025,La Liga,Girona,Valladolid,Home,3,0,W,Bryan Gil,Y,FW,82,0,0,2,1,0,0,0,2,0,6,0
+2025-01-11,2024-2025,La Liga,Girona,Alavés,Home,1,0,W,Bryan Gil,Y,DM,76,0,0,0,0,0,0,1,5,0,6,1
+2025-01-18,2024-2025,La Liga,Girona,Sevilla,Home,1,2,L,Bryan Gil,Y,AM,88,0,0,1,1,0,0,1,1,0,6,1
+2025-01-26,2024-2025,La Liga,Girona,Rayo Vallecano,Away,1,2,L,Bryan Gil,Y,AM,90,1,0,4,2,0,0,1,3,0,4,2
+2025-02-03,2024-2025,La Liga,Girona,Las Palmas,Home,2,1,W,Bryan Gil,Y,AM,87,0,0,2,1,0,0,2,1,1,4,0
+2025-02-08,2024-2025,La Liga,Girona,Athletic Club,Away,0,3,L,Bryan Gil,Y,FW,66,0,0,1,1,1,0,0,1,1,0,1
+2025-02-14,2024-2025,La Liga,Girona,Getafe,Home,1,2,L,Bryan Gil,Y,FW,77,0,0,0,0,0,0,0,3,0,3,1
+2025-02-23,2024-2025,La Liga,Girona,Real Madrid,Away,0,2,L,Bryan Gil,N,,25,0,0,0,0,0,0,0,0,0,3,0
+2025-03-01,2024-2025,La Liga,Girona,Celta Vigo,Home,2,2,D,Bryan Gil,Y,AM,83,0,0,1,1,0,0,1,3,0,1,0
+2025-03-10,2024-2025,La Liga,Girona,Espanyol,Away,1,1,D,Bryan Gil,Y,FW,75,0,0,0,0,1,0,2,0,0,3,0
