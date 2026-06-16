@@ -1,0 +1,48 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2023-11-05,2023-2024,La Liga,Rayo Vallecano,Real Madrid,Away,0,0,D,Andrei Ratiu,Y,RB,90,0,0,0,0,0,0,1,0,1,1,0
+2023-11-11,2023-2024,La Liga,Rayo Vallecano,Girona,Home,1,2,L,Andrei Ratiu,Y,RB,77,0,0,1,1,0,0,0,0,1,1,0
+2023-11-25,2023-2024,La Liga,Rayo Vallecano,Barcelona,Home,1,1,D,Andrei Ratiu,N,-,13,0,0,0,0,0,0,1,0,0,0,0
+2023-12-19,2023-2024,La Liga,Rayo Vallecano,Valencia,Home,0,1,L,Andrei Ratiu,Y,RB,79,0,0,1,0,0,0,0,0,4,1,0
+2024-01-31,2023-2024,La Liga,Rayo Vallecano,Atlético Madrid,Away,1,2,L,Andrei Ratiu,Y,DM,63,0,0,1,0,0,0,0,0,0,0,0
+2024-02-11,2023-2024,La Liga,Rayo Vallecano,Mallorca,Away,1,2,L,Andrei Ratiu,N,-,4,0,0,0,0,0,0,0,0,0,0,0
+2024-03-17,2023-2024,La Liga,Rayo Vallecano,Real Betis,Home,2,0,W,Andrei Ratiu,N,-,13,0,0,0,0,0,0,0,0,0,0,0
+2024-03-31,2023-2024,La Liga,Rayo Vallecano,Celta Vigo,Away,0,0,D,Andrei Ratiu,N,-,75,0,0,2,0,0,0,0,0,1,0,0
+2024-04-13,2023-2024,La Liga,Rayo Vallecano,Getafe,Home,0,0,D,Andrei Ratiu,N,-,7,0,0,0,0,0,0,0,0,0,1,0
+2024-04-28,2023-2024,La Liga,Rayo Vallecano,Villarreal,Away,0,3,L,Andrei Ratiu,Y,RB,90,0,0,1,0,0,0,2,0,2,0,0
+2024-05-19,2023-2024,La Liga,Rayo Vallecano,Barcelona,Away,0,3,L,Andrei Ratiu,Y,RB,29,0,0,0,0,0,0,0,0,3,1,0
+2024-05-25,2023-2024,La Liga,Rayo Vallecano,Athletic Club,Home,0,1,L,Andrei Ratiu,Y,RB,90,0,0,0,0,0,0,0,0,6,1,0
+2024-08-18,2024-2025,La Liga,Rayo Vallecano,Real Sociedad,Away,2,1,W,Andrei Ratiu,Y,RB,79,0,0,2,1,0,0,1,0,1,0,1
+2024-08-31,2024-2025,La Liga,Rayo Vallecano,Espanyol,Away,1,2,L,Andrei Ratiu,Y,RB,90,0,0,1,0,0,0,2,0,1,2,1
+2024-09-16,2024-2025,La Liga,Rayo Vallecano,Osasuna,Home,3,1,W,Andrei Ratiu,Y,RB,90,1,0,1,1,0,0,1,0,4,5,0
+2024-09-22,2024-2025,La Liga,Rayo Vallecano,Atlético Madrid,Home,1,1,D,Andrei Ratiu,Y,RB,90,0,1,3,0,0,0,1,1,5,0,2
+2024-09-25,2024-2025,La Liga,Rayo Vallecano,Girona,Away,0,0,D,Andrei Ratiu,Y,RM,90,0,0,1,0,1,0,1,0,0,2,1
+2024-09-28,2024-2025,La Liga,Rayo Vallecano,Leganés,Home,1,1,D,Andrei Ratiu,Y,RB,90,0,0,2,1,0,0,1,0,1,2,0
+2024-10-05,2024-2025,La Liga,Rayo Vallecano,Valladolid,Away,2,1,W,Andrei Ratiu,Y,RB,90,0,0,2,0,0,0,0,0,3,0,0
+2024-10-20,2024-2025,La Liga,Rayo Vallecano,Mallorca,Away,0,1,L,Andrei Ratiu,Y,RB,90,0,0,0,0,0,0,1,0,1,1,1
+2024-10-26,2024-2025,La Liga,Rayo Vallecano,Alavés,Home,1,0,W,Andrei Ratiu,Y,RB,90,0,0,2,0,0,0,0,0,6,2,1
+2024-11-08,2024-2025,La Liga,Rayo Vallecano,Las Palmas,Home,1,3,L,Andrei Ratiu,Y,RB,90,0,0,3,1,0,0,0,0,4,3,0
+2024-11-24,2024-2025,La Liga,Rayo Vallecano,Sevilla,Away,0,1,L,Andrei Ratiu,Y,RB,90,0,0,0,0,0,0,2,2,3,3,1
+2024-12-01,2024-2025,La Liga,Rayo Vallecano,Athletic Club,Home,1,2,L,Andrei Ratiu,Y,RB,90,0,0,0,0,0,0,1,0,3,1,1
+2024-12-07,2024-2025,La Liga,Rayo Vallecano,Valencia,Away,1,0,W,Andrei Ratiu,Y,RB,90,0,0,0,0,0,0,0,0,0,1,1
+2024-12-14,2024-2025,La Liga,Rayo Vallecano,Real Madrid,Home,3,3,D,Andrei Ratiu,Y,RB,90,0,0,0,0,0,0,0,0,1,2,1
+2024-12-18,2024-2025,La Liga,Rayo Vallecano,Villarreal,Away,1,1,D,Andrei Ratiu,N,,34,0,0,1,0,0,0,1,1,1,0,0
+2024-12-22,2024-2025,La Liga,Rayo Vallecano,Real Betis,Away,1,1,D,Andrei Ratiu,Y,RB,90,0,0,1,1,0,0,2,0,2,1,2
+2025-01-10,2024-2025,La Liga,Rayo Vallecano,Celta Vigo,Home,2,1,W,Andrei Ratiu,Y,RB,90,0,0,0,0,0,0,1,0,4,1,2
+2025-01-19,2024-2025,La Liga,Rayo Vallecano,Osasuna,Away,1,1,D,Andrei Ratiu,Y,RB,90,0,1,0,0,0,0,3,1,2,0,0
+2025-01-26,2024-2025,La Liga,Rayo Vallecano,Girona,Home,2,1,W,Andrei Ratiu,Y,RB,90,0,0,0,0,0,0,1,0,3,4,0
+2025-01-31,2024-2025,La Liga,Rayo Vallecano,Leganés,Away,1,0,W,Andrei Ratiu,Y,RB,85,0,0,1,0,1,0,1,0,1,1,1
+2025-02-07,2024-2025,La Liga,Rayo Vallecano,Valladolid,Home,1,0,W,Andrei Ratiu,Y,RB,90,0,0,0,0,0,0,1,0,3,1,0
+2025-02-17,2024-2025,La Liga,Rayo Vallecano,Barcelona,Away,0,1,L,Andrei Ratiu,Y,RB,90,0,0,0,0,1,0,1,1,2,1,2
+2025-02-22,2024-2025,La Liga,Rayo Vallecano,Villarreal,Home,0,1,L,Andrei Ratiu,Y,RB,90,0,0,0,0,1,0,2,2,1,1,1
+2025-03-01,2024-2025,La Liga,Rayo Vallecano,Sevilla,Home,1,1,D,Andrei Ratiu,Y,RB,90,1,0,2,2,0,0,0,1,0,4,1
+2025-03-09,2024-2025,La Liga,Rayo Vallecano,Real Madrid,Away,1,2,L,Andrei Ratiu,Y,RB,90,0,0,2,1,0,0,1,2,0,1,1
+2025-03-16,2024-2025,La Liga,Rayo Vallecano,Real Sociedad,Home,2,2,D,Andrei Ratiu,Y,RB,90,0,1,1,0,0,0,0,2,0,1,3
+2025-03-29,2024-2025,La Liga,Rayo Vallecano,Alavés,Away,2,0,W,Andrei Ratiu,Y,RB,90,0,0,1,0,0,0,1,0,1,0,1
+2025-04-04,2024-2025,La Liga,Rayo Vallecano,Espanyol,Home,0,4,L,Andrei Ratiu,Y,RB,90,0,0,0,0,0,0,1,0,4,0,0
+2025-04-13,2024-2025,La Liga,Rayo Vallecano,Athletic Club,Away,1,3,L,Andrei Ratiu,Y,RB,90,0,0,0,0,0,0,0,0,0,1,2
+2025-04-19,2024-2025,La Liga,Rayo Vallecano,Valencia,Home,1,1,D,Andrei Ratiu,Y,RB,90,0,0,0,0,0,0,2,0,0,6,0
+2025-04-24,2024-2025,La Liga,Rayo Vallecano,Atlético Madrid,Away,0,3,L,Andrei Ratiu,Y,RB,90,0,0,2,0,1,0,1,0,0,3,1
+2025-05-09,2024-2025,La Liga,Rayo Vallecano,Las Palmas,Away,1,0,W,Andrei Ratiu,Y,AM,77,0,0,1,0,0,0,0,0,0,0,0
+2025-05-15,2024-2025,La Liga,Rayo Vallecano,Real Betis,Home,2,2,D,Andrei Ratiu,Y,AM,90,0,0,0,0,0,0,1,1,0,3,1
+2025-05-18,2024-2025,La Liga,Rayo Vallecano,Celta Vigo,Away,2,1,W,Andrei Ratiu,Y,RM,90,0,0,0,0,0,0,1,0,1,2,0
+2025-05-24,2024-2025,La Liga,Rayo Vallecano,Mallorca,Home,0,0,D,Andrei Ratiu,Y,AM,90,0,0,2,0,0,0,1,2,0,2,1

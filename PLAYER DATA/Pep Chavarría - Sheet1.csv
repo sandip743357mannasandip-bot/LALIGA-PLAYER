@@ -1,0 +1,74 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2022-09-04,2022-2023,La Liga,Rayo Vallecano,Osasuna,Away,1,2,L,Pep Chavarría,N,,1,0,0,0,0,0,0,0,0,0,0,0
+2022-10-14,2022-2023,La Liga,Rayo Vallecano,Getafe,Home,0,0,D,Pep Chavarría,N,,23,0,0,0,0,0,0,1,0,0,0,0
+2022-10-22,2022-2023,La Liga,Rayo Vallecano,Cádiz,Home,5,1,W,Pep Chavarría,N,,21,0,0,0,0,0,0,0,0,0,0,0
+2022-10-29,2022-2023,La Liga,Rayo Vallecano,Sevilla,Away,1,0,W,Pep Chavarría,N,,18,0,0,0,0,0,0,0,0,0,0,0
+2022-11-07,2022-2023,La Liga,Rayo Vallecano,Real Madrid,Home,3,2,W,Pep Chavarría,N,,3,0,0,0,0,1,0,1,0,0,0,0
+2022-12-29,2022-2023,La Liga,Rayo Vallecano,Girona,Away,2,2,D,Pep Chavarría,N,,1,0,0,0,0,0,0,1,0,0,0,0
+2023-01-30,2022-2023,La Liga,Rayo Vallecano,Villarreal,Away,1,0,W,Pep Chavarría,N,,28,0,0,0,0,0,0,1,1,1,1,0
+2023-02-12,2022-2023,La Liga,Rayo Vallecano,Getafe,Away,1,1,D,Pep Chavarría,N,,8,0,0,0,0,0,0,0,2,1,0,0
+2023-04-03,2022-2023,La Liga,Rayo Vallecano,Valencia,Away,1,1,D,Pep Chavarría,N,,25,0,0,0,0,0,0,0,1,0,1,0
+2023-04-14,2022-2023,La Liga,Rayo Vallecano,Osasuna,Home,2,1,W,Pep Chavarría,N,,16,0,0,0,0,0,0,0,1,0,1,0
+2023-04-22,2022-2023,La Liga,Rayo Vallecano,Real Sociedad,Away,1,2,L,Pep Chavarría,N,,45,0,0,0,0,0,0,0,1,0,0,0
+2023-04-26,2022-2023,La Liga,Rayo Vallecano,Barcelona,Home,2,1,W,Pep Chavarría,N,,11,0,0,0,0,0,0,0,1,0,1,0
+2023-05-04,2022-2023,La Liga,Rayo Vallecano,Valladolid,Home,2,1,W,Pep Chavarría,N,,3,0,0,0,0,0,0,0,1,0,0,0
+2023-05-24,2022-2023,La Liga,Rayo Vallecano,Real Madrid,Away,1,2,L,Pep Chavarría,N,,28,0,1,0,0,0,0,0,0,1,0,0
+2023-05-28,2022-2023,La Liga,Rayo Vallecano,Villarreal,Home,2,1,W,Pep Chavarría,Y,AM,71,0,1,0,0,0,0,0,0,3,1,1
+2023-06-04,2022-2023,La Liga,Rayo Vallecano,Mallorca,Away,0,3,L,Pep Chavarría,Y,DM,64,0,0,0,0,0,0,0,3,0,1,0
+2023-08-11,2023-2024,La Liga,Rayo Vallecano,Almería,Away,2,0,W,Pep Chavarría,N,,5,0,0,0,0,0,0,0,0,0,0,0
+2023-08-28,2023-2024,La Liga,Rayo Vallecano,Atlético Madrid,Home,0,7,L,Pep Chavarría,N,,9,0,0,0,0,0,0,0,0,0,0,0
+2023-09-27,2023-2024,La Liga,Rayo Vallecano,Cádiz,Away,0,0,D,Pep Chavarría,N,,,0,0,0,0,1,0,0,0,0,0,0
+2023-10-07,2023-2024,La Liga,Rayo Vallecano,Sevilla,Away,2,2,D,Pep Chavarría,N,,8,0,0,0,0,0,0,1,0,0,0,0
+2023-12-11,2023-2024,La Liga,Rayo Vallecano,Celta Vigo,Home,0,0,D,Pep Chavarría,Y,LB,90,0,0,1,0,0,0,2,0,13,2,1
+2023-12-19,2023-2024,La Liga,Rayo Vallecano,Valencia,Home,0,1,L,Pep Chavarría,Y,LB,90,0,0,0,0,0,0,1,0,3,0,1
+2024-01-02,2023-2024,La Liga,Rayo Vallecano,Getafe,Away,2,0,W,Pep Chavarría,N,,45,0,0,0,0,0,0,0,0,1,1,0
+2024-01-20,2023-2024,La Liga,Rayo Vallecano,Las Palmas,Home,0,2,L,Pep Chavarría,N,,9,0,0,0,0,0,0,1,0,2,1,0
+2024-01-27,2023-2024,La Liga,Rayo Vallecano,Real Sociedad,Away,0,0,D,Pep Chavarría,Y,LM,90,0,0,0,0,0,0,0,0,3,0,0
+2024-01-31,2023-2024,La Liga,Rayo Vallecano,Atlético Madrid,Away,1,2,L,Pep Chavarría,Y,DM,90,0,1,3,0,1,0,0,0,4,0,2
+2024-02-05,2023-2024,La Liga,Rayo Vallecano,Sevilla,Home,1,2,L,Pep Chavarría,Y,LM,63,0,0,2,0,0,0,0,1,2,0,0
+2024-02-11,2023-2024,La Liga,Rayo Vallecano,Mallorca,Away,1,2,L,Pep Chavarría,N,,19,0,0,0,0,0,0,0,0,0,0,0
+2024-02-26,2023-2024,La Liga,Rayo Vallecano,Girona,Away,0,3,L,Pep Chavarría,N,,12,0,0,0,0,2,1,2,0,0,0,0
+2024-03-10,2023-2024,La Liga,Rayo Vallecano,Alavés,Away,0,1,L,Pep Chavarría,N,,45,0,0,1,0,0,0,0,0,4,1,0
+2024-03-17,2023-2024,La Liga,Rayo Vallecano,Real Betis,Home,2,0,W,Pep Chavarría,Y,LB,67,0,0,0,0,0,0,0,1,1,1,0
+2024-03-31,2023-2024,La Liga,Rayo Vallecano,Celta Vigo,Away,0,0,D,Pep Chavarría,Y,LB,45,0,0,0,0,1,0,1,0,0,1,0
+2024-04-13,2023-2024,La Liga,Rayo Vallecano,Getafe,Home,0,0,D,Pep Chavarría,Y,LB,90,0,0,0,0,0,0,0,1,7,1,0
+2024-04-20,2023-2024,La Liga,Rayo Vallecano,Osasuna,Home,2,1,W,Pep Chavarría,Y,LB,90,1,0,1,1,0,0,0,1,8,2,2
+2024-04-28,2023-2024,La Liga,Rayo Vallecano,Villarreal,Away,0,3,L,Pep Chavarría,Y,LB,90,0,0,2,0,0,0,0,0,4,4,2
+2024-05-05,2023-2024,La Liga,Rayo Vallecano,Almería,Home,0,1,L,Pep Chavarría,Y,LB,90,0,0,1,1,0,0,0,0,11,1,0
+2024-05-12,2023-2024,La Liga,Rayo Vallecano,Valencia,Away,0,0,D,Pep Chavarría,N,,15,0,0,0,0,1,0,0,0,1,0,0
+2024-05-19,2023-2024,La Liga,Rayo Vallecano,Barcelona,Away,0,3,L,Pep Chavarría,N,,15,0,0,0,0,0,0,0,0,0,0,0
+2024-05-25,2023-2024,La Liga,Rayo Vallecano,Athletic Club,Home,0,1,L,Pep Chavarría,Y,LB,90,0,0,0,0,0,0,0,0,7,1,0
+2024-08-18,2024-2025,La Liga,Rayo Vallecano,Real Sociedad,Away,2,1,W,Pep Chavarría,N,,16,0,0,0,0,0,0,1,0,0,1,0
+2024-08-27,2024-2025,La Liga,Rayo Vallecano,Barcelona,Home,1,2,L,Pep Chavarría,N,,23,0,0,0,0,0,0,1,0,2,1,1
+2024-08-31,2024-2025,La Liga,Rayo Vallecano,Espanyol,Away,1,2,L,Pep Chavarría,N,,56,0,0,1,0,0,0,0,0,0,3,0
+2024-09-16,2024-2025,La Liga,Rayo Vallecano,Osasuna,Home,3,1,W,Pep Chavarría,Y,LB,90,0,1,0,0,0,0,0,0,0,3,1
+2024-09-22,2024-2025,La Liga,Rayo Vallecano,Atlético Madrid,Home,1,1,D,Pep Chavarría,Y,LB,90,0,0,0,0,0,0,1,1,0,3,1
+2024-09-25,2024-2025,La Liga,Rayo Vallecano,Girona,Away,0,0,D,Pep Chavarría,Y,LB,32,0,0,0,0,0,0,0,1,0,3,1
+2024-10-26,2024-2025,La Liga,Rayo Vallecano,Alavés,Home,1,0,W,Pep Chavarría,Y,LB,90,0,0,0,0,1,0,1,1,0,2,0
+2024-11-08,2024-2025,La Liga,Rayo Vallecano,Las Palmas,Home,1,3,L,Pep Chavarría,Y,LB,76,0,0,2,1,0,0,0,0,0,6,1
+2024-11-24,2024-2025,La Liga,Rayo Vallecano,Sevilla,Away,0,1,L,Pep Chavarría,Y,LB,90,0,0,0,0,0,0,1,2,0,1,1
+2024-12-01,2024-2025,La Liga,Rayo Vallecano,Athletic Club,Home,1,2,L,Pep Chavarría,Y,LB,90,0,0,0,0,0,0,1,1,0,2,1
+2024-12-07,2024-2025,La Liga,Rayo Vallecano,Valencia,Away,1,0,W,Pep Chavarría,Y,LB,90,0,0,0,0,0,0,1,0,0,1,2
+2024-12-14,2024-2025,La Liga,Rayo Vallecano,Real Madrid,Home,3,3,D,Pep Chavarría,Y,LB,90,0,0,0,0,0,0,1,0,0,3,1
+2024-12-18,2024-2025,La Liga,Rayo Vallecano,Villarreal,Away,1,1,D,Pep Chavarría,N,,7,0,0,0,0,0,0,0,1,0,1,0
+2024-12-22,2024-2025,La Liga,Rayo Vallecano,Real Betis,Away,1,1,D,Pep Chavarría,Y,LB,90,0,0,1,0,0,0,1,1,3,0,1
+2025-01-10,2024-2025,La Liga,Rayo Vallecano,Celta Vigo,Home,2,1,W,Pep Chavarría,Y,LB,90,0,0,0,0,0,0,0,1,0,4,1
+2025-01-19,2024-2025,La Liga,Rayo Vallecano,Osasuna,Away,1,1,D,Pep Chavarría,Y,LB,90,0,0,0,0,0,0,0,1,0,1,0
+2025-01-26,2024-2025,La Liga,Rayo Vallecano,Girona,Home,2,1,W,Pep Chavarría,Y,LB,90,0,0,0,0,0,0,1,0,0,7,2
+2025-01-31,2024-2025,La Liga,Rayo Vallecano,Leganés,Away,1,0,W,Pep Chavarría,Y,LB,90,0,0,0,0,0,0,4,1,0,6,0
+2025-02-07,2024-2025,La Liga,Rayo Vallecano,Valladolid,Home,1,0,W,Pep Chavarría,Y,LB,90,0,0,1,0,0,0,0,1,0,0,1
+2025-02-17,2024-2025,La Liga,Rayo Vallecano,Barcelona,Away,0,1,L,Pep Chavarría,Y,LB,90,0,0,0,0,0,0,1,1,2,3,0
+2025-02-22,2024-2025,La Liga,Rayo Vallecano,Villarreal,Home,0,1,L,Pep Chavarría,Y,LB,90,0,0,0,0,0,0,1,1,0,3,1
+2025-03-01,2024-2025,La Liga,Rayo Vallecano,Sevilla,Home,1,1,D,Pep Chavarría,Y,LB,90,0,0,0,0,0,0,1,1,0,2,1
+2025-03-09,2024-2025,La Liga,Rayo Vallecano,Real Madrid,Away,1,2,L,Pep Chavarría,Y,AM,90,0,0,0,0,0,0,2,2,0,2,0
+2025-03-16,2024-2025,La Liga,Rayo Vallecano,Real Sociedad,Home,2,2,D,Pep Chavarría,Y,LB,90,0,0,0,0,0,0,2,1,0,3,1
+2025-03-29,2024-2025,La Liga,Rayo Vallecano,Alavés,Away,2,0,W,Pep Chavarría,Y,LB,90,0,0,0,1,0,0,1,2,0,1,2
+2025-04-04,2024-2025,La Liga,Rayo Vallecano,Espanyol,Home,0,4,L,Pep Chavarría,Y,LB,74,0,0,2,0,1,0,1,0,0,5,1
+2025-04-13,2024-2025,La Liga,Rayo Vallecano,Athletic Club,Away,1,3,L,Pep Chavarría,Y,AM,90,0,0,0,0,0,0,1,0,1,2,1
+2025-04-19,2024-2025,La Liga,Rayo Vallecano,Valencia,Home,1,1,D,Pep Chavarría,Y,LB,90,0,0,0,0,1,0,1,0,0,4,1
+2025-04-24,2024-2025,La Liga,Rayo Vallecano,Atlético Madrid,Away,0,3,L,Pep Chavarría,N,,23,0,0,0,0,0,0,0,0,1,0,3
+2025-05-02,2024-2025,La Liga,Rayo Vallecano,Getafe,Home,1,0,W,Pep Chavarría,Y,LB,90,0,0,2,2,0,0,3,0,0,2,0
+2025-05-09,2024-2025,La Liga,Rayo Vallecano,Las Palmas,Away,1,0,W,Pep Chavarría,Y,LB,90,0,0,0,0,0,0,1,0,0,2,2
+2025-05-15,2024-2025,La Liga,Rayo Vallecano,Real Betis,Home,2,2,D,Pep Chavarría,Y,LB,88,0,0,0,0,0,0,0,2,2,0,1
+2025-05-18,2024-2025,La Liga,Rayo Vallecano,Celta Vigo,Away,2,1,W,Pep Chavarría,N,,30,0,0,1,0,0,0,1,0,0,0,0
+2025-05-24,2024-2025,La Liga,Rayo Vallecano,Mallorca,Home,0,0,D,Pep Chavarría,Y,LB,90,0,0,0,0,0,0,0,0,0,3,3
