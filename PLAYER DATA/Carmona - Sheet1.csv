@@ -1,0 +1,86 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2022-03-13,2021-2022,La Liga,Sevilla,Rayo Vallecano,Away,1,1,D,Carmona,N,,24,0,0,0,0,0,0,1,0,0,0,1
+2022-08-27,2022-2023,La Liga,Sevilla,Almería,Away,1,2,L,Carmona,N,,33,0,0,0,0,1,0,2,0,5,0,0
+2022-09-03,2022-2023,La Liga,Sevilla,Barcelona,Home,0,3,L,Carmona,N,,45,0,0,0,0,1,0,1,0,0,1,2
+2022-09-10,2022-2023,La Liga,Sevilla,Espanyol,Away,3,2,W,Carmona,Y,RB,72,2,1,3,2,0,0,2,0,0,1,2
+2022-09-18,2022-2023,La Liga,Sevilla,Villarreal,Away,1,1,D,Carmona,Y,RB,68,0,0,0,0,1,0,2,0,1,1,0
+2022-10-01,2022-2023,La Liga,Sevilla,Atlético Madrid,Home,0,2,L,Carmona,Y,RB,90,0,0,2,0,0,0,1,0,4,4,1
+2022-10-08,2022-2023,La Liga,Sevilla,Athletic Club,Home,1,1,D,Carmona,N,,35,0,0,0,0,1,0,2,0,0,1,0
+2022-10-15,2022-2023,La Liga,Sevilla,Mallorca,Away,1,0,W,Carmona,N,,45,0,0,0,0,0,0,1,0,0,0,1
+2022-10-18,2022-2023,La Liga,Sevilla,Valencia,Home,1,1,D,Carmona,Y,CB,30,0,0,0,0,0,0,0,0,0,1,0
+2022-10-22,2022-2023,La Liga,Sevilla,Real Madrid,Away,1,3,L,Carmona,N,,24,0,0,0,0,0,0,0,0,0,1,1
+2022-12-30,2022-2023,La Liga,Sevilla,Celta Vigo,Away,1,1,D,Carmona,Y,CB,85,0,0,0,0,2,1,3,0,1,1,1
+2023-01-16,2022-2023,La Liga,Elche,Cádiz,Away,1,1,D,Carmona,Y,RM,84,0,0,0,0,0,0,4,0,2,1,1
+2023-01-22,2022-2023,La Liga,Elche,Osasuna,Home,1,1,D,Carmona,Y,RM,87,1,0,3,2,1,0,2,0,4,1,0
+2023-02-04,2022-2023,La Liga,Elche,Villarreal,Home,3,1,W,Carmona,Y,RM,90,0,0,1,1,1,0,2,0,1,1,3
+2023-02-15,2022-2023,La Liga,Elche,Real Madrid,Away,0,4,L,Carmona,Y,RM,90,0,0,1,0,0,0,2,0,2,2,1
+2023-02-19,2022-2023,La Liga,Elche,Espanyol,Home,0,1,L,Carmona,Y,RM,80,0,0,0,0,2,1,4,1,1,3,1
+2023-03-04,2022-2023,La Liga,Elche,Mallorca,Away,1,0,W,Carmona,Y,RW,45,0,0,0,0,1,0,2,0,0,0,1
+2023-03-11,2022-2023,La Liga,Elche,Valladolid,Home,1,1,D,Carmona,Y,RB,45,0,0,0,0,0,0,2,0,2,0,0
+2023-03-19,2022-2023,La Liga,Elche,Real Sociedad,Away,0,2,L,Carmona,N,,15,0,0,0,0,0,0,0,0,0,0,0
+2023-04-01,2022-2023,La Liga,Elche,Barcelona,Home,0,4,L,Carmona,Y,DM,53,0,0,0,0,0,0,1,1,0,1,0
+2023-09-02,2023-2024,La Liga,Getafe,Real Madrid,Away,1,2,L,Carmona,N,,14,0,0,0,0,1,0,1,0,0,0,1
+2023-09-17,2023-2024,La Liga,Getafe,Osasuna,Home,3,2,W,Carmona,Y,RM,60,1,0,1,1,1,0,2,0,0,1,0
+2023-09-24,2023-2024,La Liga,Getafe,Real Sociedad,Away,3,4,L,Carmona,Y,AM,67,0,0,0,0,0,0,2,0,1,2,1
+2023-09-27,2023-2024,La Liga,Getafe,Athletic Club,Away,2,2,D,Carmona,N,,14,0,1,0,0,0,0,0,0,2,0,0
+2023-10-08,2023-2024,La Liga,Getafe,Celta Vigo,Away,2,2,D,Carmona,N,,1,0,0,0,0,0,0,0,0,0,0,0
+2023-10-21,2023-2024,La Liga,Getafe,Real Betis,Home,1,1,D,Carmona,Y,RM,90,0,0,2,0,1,0,3,0,1,3,0
+2023-10-28,2023-2024,La Liga,Getafe,Mallorca,Away,0,0,D,Carmona,Y,RM,70,0,0,1,0,0,0,3,0,0,0,0
+2023-11-06,2023-2024,La Liga,Getafe,Cádiz,Home,1,0,W,Carmona,Y,RM,90,0,0,2,0,0,0,3,1,0,0,1
+2023-11-11,2023-2024,La Liga,Getafe,Granada,Away,1,1,D,Carmona,Y,AM,45,0,0,0,0,0,0,1,0,1,1,1
+2023-11-25,2023-2024,La Liga,Getafe,Almería,Home,2,1,W,Carmona,Y,RM,29,0,0,1,1,0,0,0,0,0,0,0
+2023-12-16,2023-2024,La Liga,Getafe,Sevilla,Away,3,0,W,Carmona,N,,1,0,0,0,0,0,0,0,0,0,0,0
+2023-12-19,2023-2024,La Liga,Getafe,Atlético Madrid,Away,3,3,D,Carmona,N,,1,0,0,0,0,0,0,0,0,1,0,0
+2024-01-02,2023-2024,La Liga,Getafe,Rayo Vallecano,Home,0,2,L,Carmona,N,,34,0,0,0,0,0,0,0,1,0,0,0
+2024-01-21,2023-2024,La Liga,Getafe,Osasuna,Away,2,3,L,Carmona,N,,45,0,0,0,0,1,0,3,1,1,1,2
+2024-02-01,2023-2024,La Liga,Getafe,Real Madrid,Home,0,2,L,Carmona,Y,RM,45,0,0,0,0,0,0,1,0,1,0,0
+2024-02-04,2023-2024,La Liga,Getafe,Real Betis,Away,1,1,D,Carmona,N,,21,0,0,1,0,0,0,0,0,0,0,2
+2024-02-11,2023-2024,La Liga,Getafe,Celta Vigo,Home,3,2,W,Carmona,N,,4,0,0,0,0,0,0,0,0,0,0,0
+2024-02-24,2023-2024,La Liga,Getafe,Barcelona,Away,0,4,L,Carmona,N,,45,0,0,0,0,0,0,3,0,2,0,0
+2024-03-02,2023-2024,La Liga,Getafe,Las Palmas,Home,3,3,D,Carmona,Y,RB,45,0,0,0,0,1,0,1,0,0,0,2
+2024-03-09,2023-2024,La Liga,Getafe,Valencia,Away,0,1,L,Carmona,N,,30,0,0,2,0,1,0,3,0,2,0,1
+2024-03-16,2023-2024,La Liga,Getafe,Girona,Home,1,0,W,Carmona,N,,1,0,0,0,0,1,0,1,0,0,0,0
+2024-03-30,2023-2024,La Liga,Getafe,Sevilla,Home,0,1,L,Carmona,N,,20,0,0,0,0,0,0,0,0,3,0,0
+2024-04-13,2023-2024,La Liga,Getafe,Rayo Vallecano,Away,0,0,D,Carmona,N,,45,0,0,0,0,0,0,1,0,1,1,2
+2024-04-21,2023-2024,La Liga,Getafe,Real Sociedad,Home,1,1,D,Carmona,Y,RB,87,0,0,0,0,0,0,0,0,1,1,0
+2024-04-27,2023-2024,La Liga,Getafe,Almería,Away,3,1,W,Carmona,Y,RB,79,0,0,0,0,0,0,0,0,2,1,2
+2024-05-03,2023-2024,La Liga,Getafe,Athletic Club,Home,0,2,L,Carmona,Y,RB,90,0,0,2,1,0,0,1,0,5,3,2
+2024-05-12,2023-2024,La Liga,Getafe,Cádiz,Away,0,1,L,Carmona,Y,RB,90,0,0,0,0,0,0,0,0,1,2,1
+2024-05-15,2023-2024,La Liga,Getafe,Atlético Madrid,Home,0,3,L,Carmona,Y,RB,90,0,0,0,0,0,0,2,0,3,2,2
+2024-05-18,2023-2024,La Liga,Getafe,Alavés,Away,0,1,L,Carmona,Y,RB,40,0,0,0,0,1,0,1,0,1,0,1
+2024-05-26,2023-2024,La Liga,Getafe,Mallorca,Home,1,2,L,Carmona,N,,20,0,0,0,0,0,0,1,0,0,3,1
+2024-08-16,2024-2025,La Liga,Sevilla,Las Palmas,Away,2,2,D,Carmona,Y,RB,90,0,0,1,0,0,0,0,0,0,3,2
+2024-08-23,2024-2025,La Liga,Sevilla,Villarreal,Home,1,2,L,Carmona,Y,RB,90,0,0,2,1,1,0,2,0,0,2,4
+2024-08-27,2024-2025,La Liga,Sevilla,Mallorca,Away,0,0,D,Carmona,Y,RB,90,0,0,1,1,0,0,1,0,1,1,2
+2024-09-01,2024-2025,La Liga,Sevilla,Girona,Home,0,2,L,Carmona,Y,RB,81,0,0,0,0,0,0,0,0,0,2,0
+2024-09-14,2024-2025,La Liga,Sevilla,Getafe,Home,1,0,W,Carmona,Y,CB,90,0,0,1,0,0,0,2,1,1,2,2
+2024-09-20,2024-2025,La Liga,Sevilla,Alavés,Away,1,2,L,Carmona,Y,RB,90,0,0,0,0,0,0,2,0,2,0,1
+2024-09-24,2024-2025,La Liga,Sevilla,Valladolid,Home,2,1,W,Carmona,Y,RB,90,0,0,0,0,0,0,1,0,0,1,2
+2024-09-29,2024-2025,La Liga,Sevilla,Athletic Club,Away,1,1,D,Carmona,Y,RB,79,0,0,1,0,1,0,1,0,1,4,3
+2024-10-06,2024-2025,La Liga,Sevilla,Real Betis,Home,1,0,W,Carmona,Y,RB,90,0,0,1,0,1,0,1,0,2,3,1
+2024-10-20,2024-2025,La Liga,Sevilla,Barcelona,Away,1,5,L,Carmona,Y,RB,90,0,0,0,0,0,0,2,0,0,2,3
+2024-10-25,2024-2025,La Liga,Sevilla,Espanyol,Away,2,0,W,Carmona,Y,RB,90,0,0,0,0,0,0,0,0,1,4,1
+2024-11-03,2024-2025,La Liga,Sevilla,Real Sociedad,Home,0,2,L,Carmona,Y,RB,90,0,0,1,0,0,0,1,0,1,1,4
+2024-11-09,2024-2025,La Liga,Sevilla,Leganés,Away,0,1,L,Carmona,Y,RB,87,0,0,0,0,0,0,0,0,3,2,6
+2024-11-24,2024-2025,La Liga,Sevilla,Rayo Vallecano,Home,1,0,W,Carmona,Y,RB,90,0,0,1,0,0,0,0,0,2,2,2
+2024-12-02,2024-2025,La Liga,Sevilla,Osasuna,Home,1,1,D,Carmona,Y,RB,85,0,0,2,1,0,0,2,0,1,1,1
+2024-12-08,2024-2025,La Liga,Sevilla,Atlético Madrid,Away,3,4,L,Carmona,Y,RB,90,0,0,0,0,0,0,2,0,1,0,2
+2024-12-22,2024-2025,La Liga,Sevilla,Real Madrid,Away,2,4,L,Carmona,Y,RB,90,0,0,0,0,0,0,2,0,1,1,3
+2025-01-11,2024-2025,La Liga,Sevilla,Valencia,Home,1,1,D,Carmona,Y,RB,68,0,0,0,0,0,0,2,0,0,0,1
+2025-01-18,2024-2025,La Liga,Sevilla,Girona,Away,2,1,W,Carmona,Y,RB,90,0,0,1,0,1,0,2,0,1,2,2
+2025-01-25,2024-2025,La Liga,Sevilla,Espanyol,Home,1,1,D,Carmona,Y,LB,90,0,0,0,0,0,0,0,0,3,2,2
+2025-02-01,2024-2025,La Liga,Sevilla,Getafe,Away,0,0,D,Carmona,Y,RB,90,0,0,1,0,1,0,1,0,0,1,4
+2025-02-16,2024-2025,La Liga,Sevilla,Valladolid,Away,4,0,W,Carmona,Y,RB,90,0,0,0,0,0,0,1,0,0,2,0
+2025-02-24,2024-2025,La Liga,Sevilla,Mallorca,Home,1,1,D,Carmona,Y,RB,90,0,0,1,1,0,0,3,0,1,2,3
+2025-03-01,2024-2025,La Liga,Sevilla,Rayo Vallecano,Away,1,1,D,Carmona,Y,RB,68,0,0,0,0,0,0,0,0,0,0,1
+2025-03-09,2024-2025,La Liga,Sevilla,Real Sociedad,Away,1,0,W,Carmona,Y,RB,90,0,0,0,0,0,0,1,0,1,1,1
+2025-03-16,2024-2025,La Liga,Sevilla,Athletic Club,Home,0,1,L,Carmona,Y,RB,87,0,0,2,1,0,0,3,0,1,3,4
+2025-03-30,2024-2025,La Liga,Sevilla,Real Betis,Away,1,2,L,Carmona,Y,RB,65,0,0,0,0,1,0,1,0,0,0,1
+2025-04-06,2024-2025,La Liga,Sevilla,Atlético Madrid,Home,1,2,L,Carmona,Y,RB,90,0,0,0,0,0,0,0,0,3,2,2
+2025-04-11,2024-2025,La Liga,Sevilla,Valencia,Away,0,1,L,Carmona,Y,RB,78,0,0,0,0,1,0,2,0,1,2,3
+2025-04-20,2024-2025,La Liga,Sevilla,Alavés,Home,1,1,D,Carmona,Y,RB,80,0,0,1,0,0,0,1,0,4,1,0
+2025-04-24,2024-2025,La Liga,Sevilla,Osasuna,Away,0,1,L,Carmona,Y,RB,77,0,0,1,0,1,0,2,0,3,4,0
+2025-05-04,2024-2025,La Liga,Sevilla,Leganés,Home,2,2,D,Carmona,Y,RB,45,0,0,0,0,1,0,3,0,4,1,0
+2025-05-13,2024-2025,La Liga,Sevilla,Las Palmas,Home,1,0,W,Carmona,Y,LB,90,0,0,1,0,0,0,4,0,2,0,3
+2025-05-18,2024-2025,La Liga,Sevilla,Real Madrid,Home,0,2,L,Carmona,Y,LB,90,0,0,0,0,0,0,2,0,1,4,2
+2025-05-25,2024-2025,La Liga,Sevilla,Villarreal,Away,2,4,L,Carmona,Y,RB,62,0,0,0,0,1,0,2,0,1,1,0

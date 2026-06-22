@@ -1,0 +1,106 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2019-12-15,2019-2020,Serie A,Inter,Fiorentina,Away,1,1,D,Lucien Agoume,N,Sub,7,0,0,0,0,0,0,0,0,0,0,0
+2020-06-24,2019-2020,Serie A,Inter,Sassuolo,Home,3,3,D,Lucien Agoume,N,Sub,29,0,0,0,0,0,0,0,0,2,2,0
+2020-07-01,2019-2020,Serie A,Inter,Brescia,Home,6,0,W,Lucien Agoume,N,Sub,32,0,0,0,0,1,0,1,0,0,0,0
+2020-10-25,2020-2021,Serie A,Spezia,Parma,Away,2,2,D,Lucien Agoume,Y,CM,90,0,0,1,0,0,0,4,0,0,1,1
+2020-11-07,2020-2021,Serie A,Spezia,Benevento,Away,3,0,W,Lucien Agoume,N,,9,0,0,0,0,0,0,0,0,0,0,1
+2020-12-16,2020-2021,Serie A,Spezia,Bologna,Home,2,2,D,Lucien Agoume,Y,CM,80,0,0,0,0,1,0,1,0,0,2,0
+2021-01-03,2020-2021,Serie A,Spezia,Hellas Verona,Home,0,1,L,Lucien Agoume,Y,CM,90,0,0,0,0,1,0,2,0,0,2,2
+2021-01-06,2020-2021,Serie A,Spezia,Napoli,Away,2,1,W,Lucien Agoume,Y,CM,90,0,0,1,0,0,0,1,0,0,0,2
+2021-01-11,2020-2021,Serie A,Spezia,Sampdoria,Home,2,1,W,Lucien Agoume,Y,CM,90,0,0,0,0,0,0,2,0,1,2,3
+2021-01-16,2020-2021,Serie A,Spezia,Torino,Away,0,0,D,Lucien Agoume,Y,CM,90,0,0,1,1,0,0,3,0,0,1,2
+2021-01-23,2020-2021,Serie A,Spezia,Roma,Away,3,4,L,Lucien Agoume,Y,CM,90,0,0,0,0,0,0,1,0,0,1,0
+2021-01-31,2020-2021,Serie A,Spezia,Udinese,Home,0,1,L,Lucien Agoume,Y,CM,70,0,0,0,0,0,0,1,0,0,0,2
+2021-03-02,2020-2021,Serie A,Spezia,Juventus,Away,0,3,L,Lucien Agoume,N,,5,0,0,0,0,0,0,0,0,0,0,0
+2021-04-03,2020-2021,Serie A,Spezia,Lazio,Away,1,2,L,Lucien Agoume,N,,26,0,0,0,0,0,0,0,0,0,1,0
+2021-05-23,2020-2021,Serie A,Spezia,Roma,Home,2,2,D,Lucien Agoume,Y,CM,70,0,0,0,0,0,0,1,0,0,0,3
+2021-09-12,2021-2022,Ligue 1,Brest,Angers,Home,1,1,D,Lucien Agoume,Y,DM,87,0,0,1,0,0,0,2,0,0,1,2
+2021-09-19,2021-2022,Ligue 1,Brest,Clermont Foot,Away,1,1,D,Lucien Agoume,Y,DM,71,0,0,0,0,1,0,2,0,0,1,1
+2021-09-22,2021-2022,Ligue 1,Brest,Nantes,Away,1,3,L,Lucien Agoume,Y,DM,65,0,0,0,0,0,0,1,0,0,1,2
+2021-09-26,2021-2022,Ligue 1,Brest,Metz,Home,1,2,L,Lucien Agoume,Y,DM,90,0,0,0,0,0,0,2,0,2,1,1
+2021-10-02,2021-2022,Ligue 1,Brest,Nice,Away,1,2,L,Lucien Agoume,Y,DM,71,0,0,0,0,0,0,0,0,0,0,0
+2021-10-23,2021-2022,Ligue 1,Brest,Lille,Away,1,1,D,Lucien Agoume,N,Sub,20,0,0,0,0,0,0,1,0,0,1,1
+2021-11-07,2021-2022,Ligue 1,Brest,Lorient,Away,2,1,W,Lucien Agoume,N,Sub,45,0,0,1,0,0,0,1,0,0,1,0
+2021-11-21,2021-2022,Ligue 1,Brest,Lens,Home,4,0,W,Lucien Agoume,Y,CM,90,0,0,1,0,0,0,2,0,0,3,5
+2021-11-28,2021-2022,Ligue 1,Brest,Bordeaux,Away,2,1,W,Lucien Agoume,Y,CM,90,0,0,1,0,0,0,2,0,0,2,3
+2021-12-01,2021-2022,Ligue 1,Brest,Saint-Étienne,Home,1,0,W,Lucien Agoume,Y,CM,90,0,0,1,0,1,0,2,0,0,2,4
+2021-12-04,2021-2022,Ligue 1,Brest,Marseille,Away,2,1,W,Lucien Agoume,N,Sub,19,0,0,0,0,0,0,0,0,0,2,1
+2021-12-11,2021-2022,Ligue 1,Brest,Montpellier,Home,0,4,L,Lucien Agoume,Y,CM,60,0,0,1,0,0,0,2,0,0,3,1
+2021-12-22,2021-2022,Ligue 1,Brest,Troyes,Away,1,1,D,Lucien Agoume,Y,CM,90,0,0,0,0,0,0,0,0,0,1,4
+2022-01-09,2021-2022,Ligue 1,Brest,Nice,Home,0,3,L,Lucien Agoume,Y,CM,90,0,0,2,1,0,0,1,0,0,1,0
+2022-01-15,2021-2022,Ligue 1,Brest,PSG,Away,0,2,L,Lucien Agoume,Y,CM,58,0,0,0,0,1,0,1,0,0,0,1
+2022-01-22,2021-2022,Ligue 1,Brest,Lille,Home,2,0,W,Lucien Agoume,Y,CM,90,0,0,1,0,1,0,1,0,0,1,6
+2022-02-13,2021-2022,Ligue 1,Brest,Troyes,Home,5,1,W,Lucien Agoume,Y,DM,90,0,0,1,0,1,0,1,0,0,1,4
+2022-02-20,2021-2022,Ligue 1,Brest,Reims,Away,1,1,D,Lucien Agoume,Y,DM,90,0,0,2,0,0,0,0,0,1,0,2
+2022-02-27,2021-2022,Ligue 1,Brest,Lorient,Home,0,1,L,Lucien Agoume,Y,DM,85,0,0,0,0,1,0,1,0,0,1,4
+2022-03-05,2021-2022,Ligue 1,Brest,Lens,Away,1,0,W,Lucien Agoume,Y,DM,90,0,0,0,0,0,0,0,0,0,2,2
+2022-03-13,2021-2022,Ligue 1,Brest,Marseille,Home,1,4,L,Lucien Agoume,N,Sub,25,0,0,0,0,0,0,0,0,0,0,0
+2022-03-20,2021-2022,Ligue 1,Brest,Angers,Away,0,1,L,Lucien Agoume,Y,CM,90,0,0,1,0,0,0,3,0,0,3,2
+2022-04-03,2021-2022,Ligue 1,Brest,Montpellier,Home,2,1,W,Lucien Agoume,N,Sub,1,0,0,0,0,0,0,0,0,0,0,0
+2022-04-16,2021-2022,Ligue 1,Brest,Saint-Étienne,Away,1,2,L,Lucien Agoume,Y,CM,76,0,0,1,0,0,0,0,0,2,0,2
+2022-04-24,2021-2022,Ligue 1,Brest,Metz,Away,1,0,W,Lucien Agoume,Y,CM,90,0,0,0,0,0,0,4,0,0,3,0
+2022-05-07,2021-2022,Ligue 1,Brest,Strasbourg,Home,0,1,L,Lucien Agoume,N,Sub,15,0,0,0,0,0,0,0,0,1,0,0
+2022-05-14,2021-2022,Ligue 1,Brest,Monaco,Away,2,4,L,Lucien Agoume,Y,CM,90,0,0,0,0,0,0,2,0,0,2,1
+2022-09-09,2022-2023,Ligue 1,Troyes,Lens,Away,0,1,L,Lucien Agoume,N,,9,0,0,0,0,0,0,0,0,0,0,0
+2022-09-18,2022-2023,Ligue 1,Troyes,Clermont Foot,Away,3,1,W,Lucien Agoume,Y,CM,64,0,0,0,0,1,0,2,1,1,1,2
+2022-10-02,2022-2023,Ligue 1,Troyes,Reims,Home,2,2,D,Lucien Agoume,Y,CM,33,0,0,0,0,0,0,3,0,0,1,1
+2023-02-01,2022-2023,Ligue 1,Troyes,Toulouse,Away,1,4,L,Lucien Agoume,Y,CM,90,0,0,1,0,1,0,2,0,0,0,1
+2023-02-04,2022-2023,Ligue 1,Troyes,Lyon,Home,1,3,L,Lucien Agoume,Y,CM,90,0,0,0,0,0,0,2,0,1,4,3
+2023-02-12,2022-2023,Ligue 1,Troyes,Reims,Away,0,4,L,Lucien Agoume,Y,CM,90,0,0,2,1,1,0,6,0,1,3,7
+2023-02-19,2022-2023,Ligue 1,Troyes,Montpellier,Home,0,1,L,Lucien Agoume,Y,DM,90,0,0,2,0,1,0,2,0,0,0,1
+2023-02-26,2022-2023,Ligue 1,Troyes,Ajaccio,Away,1,2,L,Lucien Agoume,Y,DM,90,0,0,0,0,0,0,3,0,0,2,1
+2023-03-19,2022-2023,Ligue 1,Troyes,Brest,Home,2,2,D,Lucien Agoume,Y,DM,90,0,1,0,0,0,0,2,0,0,2,2
+2023-04-01,2022-2023,Ligue 1,Troyes,Auxerre,Away,0,1,L,Lucien Agoume,Y,DM,80,0,0,2,1,0,0,0,0,0,2,4
+2023-04-09,2022-2023,Ligue 1,Troyes,Clermont Foot,Home,0,2,L,Lucien Agoume,Y,DM,45,0,0,0,0,0,0,2,0,0,0,1
+2023-04-16,2022-2023,Ligue 1,Troyes,Marseille,Away,1,3,L,Lucien Agoume,Y,DM,76,0,0,1,0,1,0,1,0,0,3,3
+2023-04-23,2022-2023,Ligue 1,Troyes,Nantes,Away,2,2,D,Lucien Agoume,Y,DM,90,0,0,0,0,0,0,4,0,0,3,2
+2023-04-30,2022-2023,Ligue 1,Troyes,Nice,Home,0,1,L,Lucien Agoume,Y,DM,90,0,0,1,1,0,0,3,0,0,1,3
+2023-05-07,2022-2023,Ligue 1,Troyes,PSG,Home,1,3,L,Lucien Agoume,Y,DM,67,0,0,0,0,0,0,0,0,0,0,1
+2023-09-30,2023-2024,Serie A,Inter,Salernitana,Away,4,0,W,Lucien Agoume,N,Sub,5,0,0,0,0,0,0,0,0,0,0,0
+2024-01-21,2023-2024,La Liga,Sevilla,Girona,Away,1,5,L,Lucien Agoume,N,,14,0,0,0,0,0,0,0,0,0,0,0
+2024-01-28,2023-2024,La Liga,Sevilla,Osasuna,Home,1,1,D,Lucien Agoume,Y,CM,58,0,0,0,0,1,0,1,0,2,1,0
+2024-02-05,2023-2024,La Liga,Sevilla,Rayo Vallecano,Away,2,1,W,Lucien Agoume,Y,CM,81,0,0,1,0,0,0,0,0,0,2,2
+2024-03-30,2023-2024,La Liga,Sevilla,Getafe,Away,1,0,W,Lucien Agoume,N,,26,0,0,0,0,0,0,1,0,0,1,1
+2024-04-14,2023-2024,La Liga,Sevilla,Las Palmas,Away,2,0,W,Lucien Agoume,N,,25,0,0,0,0,0,0,1,0,0,0,0
+2024-04-22,2023-2024,La Liga,Sevilla,Mallorca,Home,2,1,W,Lucien Agoume,Y,CM,45,0,0,0,0,0,0,0,0,0,0,0
+2024-04-28,2023-2024,La Liga,Sevilla,Real Betis,Away,1,1,D,Lucien Agoume,Y,CM,90,0,0,0,0,0,0,1,0,0,0,1
+2024-05-05,2023-2024,La Liga,Sevilla,Granada,Home,3,0,W,Lucien Agoume,Y,DM,90,0,0,0,0,0,0,3,0,0,3,1
+2024-05-11,2023-2024,La Liga,Sevilla,Villarreal,Away,2,3,L,Lucien Agoume,Y,CM,90,0,0,1,0,1,0,4,0,0,2,1
+2024-05-15,2023-2024,La Liga,Sevilla,Cádiz,Home,0,1,L,Lucien Agoume,Y,CM,90,0,0,0,0,1,0,3,0,0,3,0
+2024-05-19,2023-2024,La Liga,Sevilla,Athletic Club,Away,0,2,L,Lucien Agoume,Y,DM,90,0,0,3,2,0,0,2,0,0,1,1
+2024-05-26,2023-2024,La Liga,Sevilla,Barcelona,Home,1,2,L,Lucien Agoume,Y,DM,78,0,0,1,0,0,0,3,0,1,3,0
+2024-08-16,2024-2025,La Liga,Sevilla,Las Palmas,Away,2,2,D,Lucien Agoume,Y,DM,90,0,0,0,0,0,0,2,0,1,2,1
+2024-08-23,2024-2025,La Liga,Sevilla,Villarreal,Home,1,2,L,Lucien Agoume,Y,CM,90,0,0,0,0,0,0,4,0,0,1,2
+2024-08-27,2024-2025,La Liga,Sevilla,Mallorca,Away,0,0,D,Lucien Agoume,N,Sub,1,0,0,0,0,0,0,0,0,0,0,0
+2024-09-01,2024-2025,La Liga,Sevilla,Girona,Home,0,2,L,Lucien Agoume,Y,DM,81,0,0,0,0,0,0,3,0,0,0,0
+2024-09-14,2024-2025,La Liga,Sevilla,Getafe,Home,1,0,W,Lucien Agoume,N,Sub,15,0,0,0,0,0,0,0,0,0,0,0
+2024-09-20,2024-2025,La Liga,Sevilla,Alavés,Away,1,2,L,Lucien Agoume,Y,CM,65,0,0,0,0,0,0,3,0,0,1,1
+2024-09-24,2024-2025,La Liga,Sevilla,Valladolid,Home,2,1,W,Lucien Agoume,N,Sub,38,0,0,0,0,0,0,1,1,0,0,1
+2024-09-29,2024-2025,La Liga,Sevilla,Athletic Club,Away,1,1,D,Lucien Agoume,Y,DM,85,0,0,1,0,0,0,0,1,0,1,0
+2024-10-06,2024-2025,La Liga,Sevilla,Real Betis,Home,1,0,W,Lucien Agoume,Y,DM,71,0,0,1,0,1,0,2,0,1,0,1
+2024-10-20,2024-2025,La Liga,Sevilla,Barcelona,Away,1,5,L,Lucien Agoume,Y,DM,69,0,0,1,0,0,0,0,0,0,1,1
+2024-10-25,2024-2025,La Liga,Sevilla,Espanyol,Away,2,0,W,Lucien Agoume,N,Sub,1,0,0,0,0,0,0,0,0,0,0,0
+2024-11-09,2024-2025,La Liga,Sevilla,Leganés,Away,0,1,L,Lucien Agoume,Y,CM,79,0,0,0,0,0,1,2,0,0,1,3
+2024-12-02,2024-2025,La Liga,Sevilla,Osasuna,Home,1,1,D,Lucien Agoume,N,Sub,5,0,0,0,0,0,0,0,0,0,0,0
+2024-12-08,2024-2025,La Liga,Sevilla,Atlético Madrid,Away,3,4,L,Lucien Agoume,Y,CM,79,0,0,0,0,1,0,1,0,0,0,1
+2024-12-14,2024-2025,La Liga,Sevilla,Celta Vigo,Home,1,0,W,Lucien Agoume,Y,CM,90,0,0,0,0,1,0,0,1,0,1,3
+2024-12-22,2024-2025,La Liga,Sevilla,Real Madrid,Away,2,4,L,Lucien Agoume,Y,DM,90,0,0,0,0,0,0,3,0,0,0,3
+2025-01-11,2024-2025,La Liga,Sevilla,Valencia,Home,1,1,D,Lucien Agoume,Y,DM,68,0,0,2,0,0,0,1,0,0,1,1
+2025-01-18,2024-2025,La Liga,Sevilla,Girona,Away,2,1,W,Lucien Agoume,N,Sub,1,0,0,0,0,0,0,0,0,0,0,0
+2025-01-25,2024-2025,La Liga,Sevilla,Espanyol,Home,1,1,D,Lucien Agoume,N,Sub,8,0,0,0,0,0,0,0,0,0,0,0
+2025-02-01,2024-2025,La Liga,Sevilla,Getafe,Away,0,0,D,Lucien Agoume,N,Sub,1,0,0,0,0,0,0,0,0,0,0,0
+2025-02-09,2024-2025,La Liga,Sevilla,Barcelona,Home,1,4,L,Lucien Agoume,N,Sub,15,0,0,0,0,0,0,0,0,0,0,0
+2025-02-16,2024-2025,La Liga,Sevilla,Valladolid,Away,4,0,W,Lucien Agoume,Y,CM,90,0,0,0,0,0,0,0,0,0,2,0
+2025-02-24,2024-2025,La Liga,Sevilla,Mallorca,Home,1,1,D,Lucien Agoume,N,Sub,9,0,0,1,0,0,0,0,0,0,0,1
+2025-03-01,2024-2025,La Liga,Sevilla,Rayo Vallecano,Away,1,1,D,Lucien Agoume,N,,15,0,0,0,0,0,0,1,0,0,1,0
+2025-03-09,2024-2025,La Liga,Sevilla,Real Sociedad,Away,1,0,W,Lucien Agoume,Y,DM,90,0,0,1,0,0,0,1,0,1,0,3
+2025-03-16,2024-2025,La Liga,Sevilla,Athletic Club,Home,0,1,L,Lucien Agoume,Y,DM,90,0,0,0,0,1,0,4,0,1,2,2
+2025-04-06,2024-2025,La Liga,Sevilla,Atlético Madrid,Home,1,2,L,Lucien Agoume,Y,CM,89,1,0,1,1,0,0,3,0,0,3,0
+2025-04-11,2024-2025,La Liga,Sevilla,Valencia,Away,0,1,L,Lucien Agoume,Y,DM,90,0,0,0,0,0,0,4,0,1,2,1
+2025-04-20,2024-2025,La Liga,Sevilla,Alavés,Home,1,1,D,Lucien Agoume,Y,DM,59,0,1,0,0,0,0,2,0,3,1,3
+2025-04-24,2024-2025,La Liga,Sevilla,Osasuna,Away,0,1,L,Lucien Agoume,Y,DM,90,0,0,1,0,0,0,3,0,0,3,0
+2025-04-04,2024-2025,La Liga,Sevilla,Leganés,Home,2,2,D,Lucien Agoume,Y,DM,90,0,0,0,0,0,0,1,0,1,2,1
+2025-05-10,2024-2025,La Liga,Sevilla,Celta Vigo,Away,2,3,L,Lucien Agoume,Y,CM,90,0,0,0,0,0,0,1,0,2,1,4
+2025-05-13,2024-2025,La Liga,Sevilla,Las Palmas,Home,1,0,W,Lucien Agoume,Y,DM,90,0,1,0,0,1,0,3,0,3,2,1
+2025-05-18,2024-2025,La Liga,Sevilla,Real Madrid,Home,0,2,L,Lucien Agoume,Y,CM,90,0,0,0,0,0,0,1,0,0,3,3
+2025-05-25,2024-2025,La Liga,Sevilla,Villarreal,Away,2,4,L,Lucien Agoume,Y,DM,90,0,1,1,1,0,0,3,0,1,2,2
