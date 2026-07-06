@@ -1,0 +1,49 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2022-04-20,2021-2022,La Liga,Atlético Madrid,Granada,Home,0,0,D,Giuliano Simeone,N,FW,1,0,0,0,0,0,0,2,0,0,0,0
+2024-01-02,2023-2024,La Liga,Alavés,Real Sociedad,Away,1,1,D,Giuliano Simeone,N,,21,0,0,0,0,0,0,0,0,0,0,0
+2024-01-19,2023-2024,La Liga,Alavés,Cádiz,Home,1,0,W,Giuliano Simeone,N,,1,0,0,0,0,0,0,0,0,0,0,0
+2024-01-26,2023-2024,La Liga,Alavés,Almería,Away,3,0,W,Giuliano Simeone,N,,2,0,0,0,0,0,0,0,0,0,0,0
+2024-02-03,2023-2024,La Liga,Alavés,Barcelona,Home,1,3,L,Giuliano Simeone,N,,28,0,0,0,0,0,0,1,0,1,1,0
+2024-03-04,2023-2024,La Liga,Alavés,Osasuna,Away,0,1,L,Giuliano Simeone,N,,17,0,0,0,0,0,0,0,0,0,0,0
+2024-03-16,2023-2024,La Liga,Alavés,Athletic Club,Away,0,2,L,Giuliano Simeone,N,,21,0,0,2,0,0,0,1,0,0,0,0
+2024-03-31,2023-2024,La Liga,Alavés,Real Sociedad,Home,0,1,L,Giuliano Simeone,N,,16,0,0,0,0,0,0,0,0,0,0,1
+2024-04-14,2023-2024,La Liga,Alavés,Granada,Away,0,2,L,Giuliano Simeone,N,,20,0,0,1,0,0,0,0,0,2,0,0
+2024-04-21,2023-2024,La Liga,Alavés,Atlético Madrid,Home,2,0,W,Giuliano Simeone,Y,AM,78,0,0,2,0,0,0,0,0,4,0,1
+2024-04-27,2023-2024,La Liga,Alavés,Celta Vigo,Home,3,0,W,Giuliano Simeone,Y,AM,88,1,0,2,1,0,0,1,0,1,1,1
+2024-05-05,2023-2024,La Liga,Alavés,Valencia,Away,1,0,W,Giuliano Simeone,Y,AM,90,0,0,4,1,0,0,3,0,2,2,1
+2024-05-10,2023-2024,La Liga,Alavés,Girona,Home,2,2,D,Giuliano Simeone,Y,AM,72,0,1,0,0,0,0,1,0,3,0,0
+2024-05-18,2023-2024,La Liga,Alavés,Getafe,Home,1,0,W,Giuliano Simeone,Y,AM,87,0,0,1,0,1,0,3,2,0,0,0
+2024-05-26,2023-2024,La Liga,Alavés,Las Palmas,Away,1,1,D,Giuliano Simeone,Y,AM,89,0,1,3,1,0,0,1,0,1,1,1
+2024-08-31,2024-2025,La Liga,Atlético Madrid,Athletic Club,Away,1,0,W,Giuliano Simeone,N,,7,0,0,0,0,0,0,0,0,0,0,0
+2024-09-15,2024-2025,La Liga,Atlético Madrid,Valencia,Home,3,0,W,Giuliano Simeone,N,,15,0,0,0,0,0,0,0,0,0,0,0
+2024-09-22,2024-2025,La Liga,Atlético Madrid,Rayo Vallecano,Away,1,1,D,Giuliano Simeone,N,,6,0,0,0,0,0,0,0,0,0,1,0
+2024-09-26,2024-2025,La Liga,Atlético Madrid,Celta Vigo,Away,1,0,W,Giuliano Simeone,Y,LM,64,0,0,0,0,0,0,1,0,1,1,0
+2024-10-20,2024-2025,La Liga,Atlético Madrid,Leganés,Home,3,1,W,Giuliano Simeone,N,,34,0,1,0,0,1,0,1,1,1,0,1
+2024-10-27,2024-2025,La Liga,Atlético Madrid,Real Betis,Away,0,1,L,Giuliano Simeone,N,,21,0,0,0,0,0,0,0,2,4,0,1
+2024-11-03,2024-2025,La Liga,Atlético Madrid,Las Palmas,Home,2,0,W,Giuliano Simeone,Y,RM,83,1,0,1,1,0,0,1,2,3,1,0
+2024-11-10,2024-2025,La Liga,Atlético Madrid,Mallorca,Away,1,0,W,Giuliano Simeone,Y,DM,61,0,1,0,0,0,0,0,0,0,0,0
+2024-11-23,2024-2025,La Liga,Atlético Madrid,Alavés,Home,2,1,W,Giuliano Simeone,N,,45,0,0,1,1,0,0,2,3,4,0,0
+2024-11-30,2024-2025,La Liga,Atlético Madrid,Valladolid,Away,5,0,W,Giuliano Simeone,Y,RM,90,0,0,1,1,1,0,1,0,1,1,0
+2024-12-08,2024-2025,La Liga,Atlético Madrid,Sevilla,Home,4,3,W,Giuliano Simeone,Y,RM,74,0,0,1,1,0,0,0,1,2,0,1
+2024-12-15,2024-2025,La Liga,Atlético Madrid,Getafe,Home,1,0,W,Giuliano Simeone,Y,RM,54,0,0,1,0,0,0,0,1,3,0,1
+2024-12-21,2024-2025,La Liga,Atlético Madrid,Barcelona,Away,2,1,W,Giuliano Simeone,Y,RM,61,0,0,0,0,0,0,0,1,1,0,1
+2025-01-12,2024-2025,La Liga,Atlético Madrid,Osasuna,Home,1,0,W,Giuliano Simeone,Y,RM,72,0,0,1,0,1,0,1,1,0,1,0
+2025-01-18,2024-2025,La Liga,Atlético Madrid,Leganés,Away,0,1,L,Giuliano Simeone,Y,RM,64,0,0,0,0,0,0,0,2,1,0,1
+2025-01-25,2024-2025,La Liga,Atlético Madrid,Villarreal,Home,1,1,D,Giuliano Simeone,Y,RM,45,0,0,0,0,0,0,0,0,2,1,1
+2025-02-01,2024-2025,La Liga,Atlético Madrid,Mallorca,Home,2,0,W,Giuliano Simeone,Y,RM,60,0,1,2,1,0,0,1,0,1,0,0
+2025-02-08,2024-2025,La Liga,Atlético Madrid,Real Madrid,Away,1,1,D,Giuliano Simeone,Y,RM,63,0,0,1,0,0,0,2,3,1,0,1
+2025-02-15,2024-2025,La Liga,Atlético Madrid,Celta Vigo,Home,1,1,D,Giuliano Simeone,Y,RM,77,0,0,3,0,0,0,1,4,0,0,0
+2025-02-22,2024-2025,La Liga,Atlético Madrid,Valencia,Away,3,0,W,Giuliano Simeone,Y,RM,67,0,1,1,0,0,0,0,2,1,1,0
+2025-03-01,2024-2025,La Liga,Atlético Madrid,Athletic Club,Home,1,0,W,Giuliano Simeone,Y,RM,57,0,0,1,0,0,0,0,1,4,0,1
+2025-03-09,2024-2025,La Liga,Atlético Madrid,Getafe,Away,1,2,L,Giuliano Simeone,Y,RM,90,0,0,0,0,0,0,2,1,1,1,1
+2025-03-16,2024-2025,La Liga,Atlético Madrid,Barcelona,Home,2,4,L,Giuliano Simeone,Y,RM,78,0,1,1,0,0,0,1,1,1,1,1
+2025-03-29,2024-2025,La Liga,Atlético Madrid,Espanyol,Away,1,1,D,Giuliano Simeone,Y,RM,63,0,0,0,0,0,0,1,0,3,0,0
+2025-04-06,2024-2025,La Liga,Atlético Madrid,Sevilla,Away,2,1,W,Giuliano Simeone,Y,RM,67,0,0,1,1,1,0,2,0,2,0,0
+2025-04-14,2024-2025,La Liga,Atlético Madrid,Valladolid,Home,4,2,W,Giuliano Simeone,Y,RM,73,1,0,2,1,0,0,1,0,1,1,0
+2025-04-19,2024-2025,La Liga,Atlético Madrid,Las Palmas,Away,0,1,L,Giuliano Simeone,Y,RM,90,0,0,1,0,0,0,2,0,3,1,2
+2025-04-24,2024-2025,La Liga,Atlético Madrid,Rayo Vallecano,Home,3,0,W,Giuliano Simeone,Y,RM,66,0,1,0,0,0,0,0,0,4,0,0
+2025-05-03,2024-2025,La Liga,Atlético Madrid,Alavés,Away,0,0,D,Giuliano Simeone,Y,RM,59,0,0,0,0,0,0,1,0,0,1,0
+2025-05-10,2024-2025,La Liga,Atlético Madrid,Real Sociedad,Home,4,0,W,Giuliano Simeone,Y,FW,67,0,0,1,0,0,0,0,0,2,0,0
+2025-05-15,2024-2025,La Liga,Atlético Madrid,Osasuna,Away,0,2,L,Giuliano Simeone,Y,RM,45,0,0,1,0,0,0,0,0,2,1,0
+2025-05-18,2024-2025,La Liga,Atlético Madrid,Real Betis,Home,4,1,W,Giuliano Simeone,Y,RM,79,0,0,1,0,0,0,3,0,2,0,2
+2025-05-25,2024-2025,La Liga,Atlético Madrid,Girona,Away,4,0,W,Giuliano Simeone,N,,29,0,0,0,0,0,0,0,0,0,0,0

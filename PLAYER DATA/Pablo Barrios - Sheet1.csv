@@ -1,0 +1,77 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2022-10-29,2022-2023,La Liga,Atlético Madrid,Cádiz,Away,2,3,L,Pablo Barrios,N,,19,0,0,1,1,0,0,0,0,0,0,0
+2022-12-29,2022-2023,La Liga,Atlético Madrid,Elche,Home,2,0,W,Pablo Barrios,Y,DM,78,0,0,0,0,1,0,1,0,3,1,1
+2023-01-08,2022-2023,La Liga,Atlético Madrid,Barcelona,Home,0,1,L,Pablo Barrios,Y,CM,63,0,0,1,1,0,0,0,0,0,3,2
+2023-01-15,2022-2023,La Liga,Atlético Madrid,Almería,Away,1,1,D,Pablo Barrios,N,,45,0,0,2,0,0,0,2,0,0,1,1
+2023-01-29,2022-2023,La Liga,Atlético Madrid,Osasuna,Away,1,0,W,Pablo Barrios,Y,CM,64,0,0,1,0,0,0,0,0,0,0,0
+2023-02-12,2022-2023,La Liga,Atlético Madrid,Celta Vigo,Away,1,0,W,Pablo Barrios,Y,CM,45,0,0,0,0,0,0,1,0,0,1,1
+2023-02-19,2022-2023,La Liga,Atlético Madrid,Athletic Club,Home,1,0,W,Pablo Barrios,N,,32,0,0,1,0,0,0,1,0,1,2,1
+2023-02-25,2022-2023,La Liga,Atlético Madrid,Real Madrid,Away,1,1,D,Pablo Barrios,Y,CM,45,0,0,0,0,0,0,0,0,1,1,0
+2023-03-04,2022-2023,La Liga,Atlético Madrid,Sevilla,Home,6,1,W,Pablo Barrios,N,,27,0,1,2,0,0,0,0,0,1,0,1
+2023-03-18,2022-2023,La Liga,Atlético Madrid,Valencia,Home,3,0,W,Pablo Barrios,N,,21,0,0,0,0,0,0,0,0,0,0,0
+2023-04-02,2022-2023,La Liga,Atlético Madrid,Real Betis,Home,1,0,W,Pablo Barrios,N,,23,0,0,1,0,0,0,0,0,0,0,0
+2023-04-09,2022-2023,La Liga,Atlético Madrid,Rayo Vallecano,Away,2,1,W,Pablo Barrios,N,,18,0,0,0,0,0,0,0,0,0,0,0
+2023-04-16,2022-2023,La Liga,Atlético Madrid,Almería,Home,2,1,W,Pablo Barrios,N,,13,0,0,1,0,1,0,0,0,0,0,1
+2023-04-23,2022-2023,La Liga,Atlético Madrid,Barcelona,Away,0,1,L,Pablo Barrios,N,,32,0,0,0,0,1,0,1,0,0,0,0
+2023-04-26,2022-2023,La Liga,Atlético Madrid,Mallorca,Home,3,1,W,Pablo Barrios,N,,28,0,0,0,0,0,0,1,0,0,0,0
+2023-05-03,2022-2023,La Liga,Atlético Madrid,Cádiz,Home,5,1,W,Pablo Barrios,N,,20,0,0,0,0,0,0,0,0,0,1,0
+2023-05-14,2022-2023,La Liga,Atlético Madrid,Elche,Away,0,1,L,Pablo Barrios,N,,30,0,0,0,0,0,0,0,0,0,0,0
+2023-05-21,2022-2023,La Liga,Atlético Madrid,Osasuna,Home,3,0,W,Pablo Barrios,N,,7,0,0,2,1,0,0,0,0,0,0,0
+2023-05-24,2022-2023,La Liga,Atlético Madrid,Espanyol,Away,3,3,D,Pablo Barrios,N,,14,0,0,0,0,0,0,0,0,0,0,0
+2023-05-28,2022-2023,La Liga,Atlético Madrid,Real Sociedad,Home,2,1,W,Pablo Barrios,N,,10,0,0,0,0,0,0,0,0,0,0,0
+2023-06-04,2022-2023,La Liga,Atlético Madrid,Villarreal,Away,2,2,D,Pablo Barrios,Y,CM,90,0,0,0,0,1,0,0,0,1,1,0
+2023-08-14,2023-2024,La Liga,Atlético Madrid,Granada,Home,3,1,W,Pablo Barrios,N,,84,0,0,0,0,0,0,1,0,1,1,5
+2023-08-20,2023-2024,La Liga,Atlético Madrid,Real Betis,Away,0,0,D,Pablo Barrios,N,,45,0,0,0,0,0,0,1,0,2,1,1
+2023-08-28,2023-2024,La Liga,Atlético Madrid,Rayo Vallecano,Away,7,0,W,Pablo Barrios,Y,CM,75,0,0,0,0,1,0,3,0,0,1,3
+2023-09-16,2023-2024,La Liga,Atlético Madrid,Valencia,Away,0,3,L,Pablo Barrios,Y,CM,90,0,0,1,0,1,0,2,0,1,3,1
+2023-10-21,2023-2024,La Liga,Atlético Madrid,Celta Vigo,Away,3,0,W,Pablo Barrios,Y,CM,45,0,0,1,1,0,0,0,0,0,1,0
+2023-10-29,2023-2024,La Liga,Atlético Madrid,Alavés,Home,2,1,W,Pablo Barrios,N,,24,0,0,0,0,0,0,0,0,0,0,0
+2023-11-03,2023-2024,La Liga,Atlético Madrid,Las Palmas,Away,1,2,L,Pablo Barrios,Y,CM,90,0,0,2,2,0,0,0,0,1,0,0
+2023-11-12,2023-2024,La Liga,Atlético Madrid,Villarreal,Home,3,1,W,Pablo Barrios,N,,21,0,1,0,0,0,0,0,0,0,0,0
+2023-11-25,2023-2024,La Liga,Atlético Madrid,Mallorca,Home,1,0,W,Pablo Barrios,Y,DM,90,0,0,1,0,0,0,2,0,4,1,3
+2024-01-22,2023-2024,La Liga,Atlético Madrid,Granada,Away,1,0,W,Pablo Barrios,Y,CM,79,0,0,0,0,0,0,0,0,0,1,0
+2024-01-28,2023-2024,La Liga,Atlético Madrid,Valencia,Home,2,0,W,Pablo Barrios,Y,CM,80,0,0,1,1,0,0,0,0,0,3,0
+2024-01-31,2023-2024,La Liga,Atlético Madrid,Rayo Vallecano,Home,2,1,W,Pablo Barrios,Y,CM,90,0,0,1,0,0,0,1,0,0,0,0
+2024-02-04,2023-2024,La Liga,Atlético Madrid,Real Madrid,Away,1,1,D,Pablo Barrios,N,,30,0,0,0,0,1,0,2,0,1,1,0
+2024-02-11,2023-2024,La Liga,Atlético Madrid,Sevilla,Away,0,1,L,Pablo Barrios,Y,CM,45,0,0,1,0,0,0,0,0,0,1,1
+2024-02-17,2023-2024,La Liga,Atlético Madrid,Las Palmas,Home,5,0,W,Pablo Barrios,Y,CM,70,0,0,0,0,0,0,1,0,0,2,1
+2024-02-24,2023-2024,La Liga,Atlético Madrid,Almería,Away,2,2,D,Pablo Barrios,Y,CM,90,0,0,1,1,0,0,1,0,0,2,3
+2024-03-03,2023-2024,La Liga,Atlético Madrid,Real Betis,Home,2,1,W,Pablo Barrios,Y,CM,90,0,0,0,0,0,0,1,0,0,0,3
+2024-03-17,2023-2024,La Liga,Atlético Madrid,Barcelona,Home,0,3,L,Pablo Barrios,Y,CM,90,0,0,3,0,1,0,3,0,2,1,2
+2024-04-01,2023-2024,La Liga,Atlético Madrid,Villarreal,Away,2,1,W,Pablo Barrios,Y,CM,83,0,0,2,0,1,0,3,0,1,1,2
+2024-04-21,2023-2024,La Liga,Atlético Madrid,Alavés,Away,0,2,L,Pablo Barrios,Y,CM,66,0,0,0,0,0,0,1,0,2,0,0
+2024-04-27,2023-2024,La Liga,Atlético Madrid,Athletic Club,Home,3,1,W,Pablo Barrios,N,,14,0,0,0,0,0,0,0,0,0,0,0
+2024-05-04,2023-2024,La Liga,Atlético Madrid,Mallorca,Away,1,0,W,Pablo Barrios,Y,DM,90,0,0,1,1,0,0,1,0,0,2,2
+2024-05-12,2023-2024,La Liga,Atlético Madrid,Celta Vigo,Home,1,0,W,Pablo Barrios,N,,29,0,0,2,1,0,0,0,0,0,1,0
+2024-05-15,2023-2024,La Liga,Atlético Madrid,Getafe,Away,3,0,W,Pablo Barrios,Y,RM,45,0,0,0,0,0,0,0,0,1,2,0
+2024-08-19,2024-2025,La Liga,Atlético Madrid,Villarreal,Away,2,2,D,Pablo Barrios,Y,DM,90,0,1,2,0,1,0,2,0,2,0,2
+2024-08-25,2024-2025,La Liga,Atlético Madrid,Girona,Home,3,0,W,Pablo Barrios,Y,CM,90,0,0,1,0,0,0,0,0,0,3,2
+2024-08-28,2024-2025,La Liga,Atlético Madrid,Espanyol,Home,0,0,D,Pablo Barrios,N,,45,0,0,3,1,0,0,1,0,2,0,0
+2024-08-31,2024-2025,La Liga,Atlético Madrid,Athletic Club,Away,1,0,W,Pablo Barrios,Y,DM,90,0,0,0,0,0,0,1,0,0,2,3
+2024-10-06,2024-2025,La Liga,Atlético Madrid,Real Sociedad,Away,1,1,D,Pablo Barrios,Y,RM,90,0,0,0,0,0,0,1,0,0,0,0
+2024-10-20,2024-2025,La Liga,Atlético Madrid,Leganés,Home,3,1,W,Pablo Barrios,Y,CM,90,0,0,2,0,0,0,0,0,1,2,3
+2024-11-03,2024-2025,La Liga,Atlético Madrid,Las Palmas,Home,2,0,W,Pablo Barrios,Y,CM,45,0,0,3,1,0,0,1,0,4,0,0
+2024-11-10,2024-2025,La Liga,Atlético Madrid,Mallorca,Away,1,0,W,Pablo Barrios,Y,DM,90,0,0,0,0,0,0,3,0,0,1,1
+2024-11-23,2024-2025,La Liga,Atlético Madrid,Alavés,Home,2,1,W,Pablo Barrios,Y,CM,90,0,0,0,0,0,0,2,0,4,0,0
+2024-11-30,2024-2025,La Liga,Atlético Madrid,Valladolid,Away,5,0,W,Pablo Barrios,Y,CM,78,0,0,0,0,0,0,0,0,0,1,0
+2024-12-08,2024-2025,La Liga,Atlético Madrid,Sevilla,Home,4,3,W,Pablo Barrios,Y,CM,90,0,1,0,0,1,0,3,0,3,2,0
+2024-12-15,2024-2025,La Liga,Atlético Madrid,Getafe,Home,1,0,W,Pablo Barrios,Y,CM,85,0,0,2,0,0,0,1,0,0,0,2
+2024-12-21,2024-2025,La Liga,Atlético Madrid,Barcelona,Away,2,1,W,Pablo Barrios,Y,CM,90,0,0,1,1,0,0,0,0,0,4,4
+2025-01-12,2024-2025,La Liga,Atlético Madrid,Osasuna,Home,1,0,W,Pablo Barrios,Y,CM,90,0,0,0,0,0,0,0,0,1,1,1
+2025-01-18,2024-2025,La Liga,Atlético Madrid,Leganés,Away,0,1,L,Pablo Barrios,Y,CM,59,0,0,2,1,1,0,1,0,0,0,0
+2025-01-25,2024-2025,La Liga,Atlético Madrid,Villarreal,Home,1,1,D,Pablo Barrios,Y,CM,90,0,0,2,1,0,0,1,0,0,0,0
+2025-02-01,2024-2025,La Liga,Atlético Madrid,Mallorca,Home,2,0,W,Pablo Barrios,Y,CM,90,0,0,4,0,0,0,0,0,2,0,0
+2025-02-08,2024-2025,La Liga,Atlético Madrid,Real Madrid,Away,1,1,D,Pablo Barrios,Y,CM,90,0,0,1,0,0,0,2,0,1,2,2
+2025-02-15,2024-2025,La Liga,Atlético Madrid,Celta Vigo,Home,1,1,D,Pablo Barrios,Y,CM,6,0,0,0,0,0,1,1,0,0,0,0
+2025-03-01,2024-2025,La Liga,Atlético Madrid,Athletic Club,Home,1,0,W,Pablo Barrios,Y,CM,68,0,0,0,0,1,0,2,0,0,1,2
+2025-03-09,2024-2025,La Liga,Atlético Madrid,Getafe,Away,1,2,L,Pablo Barrios,N,,45,0,0,0,0,0,0,0,0,0,0,0
+2025-03-16,2024-2025,La Liga,Atlético Madrid,Barcelona,Home,2,4,L,Pablo Barrios,Y,CM,90,0,0,0,0,0,0,1,0,0,0,3
+2025-03-29,2024-2025,La Liga,Atlético Madrid,Espanyol,Away,1,1,D,Pablo Barrios,Y,CM,90,0,0,1,0,0,0,0,0,0,0,1
+2025-04-06,2024-2025,La Liga,Atlético Madrid,Sevilla,Away,2,1,W,Pablo Barrios,Y,CM,90,1,0,1,1,0,0,1,0,0,1,3
+2025-04-14,2024-2025,La Liga,Atlético Madrid,Valladolid,Home,4,2,W,Pablo Barrios,Y,CM,90,0,1,3,1,0,0,2,0,0,1,0
+2025-04-19,2024-2025,La Liga,Atlético Madrid,Las Palmas,Away,0,1,L,Pablo Barrios,Y,CM,90,0,0,0,0,0,0,1,2,2,2,1
+2025-04-24,2024-2025,La Liga,Atlético Madrid,Rayo Vallecano,Home,3,0,W,Pablo Barrios,Y,CM,90,0,0,0,0,0,0,0,0,0,1,1
+2025-05-03,2024-2025,La Liga,Atlético Madrid,Alavés,Away,0,0,D,Pablo Barrios,Y,CM,71,0,0,0,0,0,0,1,0,0,1,1
+2025-05-10,2024-2025,La Liga,Atlético Madrid,Real Sociedad,Home,4,0,W,Pablo Barrios,Y,CM,54,0,1,0,0,0,0,0,2,0,0,1
+2025-05-15,2024-2025,La Liga,Atlético Madrid,Osasuna,Away,0,2,L,Pablo Barrios,Y,LM,51,0,0,1,1,0,0,0,2,0,1,0
+2025-05-25,2024-2025,La Liga,Atlético Madrid,Girona,Away,4,0,W,Pablo Barrios,N,,13,0,0,0,0,0,0,1,0,0,0,0
