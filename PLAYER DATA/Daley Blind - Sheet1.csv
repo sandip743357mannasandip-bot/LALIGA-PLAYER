@@ -1,0 +1,163 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2014-09-14,2014-2015,Premier League,Manchester Utd,QPR,Home,4,0,W,Daley Blind,Y,,90,0,0,1,1,0,0,1,0,0,2,2
+2014-09-21,2014-2015,Premier League,Manchester Utd,Leicester City,Away,3,5,L,Daley Blind,Y,,90,0,0,1,1,0,0,1,0,0,2,8
+2014-09-27,2014-2015,Premier League,Manchester Utd,West Ham,Home,2,1,W,Daley Blind,Y,,90,0,0,0,0,0,0,0,0,0,3,0
+2014-10-05,2014-2015,Premier League,Manchester Utd,Everton,Home,2,1,W,Daley Blind,Y,,90,0,0,2,0,1,0,3,0,0,2,2
+2014-10-20,2014-2015,Premier League,Manchester Utd,West Brom,Away,2,2,D,Daley Blind,Y,,90,1,0,5,1,1,0,2,0,1,2,4
+2014-10-26,2014-2015,Premier League,Manchester Utd,Chelsea,Home,1,1,D,Daley Blind,Y,,90,0,0,0,0,0,0,0,0,0,2,4
+2014-11-02,2014-2015,Premier League,Manchester Utd,Manchester City,Away,0,1,L,Daley Blind,Y,,90,0,0,0,0,1,0,1,0,0,4,1
+2014-11-08,2014-2015,Premier League,Manchester Utd,Crystal Palace,Home,1,0,W,Daley Blind,Y,,90,0,0,1,0,0,0,0,0,2,1,2
+2015-01-11,2014-2015,Premier League,Manchester Utd,Southampton,Home,0,1,L,Daley Blind,Y,,90,0,0,1,0,0,0,0,0,3,2,6
+2015-01-17,2014-2015,Premier League,Manchester Utd,QPR,Away,2,0,W,Daley Blind,Y,,90,0,0,0,0,0,0,1,0,2,0,6
+2015-01-31,2014-2015,Premier League,Manchester Utd,Leicester City,Home,3,1,W,Daley Blind,Y,,90,0,1,1,1,0,0,1,0,0,3,5
+2015-02-08,2014-2015,Premier League,Manchester Utd,West Ham,Away,1,1,D,Daley Blind,Y,,90,1,0,1,1,0,0,2,0,0,2,2
+2015-02-11,2014-2015,Premier League,Manchester Utd,Burnley,Home,3,1,W,Daley Blind,Y,,38,0,0,0,0,0,0,0,0,0,0,2
+2015-02-21,2014-2015,Premier League,Manchester Utd,Swansea City,Away,1,2,L,Daley Blind,Y,,90,0,0,2,0,0,0,3,0,0,1,9
+2015-02-28,2014-2015,Premier League,Manchester Utd,Sunderland,Home,2,0,W,Daley Blind,Y,,90,0,0,2,1,0,0,4,0,1,0,3
+2015-03-04,2014-2015,Premier League,Manchester Utd,Newcastle,Away,1,0,W,Daley Blind,Y,,90,0,0,0,0,0,0,1,0,0,1,5
+2015-03-15,2014-2015,Premier League,Manchester Utd,Tottenham,Home,3,0,W,Daley Blind,Y,,90,0,0,1,0,0,0,1,1,4,2,3
+2015-03-22,2014-2015,Premier League,Manchester Utd,Liverpool,Away,2,1,W,Daley Blind,Y,,89,0,0,0,0,0,0,0,0,2,4,1
+2015-04-04,2014-2015,Premier League,Manchester Utd,Aston Villa,Home,3,1,W,Daley Blind,Y,,90,0,1,2,1,0,0,1,0,3,4,3
+2015-04-12,2014-2015,Premier League,Manchester Utd,Manchester City,Home,4,2,W,Daley Blind,Y,,90,0,0,0,0,0,0,1,0,1,0,4
+2015-04-26,2014-2015,Premier League,Manchester Utd,Everton,Away,0,3,L,Daley Blind,Y,,90,0,0,1,1,0,0,0,0,0,2,1
+2015-05-02,2014-2015,Premier League,Manchester Utd,West Brom,Home,0,1,L,Daley Blind,Y,,63,0,0,2,0,0,0,0,0,2,0,1
+2015-05-09,2014-2015,Premier League,Manchester Utd,Crystal Palace,Away,2,1,W,Daley Blind,Y,,90,0,0,2,1,0,0,0,0,0,0,2
+2015-05-17,2014-2015,Premier League,Manchester Utd,Arsenal,Home,1,1,D,Daley Blind,Y,,90,0,0,3,0,0,0,0,0,0,3,3
+2015-05-24,2014-2015,Premier League,Manchester Utd,Hull City,Away,0,0,D,Daley Blind,Y,,90,0,0,0,0,1,0,3,0,0,1,4
+2015-08-08,2015-2016,Premier League,Manchester Utd,Tottenham,Home,1,0,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,0,3,2
+2015-08-14,2015-2016,Premier League,Manchester Utd,Aston Villa,Away,1,0,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,0,1,2
+2015-08-22,2015-2016,Premier League,Manchester Utd,Newcastle,Home,0,0,D,Daley Blind,Y,CB,90,0,0,1,0,0,0,0,0,1,0,2
+2015-08-30,2015-2016,Premier League,Manchester Utd,Swansea City,Away,1,2,L,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,0,1,3
+2015-09-12,2015-2016,Premier League,Manchester Utd,Liverpool,Home,3,1,W,Daley Blind,Y,CB,90,1,0,1,1,0,0,1,0,3,2,3
+2015-09-20,2015-2016,Premier League,Manchester Utd,Southampton,Away,3,2,W,Daley Blind,Y,LB,90,0,0,0,0,0,0,0,0,0,0,1
+2015-09-26,2015-2016,Premier League,Manchester Utd,Sunderland,Home,3,0,W,Daley Blind,Y,CB,73,0,0,0,0,0,0,0,0,0,1,1
+2015-10-04,2015-2016,Premier League,Manchester Utd,Arsenal,Away,0,3,L,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,2,2,1
+2015-10-31,2015-2016,Premier League,Manchester Utd,Crystal Palace,Away,0,0,D,Daley Blind,Y,CB,90,0,0,0,0,0,0,3,0,0,1,4
+2015-11-07,2015-2016,Premier League,Manchester Utd,West Brom,Home,2,0,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,2,2,1
+2015-11-21,2015-2016,Premier League,Manchester Utd,Watford,Away,2,1,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,7,2,2
+2015-11-28,2015-2016,Premier League,Manchester Utd,Leicester City,Away,1,1,D,Daley Blind,Y,CB,90,0,1,0,0,0,0,1,0,7,1,1
+2015-12-05,2015-2016,Premier League,Manchester Utd,West Ham,Home,0,0,D,Daley Blind,Y,LB,90,0,0,0,0,0,0,0,0,5,1,1
+2015-12-12,2015-2016,Premier League,Manchester Utd,Bournemouth,Away,1,2,L,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,4,4,1
+2015-12-19,2015-2016,Premier League,Manchester Utd,Norwich City,Home,1,2,L,Daley Blind,Y,CB,90,0,0,1,0,0,0,0,0,13,2,5
+2015-12-26,2015-2016,Premier League,Manchester Utd,Stoke City,Away,0,2,L,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,8,3,3
+2015-12-28,2015-2016,Premier League,Manchester Utd,Chelsea,Home,0,0,D,Daley Blind,Y,CB,80,0,0,0,0,0,0,1,0,4,4,3
+2016-01-02,2015-2016,Premier League,Manchester Utd,Swansea City,Home,2,1,W,Daley Blind,Y,LB,90,0,0,0,0,1,0,1,0,3,1,3
+2016-01-12,2015-2016,Premier League,Manchester Utd,Newcastle,Away,3,3,D,Daley Blind,Y,CB,90,0,0,0,0,0,0,2,0,3,3,3
+2016-01-17,2015-2016,Premier League,Manchester Utd,Liverpool,Away,1,0,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,4,2,3
+2016-01-23,2015-2016,Premier League,Manchester Utd,Southampton,Home,0,1,L,Daley Blind,Y,CB,90,0,0,1,1,0,0,0,0,3,0,3
+2016-02-02,2015-2016,Premier League,Manchester Utd,Stoke City,Home,3,0,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,2,0,2,4,3
+2016-02-07,2015-2016,Premier League,Manchester Utd,Chelsea,Away,1,1,D,Daley Blind,Y,CB,90,0,0,0,0,1,0,1,0,10,0,1
+2016-02-13,2015-2016,Premier League,Manchester Utd,Sunderland,Away,1,2,L,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,7,3,2
+2016-02-28,2015-2016,Premier League,Manchester Utd,Arsenal,Home,3,2,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,1,2,1
+2016-03-02,2015-2016,Premier League,Manchester Utd,Watford,Home,1,0,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,4,3,2
+2016-03-06,2015-2016,Premier League,Manchester Utd,West Brom,Away,0,1,L,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,4,3,3
+2016-03-20,2015-2016,Premier League,Manchester Utd,Manchester City,Away,1,0,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,4,5,5
+2016-03-22,2015-2016,Premier League,Manchester Utd,Everton,Home,1,0,W,Daley Blind,Y,CB,81,0,0,0,0,0,0,1,0,3,2,3
+2016-04-10,2015-2016,Premier League,Manchester Utd,Tottenham,Away,0,3,L,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,3,2,1
+2016-04-16,2015-2016,Premier League,Manchester Utd,Aston Villa,Home,1,0,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,5,1,2
+2016-04-20,2015-2016,Premier League,Manchester Utd,Crystal Palace,Home,2,0,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,2,5,1
+2015-05-01,2015-2016,Premier League,Manchester Utd,Leicester City,Home,1,1,D,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,4,1,4
+2016-05-10,2015-2016,Premier League,Manchester Utd,West Ham,Away,2,3,L,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,2,1,2
+2016-05-17,2015-2016,Premier League,Manchester Utd,Bournemouth,Home,3,1,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,5,0,2
+2016-08-14,2016-2017,Premier League,Manchester Utd,Bournemouth,Away,3,1,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,0,3,4
+2016-08-19,2016-2017,Premier League,Manchester Utd,Southampton,Home,2,0,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,1,2,0
+2016-08-27,2016-2017,Premier League,Manchester Utd,Hull City,Away,1,0,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,0,1,4
+2016-09-10,2016-2017,Premier League,Manchester Utd,Manchester City,Home,1,2,L,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,1,3,4
+2016-09-24,2016-2017,Premier League,Manchester Utd,Leicester City,Home,4,1,W,Daley Blind,Y,LB,90,0,2,1,0,0,0,1,0,8,3,1
+2016-10-02,2016-2017,Premier League,Manchester Utd,Stoke City,Home,1,1,D,Daley Blind,Y,LB,90,0,0,1,0,0,0,0,0,10,1,6
+2016-10-17,2016-2017,Premier League,Manchester Utd,Liverpool,Away,0,0,D,Daley Blind,Y,LB,90,0,0,0,0,0,0,2,0,2,2,0
+2016-10-23,2016-2017,Premier League,Manchester Utd,Chelsea,Away,0,4,L,Daley Blind,Y,LB,90,0,0,0,0,0,0,1,0,4,0,3
+2016-10-29,2016-2017,Premier League,Manchester Utd,Burnley,Home,0,0,D,Daley Blind,Y,CB,90,0,0,1,0,0,0,0,0,6,0,1
+2016-11-19,2016-2017,Premier League,Manchester Utd,Arsenal,Home,1,1,D,Daley Blind,N,,27,0,0,0,0,0,0,0,0,1,1,0
+2016-12-14,2016-2017,Premier League,Manchester Utd,Crystal Palace,Away,2,1,W,Daley Blind,Y,LB,90,0,0,0,0,0,0,2,0,5,4,4
+2016-12-26,2016-2017,Premier League,Manchester Utd,Sunderland,Home,3,1,W,Daley Blind,Y,LB,90,1,0,1,1,0,0,2,0,5,1,1
+2016-12-31,2016-2017,Premier League,Manchester Utd,Middlesbrough,Home,2,1,W,Daley Blind,Y,LB,63,0,0,1,0,1,0,1,0,11,1,0
+2017-01-21,2016-2017,Premier League,Manchester Utd,Stoke City,Away,1,1,D,Daley Blind,Y,LB,90,0,0,2,0,0,0,2,0,10,0,0
+2017-02-01,2016-2017,Premier League,Manchester Utd,Hull City,Home,0,0,D,Daley Blind,Y,LB,90,0,0,1,0,0,0,2,0,8,0,1
+2017-02-05,2016-2017,Premier League,Manchester Utd,Leicester City,Away,3,0,W,Daley Blind,N,,45,0,0,0,0,0,0,0,0,0,1,0
+2017-02-11,2016-2017,Premier League,Manchester Utd,Watford,Home,2,0,W,Daley Blind,Y,LB,90,0,0,0,0,0,0,0,0,2,4,3
+2017-04-04,2016-2017,Premier League,Manchester Utd,Everton,Home,1,1,D,Daley Blind,Y,LB,45,0,0,1,1,0,0,0,0,3,1,1
+2017-04-09,2016-2017,Premier League,Manchester Utd,Sunderland,Away,3,0,W,Daley Blind,N,,30,0,0,0,0,0,0,1,0,1,1,0
+2017-04-23,2016-2017,Premier League,Manchester Utd,Burnley,Away,2,0,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,0,3,5
+2017-04-27,2016-2017,Premier League,Manchester Utd,Manchester City,Away,0,0,D,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,1,1,2
+2017-04-30,2016-2017,Premier League,Manchester Utd,Swansea City,Home,1,1,D,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,0,0,1
+2017-05-14,2016-2017,Premier League,Manchester Utd,Tottenham,Away,1,2,L,Daley Blind,Y,LB,90,0,0,0,0,0,0,0,0,8,1,3
+2017-08-13,2017-2018,Premier League,Manchester Utd,West Ham,Home,4,0,W,Daley Blind,Y,LB,90,0,0,3,0,0,0,2,0,8,1,1
+2017-08-19,2017-2018,Premier League,Manchester Utd,Swansea City,Away,4,0,W,Daley Blind,Y,LB,90,0,0,0,0,0,0,0,0,5,1,3
+2017-08-26,2017-2018,Premier League,Manchester Utd,Leicester City,Home,2,0,W,Daley Blind,Y,LB,90,0,0,1,0,0,0,2,0,10,1,2
+2017-09-23,2017-2018,Premier League,Manchester Utd,Southampton,Away,1,0,W,Daley Blind,N,,1,0,0,0,0,0,0,0,0,0,0,0
+2018-01-01,2017-2018,Premier League,Manchester Utd,Everton,Away,2,0,W,Daley Blind,N,,4,0,0,0,0,0,0,0,0,0,0,0
+2018-04-18,2017-2018,Premier League,Manchester Utd,Bournemouth,Away,2,0,W,Daley Blind,N,,11,0,0,0,0,0,0,0,0,1,0,0
+2018-05-13,2017-2018,Premier League,Manchester Utd,Watford,Home,1,0,W,Daley Blind,Y,CM,76,0,0,0,0,0,0,0,0,2,1,0
+2023-02-05,2022-2023,Bundesliga,Bayern Munich,Wolfsburg,Away,4,2,W,Daley Blind,N,,13,0,0,0,0,0,0,0,0,0,0,0
+2023-02-11,2022-2023,Bundesliga,Bayern Munich,Bochum,Home,3,0,W,Daley Blind,N,,24,0,0,1,1,0,0,1,0,0,0,0
+2023-02-18,2022-2023,Bundesliga,Bayern Munich,Gladbach,Away,2,3,L,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,1,0,2
+2023-03-11,2022-2023,Bundesliga,Bayern Munich,Augsburg,Home,5,3,W,Daley Blind,N,,7,0,0,0,0,0,0,0,0,0,0,0
+2023-08-12,2023-2024,La Liga,Girona,Real Sociedad,Away,1,1,D,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0
+2023-08-20,2023-2024,La Liga,Girona,Getafe,Home,3,0,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,2,0,0,1,0
+2023-08-26,2023-2024,La Liga,Girona,Sevilla,Away,2,1,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,0,1,0
+2023-09-03,2023-2024,La Liga,Girona,Las Palmas,Home,1,0,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,0,2,0
+2023-09-18,2023-2024,La Liga,Girona,Granada,Away,4,2,W,Daley Blind,Y,CB,89,0,0,1,0,0,0,0,1,0,0,0
+2023-09-23,2023-2024,La Liga,Girona,Mallorca,Home,5,3,W,Daley Blind,Y,LB,90,0,1,0,0,0,0,2,0,2,0,0
+2023-09-27,2023-2024,La Liga,Girona,Villarreal,Away,2,1,W,Daley Blind,N,,3,0,0,0,0,0,0,0,0,0,1,0
+2023-09-30,2023-2024,La Liga,Girona,Real Madrid,Home,0,3,L,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,1,1,1
+2023-10-07,2023-2024,La Liga,Girona,Cádiz,Away,1,0,W,Daley Blind,Y,CB,90,0,0,1,0,0,0,0,0,1,0,0
+2023-10-22,2023-2024,La Liga,Girona,Almería,Home,5,2,W,Daley Blind,Y,CB,90,0,1,0,0,0,0,1,0,0,2,2
+2023-10-27,2023-2024,La Liga,Girona,Celta Vigo,Home,1,0,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,0,0,0
+2023-11-04,2023-2024,La Liga,Girona,Osasuna,Away,4,2,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,0,2,0
+2023-11-11,2023-2024,La Liga,Girona,Rayo Vallecano,Away,2,1,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,0,2,0
+2023-11-27,2023-2024,La Liga,Girona,Athletic Club,Home,1,1,D,Daley Blind,Y,CB,90,0,0,0,0,1,0,1,0,0,1,1
+2023-12-02,2023-2024,La Liga,Girona,Valencia,Home,2,1,W,Daley Blind,Y,CB,90,0,0,0,0,1,0,1,0,0,0,1
+2023-12-10,2023-2024,La Liga,Girona,Barcelona,Away,4,2,W,Daley Blind,Y,CB,90,0,0,0,0,1,0,0,0,0,1,1
+2023-12-18,2023-2024,La Liga,Girona,Alavés,Home,3,0,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,0,2,0
+2023-12-21,2023-2024,La Liga,Girona,Real Betis,Away,1,1,D,Daley Blind,Y,CB,90,0,0,1,0,0,0,0,0,0,1,0
+2024-01-03,2023-2024,La Liga,Girona,Atlético Madrid,Home,4,3,W,Daley Blind,Y,CB,90,1,0,2,1,0,0,1,0,0,0,0
+2024-01-14,2023-2024,La Liga,Girona,Almería,Away,0,0,D,Daley Blind,Y,CB,90,0,0,3,1,0,0,0,1,1,1,1
+2024-01-21,2023-2024,La Liga,Girona,Sevilla,Home,5,1,W,Daley Blind,Y,CB,90,0,0,1,1,0,0,0,0,0,0,0
+2024-01-28,2023-2024,La Liga,Girona,Celta Vigo,Away,1,0,W,Daley Blind,Y,CB,90,0,0,1,1,1,0,1,0,0,0,1
+2024-02-03,2023-2024,La Liga,Girona,Real Sociedad,Home,0,0,D,Daley Blind,Y,CB,90,0,0,2,0,1,0,0,1,0,0,0
+2024-03-09,2023-2024,La Liga,Girona,Osasuna,Home,2,0,W,Daley Blind,Y,CB,90,0,0,1,0,0,0,0,0,0,1,0
+2024-03-16,2023-2024,La Liga,Girona,Getafe,Away,0,1,L,Daley Blind,Y,LB,90,0,0,0,0,0,0,1,0,4,1,0
+2024-03-31,2023-2024,La Liga,Girona,Real Betis,Home,3,2,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0
+2024-04-13,2023-2024,La Liga,Girona,Atlético Madrid,Away,1,3,L,Daley Blind,Y,CB,90,0,0,1,1,0,0,0,0,0,0,0
+2024-04-20,2023-2024,La Liga,Girona,Cádiz,Home,4,1,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0
+2024-04-27,2023-2024,La Liga,Girona,Las Palmas,Away,2,0,W,Daley Blind,Y,CB,90,0,0,1,0,0,0,2,0,1,1,0
+2024-05-04,2023-2024,La Liga,Girona,Barcelona,Home,4,2,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,1,0,1
+2024-05-10,2023-2024,La Liga,Girona,Alavés,Away,2,2,D,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,1,2,1
+2024-05-14,2023-2024,La Liga,Girona,Villarreal,Home,0,1,L,Daley Blind,Y,CB,90,0,0,1,0,1,0,1,0,0,2,1
+2024-05-19,2023-2024,La Liga,Girona,Valencia,Away,3,1,W,Daley Blind,Y,LB,90,0,0,1,1,0,0,2,0,0,1,1
+2024-05-24,2023-2024,La Liga,Girona,Granada,Home,7,0,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0
+2024-08-15,2024-2025,La Liga,Girona,Real Betis,Away,1,1,D,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,0,1,5
+2024-08-25,2024-2025,La Liga,Girona,Atlético Madrid,Away,0,3,L,Daley Blind,Y,CB,90,0,0,1,1,0,0,0,0,2,1,1
+2024-08-29,2024-2025,La Liga,Girona,Osasuna,Home,4,0,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,3,0,2,0,0
+2024-09-01,2024-2025,La Liga,Girona,Sevilla,Away,2,0,W,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,1,0,2
+2024-09-15,2024-2025,La Liga,Girona,Barcelona,Home,1,4,L,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,0,2,1
+2024-09-21,2024-2025,La Liga,Girona,Valencia,Away,0,2,L,Daley Blind,Y,LB,90,0,0,0,0,0,0,0,0,0,3,0
+2024-09-25,2024-2025,La Liga,Girona,Rayo Vallecano,Home,0,0,D,Daley Blind,Y,CB,90,0,0,0,0,0,0,0,0,3,1,1
+2024-09-29,2024-2025,La Liga,Girona,Celta Vigo,Away,1,1,D,Daley Blind,Y,CB,53,0,1,0,0,0,0,0,0,0,0,0
+2024-10-26,2024-2025,La Liga,Girona,Las Palmas,Away,0,1,L,Daley Blind,N,,25,0,0,0,0,1,0,0,0,0,0,2
+2024-11-02,2024-2025,La Liga,Girona,Leganés,Home,4,3,W,Daley Blind,Y,CB,90,0,0,1,0,0,0,0,0,1,0,1
+2024-11-10,2024-2025,La Liga,Girona,Getafe,Away,1,0,W,Daley Blind,Y,LB,90,0,0,0,0,0,0,2,0,0,0,0
+2024-11-23,2024-2025,La Liga,Girona,Espanyol,Home,4,1,W,Daley Blind,Y,LB,90,0,0,0,0,0,0,1,0,1,0,0
+2024-12-01,2024-2025,La Liga,Girona,Villarreal,Away,2,2,D,Daley Blind,N,,18,0,0,0,0,1,0,1,0,0,0,0
+2024-12-14,2024-2025,La Liga,Girona,Mallorca,Away,1,2,L,Daley Blind,Y,CB,90,0,0,1,0,0,0,0,0,9,1,0
+2024-12-20,2024-2025,La Liga,Girona,Valladolid,Home,3,0,W,Daley Blind,Y,CB,90,0,0,1,1,0,0,2,0,0,1,1
+2025-01-11,2024-2025,La Liga,Girona,Alavés,Away,1,0,W,Daley Blind,Y,LB,90,0,0,0,0,0,0,0,0,2,1,3
+2025-01-18,2024-2025,La Liga,Girona,Sevilla,Home,1,2,L,Daley Blind,Y,LB,90,0,0,0,0,0,0,1,0,0,3,0
+2025-01-26,2024-2025,La Liga,Girona,Rayo Vallecano,Away,1,2,L,Daley Blind,Y,LB,29,0,0,0,0,0,0,0,0,0,0,1
+2025-02-08,2024-2025,La Liga,Girona,Athletic Club,Away,0,3,L,Daley Blind,N,,45,0,0,0,0,0,0,0,0,2,2,1
+2025-02-14,2024-2025,La Liga,Girona,Getafe,Home,1,2,L,Daley Blind,Y,CB,90,0,0,0,0,0,0,2,0,2,0,2
+2025-02-23,2024-2025,La Liga,Girona,Real Madrid,Away,0,2,L,Daley Blind,Y,CB,90,0,0,0,0,0,0,3,0,0,0,0
+2025-03-01,2024-2025,La Liga,Girona,Celta Vigo,Home,2,2,D,Daley Blind,Y,CB,90,0,0,1,0,0,0,0,0,0,1,0
+2025-03-10,2024-2025,La Liga,Girona,Espanyol,Away,1,1,D,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,1,0,0
+2025-03-15,2024-2025,La Liga,Girona,Valencia,Home,1,1,D,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,2,0,2
+2025-03-30,2024-2025,La Liga,Girona,Barcelona,Away,1,4,L,Daley Blind,Y,CB,90,0,1,0,0,0,0,1,0,0,1,1
+2025-04-05,2024-2025,La Liga,Girona,Alavés,Home,0,1,L,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,0,1,0
+2025-04-13,2024-2025,La Liga,Girona,Osasuna,Away,1,2,L,Daley Blind,Y,LB,90,0,0,1,1,0,0,1,0,4,2,0
+2025-04-21,2024-2025,La Liga,Girona,Real Betis,Home,1,3,L,Daley Blind,Y,CB,90,0,0,1,0,0,0,0,1,0,2,0
+2025-04-24,2024-2025,La Liga,Girona,Leganés,Away,1,1,D,Daley Blind,Y,CB,90,0,0,0,0,0,0,1,0,4,0,0
+2025-05-05,2024-2025,La Liga,Girona,Mallorca,Home,1,0,W,Daley Blind,Y,LB,90,0,0,1,1,0,0,1,0,1,0,1
+2025-05-10,2024-2025,La Liga,Girona,Villarreal,Home,0,1,L,Daley Blind,Y,LB,90,0,0,0,0,0,0,1,0,2,1,1
+2025-05-13,2024-2025,La Liga,Girona,Valladolid,Away,1,0,W,Daley Blind,Y,LB,90,0,0,1,0,0,0,1,0,1,0,2
+2025-05-18,2024-2025,La Liga,Girona,Real Sociedad,Away,2,3,L,Daley Blind,Y,LB,90,0,0,0,0,0,0,0,0,1,2,2
+2025-05-25,2024-2025,La Liga,Girona,Atlético Madrid,Home,0,4,L,Daley Blind,Y,LB,90,0,0,1,0,0,0,1,0,1,2,3
