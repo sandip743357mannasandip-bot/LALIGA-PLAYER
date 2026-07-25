@@ -1,0 +1,120 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2018-08-19,2018-2019,La Liga,Huesca,Eibar,Away,2,1,W,Cucho,Y,FW,76,0,0,2,1,0,0,0,1,1,0,0
+2018-08-27,2018-2019,La Liga,Huesca,Athletic Club,Away,2,2,D,Cucho,Y,FW,90,0,0,5,2,0,0,2,0,3,1,2
+2018-09-02,2018-2019,La Liga,Huesca,Barcelona,Away,2,8,L,Cucho,Y,FW,71,1,0,2,2,0,0,0,0,0,0,0
+2018-09-14,2018-2019,La Liga,Huesca,Rayo Vallecano,Home,0,1,L,Cucho,N,,34,0,0,2,0,0,0,0,0,4,0,0
+2018-09-21,2018-2019,La Liga,Huesca,Real Sociedad,Home,0,1,L,Cucho,Y,FW,90,0,0,4,1,1,0,1,0,2,0,0
+2018-09-25,2018-2019,La Liga,Huesca,Atlético Madrid,Away,0,3,L,Cucho,Y,FW,45,0,0,0,0,0,0,0,0,2,1,0
+2018-09-30,2018-2019,La Liga,Huesca,Girona,Home,1,1,D,Cucho,Y,FW,90,0,0,2,1,0,0,0,2,3,0,0
+2018-10-07,2018-2019,La Liga,Huesca,Valladolid,Away,0,1,L,Cucho,N,,27,0,0,2,0,0,0,0,0,3,0,0
+2018-10-21,2018-2019,La Liga,Huesca,Espanyol,Home,0,2,L,Cucho,Y,FW,45,0,0,0,0,0,0,2,0,0,1,0
+2018-10-28,2018-2019,La Liga,Huesca,Sevilla,Away,1,2,L,Cucho,Y,FW,82,0,0,4,1,0,0,0,1,1,2,1
+2018-11-04,2018-2019,La Liga,Huesca,Getafe,Home,1,1,D,Cucho,Y,FW,80,0,0,4,2,0,0,0,2,2,0,0
+2018-11-11,2018-2019,La Liga,Huesca,Alavés,Away,1,2,L,Cucho,Y,FW,90,0,0,0,0,1,0,3,1,2,2,0
+2018-11-24,2018-2019,La Liga,Huesca,Levante,Home,2,2,D,Cucho,Y,FW,90,0,1,5,1,0,0,0,1,0,1,2
+2018-12-01,2018-2019,La Liga,Huesca,Celta Vigo,Away,0,2,L,Cucho,Y,FW,90,0,0,0,0,1,0,2,2,2,0,0
+2018-12-09,2018-2019,La Liga,Huesca,Real Madrid,Home,0,1,L,Cucho,Y,FW,90,0,0,1,0,0,0,2,0,2,0,1
+2018-12-16,2018-2019,La Liga,Huesca,Villarreal,Home,2,2,D,Cucho,Y,FW,90,1,0,8,4,0,0,1,0,1,0,0
+2018-12-23,2018-2019,La Liga,Huesca,Valencia,Away,1,2,L,Cucho,Y,FW,90,1,0,4,1,0,0,2,0,1,0,0
+2019-01-05,2018-2019,La Liga,Huesca,Real Betis,Home,2,1,W,Cucho,Y,FW,84,0,0,2,0,1,0,3,1,1,0,0
+2019-01-12,2018-2019,La Liga,Huesca,Leganés,Away,0,1,L,Cucho,Y,FW,90,0,0,3,0,0,0,1,0,2,1,0
+2019-01-19,2018-2019,La Liga,Huesca,Atlético Madrid,Home,0,3,L,Cucho,Y,RW,60,0,0,4,2,0,0,2,0,1,1,0
+2019-01-27,2018-2019,La Liga,Huesca,Real Sociedad,Away,0,0,D,Cucho,Y,FW,89,0,0,3,1,0,0,4,0,1,0,0
+2019-02-01,2018-2019,La Liga,Huesca,Valladolid,Home,4,0,W,Cucho,Y,FW,76,0,2,1,1,1,0,1,0,1,0,0
+2019-02-18,2018-2019,La Liga,Huesca,Athletic Club,Home,0,1,L,Cucho,N,,19,0,0,1,0,0,0,0,0,1,0,0
+2019-02-22,2018-2019,La Liga,Huesca,Espanyol,Away,1,1,D,Cucho,N,,9,0,0,2,0,0,0,0,0,0,0,0
+2019-03-09,2018-2019,La Liga,Huesca,Getafe,Away,1,2,L,Cucho,N,,13,0,0,1,0,0,0,1,0,0,0,0
+2019-03-16,2018-2019,La Liga,Huesca,Alavés,Home,1,3,L,Cucho,N,,30,0,0,2,0,0,0,0,0,1,0,0
+2019-03-31,2018-2019,La Liga,Huesca,Real Madrid,Away,2,3,L,Cucho,Y,FW,81,1,0,3,1,0,0,2,0,0,2,1
+2019-04-03,2018-2019,La Liga,Huesca,Celta Vigo,Home,3,3,D,Cucho,Y,FW,90,0,0,4,1,0,0,1,0,5,0,1
+2019-04-07,2018-2019,La Liga,Huesca,Levante,Away,2,2,D,Cucho,Y,FW,45,0,0,2,0,1,0,2,0,0,0,0
+2019-04-13,2018-2019,La Liga,Huesca,Barcelona,Home,0,0,D,Cucho,N,,19,0,0,0,0,0,0,0,0,0,0,0
+2019-04-20,2018-2019,La Liga,Huesca,Rayo Vallecano,Away,0,0,D,Cucho,N,,27,0,0,2,1,0,0,0,0,0,0,0
+2019-04-23,2018-2019,La Liga,Huesca,Eibar,Home,2,0,W,Cucho,Y,FW,74,0,0,2,0,0,0,1,1,3,1,0
+2019-04-28,2018-2019,La Liga,Huesca,Villarreal,Away,1,1,D,Cucho,N,,29,0,0,1,1,0,0,0,0,1,0,0
+2019-05-05,2018-2019,La Liga,Huesca,Valencia,Home,2,6,L,Cucho,Y,FW,45,0,0,1,0,0,0,0,0,4,0,1
+2019-12-07,2019-2020,La Liga,Mallorca,Barcelona,Away,2,5,L,Cucho,N,,32,0,0,2,1,0,0,0,0,0,1,0
+2019-12-15,2019-2020,La Liga,Mallorca,Celta Vigo,Away,2,2,D,Cucho,N,,45,0,1,1,0,1,0,3,0,1,0,0
+2019-12-21,2019-2020,La Liga,Mallorca,Sevilla,Home,0,2,L,Cucho,N,,34,0,0,0,0,0,0,0,1,0,0,0
+2020-01-05,2019-2020,La Liga,Mallorca,Granada,Away,0,1,L,Cucho,Y,FW,90,0,0,9,3,0,0,0,0,0,0,0
+2020-01-19,2019-2020,La Liga,Mallorca,Valencia,Home,4,1,W,Cucho,Y,FW,63,0,0,1,0,0,0,1,1,1,0,0
+2020-01-26,2019-2020,La Liga,Mallorca,Real Sociedad,Away,0,3,L,Cucho,Y,FW,90,0,0,2,1,0,0,1,0,1,0,0
+2020-02-01,2019-2020,La Liga,Mallorca,Valladolid,Home,0,1,L,Cucho,Y,AM,90,0,0,4,0,1,0,1,0,2,0,0
+2020-02-09,2019-2020,La Liga,Mallorca,Espanyol,Away,0,1,L,Cucho,N,,19,0,0,0,0,0,0,0,0,2,0,0
+2020-02-15,2019-2020,La Liga,Mallorca,Alavés,Home,1,0,W,Cucho,Y,AM,90,1,0,3,2,0,0,3,0,2,2,0
+2020-02-21,2019-2020,La Liga,Mallorca,Real Betis,Away,3,3,D,Cucho,Y,AM,90,1,0,2,1,0,0,1,0,1,0,2
+2020-03-01,2019-2020,La Liga,Mallorca,Getafe,Home,0,1,L,Cucho,Y,FW,71,0,0,0,0,1,0,0,1,0,1,0
+2020-03-07,2019-2020,La Liga,Mallorca,Eibar,Away,2,1,W,Cucho,Y,FW,84,0,0,3,1,0,0,0,0,1,0,0
+2020-06-13,2019-2020,La Liga,Mallorca,Barcelona,Home,0,4,L,Cucho,Y,FW,45,0,0,0,0,0,0,1,0,2,0,2
+2020-06-16,2019-2020,La Liga,Mallorca,Villarreal,Away,0,1,L,Cucho,Y,FW,90,0,0,4,1,0,0,0,0,1,0,2
+2020-06-19,2019-2020,La Liga,Mallorca,Leganés,Home,1,1,D,Cucho,Y,LW,67,0,0,1,0,0,0,0,0,2,0,0
+2020-06-24,2019-2020,La Liga,Mallorca,Real Madrid,Away,0,2,L,Cucho,N,,30,0,0,1,0,0,0,0,0,1,1,0
+2020-06-27,2019-2020,La Liga,Mallorca,Athletic Club,Away,1,3,L,Cucho,Y,FW,67,0,0,1,0,0,0,1,1,1,0,0
+2020-06-30,2019-2020,La Liga,Mallorca,Celta Vigo,Home,5,1,W,Cucho,Y,AM,90,1,0,1,1,0,0,0,0,1,0,2
+2020-07-03,2019-2020,La Liga,Mallorca,Atlético Madrid,Away,0,3,L,Cucho,Y,FW,69,0,0,1,0,0,0,1,0,2,0,0
+2020-07-09,2019-2020,La Liga,Mallorca,Levante,Home,2,0,W,Cucho,Y,DM,73,1,0,4,1,0,0,1,0,2,0,1
+2020-07-12,2019-2020,La Liga,Mallorca,Sevilla,Away,0,2,L,Cucho,Y,FW,71,0,0,3,1,0,0,0,0,0,1,0
+2020-07-16,2019-2020,La Liga,Mallorca,Granada,Home,1,2,L,Cucho,Y,LM,87,1,0,3,1,2,1,2,0,1,2,2
+2020-09-19,2020-2021,La Liga,Getafe,Osasuna,Home,1,0,W,Cucho,Y,FW,79,0,0,1,0,0,0,3,0,2,0,0
+2020-09-26,2020-2021,La Liga,Getafe,Alavés,Away,0,0,D,Cucho,Y,FW,60,0,0,2,1,0,0,1,2,2,1,0
+2020-09-29,2020-2021,La Liga,Getafe,Real Betis,Home,3,0,W,Cucho,Y,FW,61,0,2,1,0,0,0,0,1,2,1,0
+2020-10-03,2020-2021,La Liga,Getafe,Real Sociedad,Away,0,3,L,Cucho,Y,FW,60,0,0,0,0,1,0,1,0,0,1,0
+2020-10-17,2020-2021,La Liga,Getafe,Barcelona,Home,1,0,W,Cucho,Y,FW,88,0,0,2,1,0,0,1,0,2,1,1
+2020-10-25,2020-2021,La Liga,Getafe,Granada,Home,0,1,L,Cucho,Y,FW,90,0,0,3,1,0,0,2,0,9,0,0
+2020-11-01,2020-2021,La Liga,Getafe,Valencia,Away,2,2,D,Cucho,Y,FW,90,1,0,4,3,0,0,1,1,3,0,0
+2020-11-08,2020-2021,La Liga,Getafe,Villarreal,Home,1,3,L,Cucho,Y,FW,90,0,0,2,1,0,0,4,0,7,1,0
+2020-11-22,2020-2021,La Liga,Getafe,Eibar,Away,0,0,D,Cucho,Y,FW,90,0,0,2,1,0,0,1,1,1,1,0
+2020-11-29,2020-2021,La Liga,Getafe,Athletic Club,Home,1,1,D,Cucho,Y,RM,84,0,1,1,1,1,0,1,1,1,0,1
+2020-12-05,2020-2021,La Liga,Getafe,Levante,Away,0,3,L,Cucho,Y,RM,65,0,0,3,0,0,0,0,1,1,1,1
+2020-12-12,2020-2021,La Liga,Getafe,Sevilla,Home,0,1,L,Cucho,Y,RW,90,0,0,1,0,0,0,2,1,2,0,0
+2020-12-20,2020-2021,La Liga,Getafe,Cádiz,Away,2,0,W,Cucho,Y,FW,81,1,0,2,2,1,0,2,0,1,3,1
+2020-12-23,2020-2021,La Liga,Getafe,Celta Vigo,Home,1,1,D,Cucho,Y,RW,56,0,0,0,0,0,0,0,2,0,0,0
+2021-02-06,2020-2021,La Liga,Getafe,Sevilla,Away,0,3,L,Cucho,N,,13,0,0,0,0,0,0,0,0,0,0,0
+2021-02-09,2020-2021,La Liga,Getafe,Real Madrid,Away,0,2,L,Cucho,Y,FW,53,0,0,0,0,0,0,2,0,0,0,0
+2021-02-14,2020-2021,La Liga,Getafe,Real Sociedad,Home,0,1,L,Cucho,Y,FW,72,0,0,1,0,1,0,5,0,0,0,0
+2021-02-19,2020-2021,La Liga,Getafe,Real Betis,Away,0,1,L,Cucho,Y,FW,87,0,0,0,0,0,0,3,0,3,0,1
+2021-02-27,2020-2021,La Liga,Getafe,Valencia,Home,3,0,W,Cucho,N,,18,0,0,1,0,0,0,0,1,2,0,0
+2021-03-06,2020-2021,La Liga,Getafe,Valladolid,Away,1,2,L,Cucho,N,,32,0,0,0,0,0,0,1,0,1,0,0
+2021-03-13,2020-2021,La Liga,Getafe,Atlético Madrid,Home,0,0,D,Cucho,Y,FW,64,0,0,1,0,0,0,3,0,3,2,2
+2021-05-16,2020-2021,La Liga,Getafe,Levante,Home,2,1,W,Cucho,N,,16,0,0,0,0,1,0,1,0,0,0,0
+2021-05-23,2020-2021,La Liga,Getafe,Granada,Away,0,0,D,Cucho,N,,27,0,0,1,0,0,0,0,0,0,0,0
+2021-08-14,2021-2022,Premier League,Watford,Aston Villa,Home,3,2,W,Cucho,N,,25,1,0,2,2,0,0,0,0,0,0,0
+2021-08-21,2021-2022,Premier League,Watford,Brighton,Away,0,2,L,Cucho,N,,45,0,0,1,0,0,0,0,0,0,0,0
+2021-08-29,2021-2022,Premier League,Watford,Tottenham,Away,0,1,L,Cucho,N,,26,0,0,1,0,0,0,0,0,1,1,0
+2021-09-11,2021-2022,Premier League,Watford,Wolves,Home,0,2,L,Cucho,N,,38,0,0,0,0,0,0,0,0,4,0,1
+2021-10-16,2021-2022,Premier League,Watford,Liverpool,Home,0,5,L,Cucho,Y,FW,90,0,0,2,0,0,0,0,0,1,1,1
+2021-10-23,2021-2022,Premier League,Watford,Everton,Away,5,2,W,Cucho,Y,LW,90,0,1,3,0,0,0,1,0,8,0,0
+2021-10-30,2021-2022,Premier League,Watford,Southampton,Home,0,1,L,Cucho,Y,DM,45,0,0,1,1,0,0,2,0,5,0,1
+2021-11-07,2021-2022,Premier League,Watford,Arsenal,Away,0,1,L,Cucho,N,,17,0,0,0,0,0,0,0,0,5,0,0
+2021-11-20,2021-2022,Premier League,Watford,Manchester Utd,Home,4,1,W,Cucho,N,,23,0,0,0,0,0,0,0,0,4,0,0
+2021-11-28,2021-2022,Premier League,Watford,Leicester City,Away,2,4,L,Cucho,Y,RW,90,0,0,3,0,0,0,1,0,5,0,1
+2021-12-04,2021-2022,Premier League,Watford,Manchester City,Home,1,3,L,Cucho,N,,45,1,0,2,1,0,0,0,0,8,0,2
+2021-12-10,2021-2022,Premier League,Watford,Brentford,Away,1,2,L,Cucho,Y,AM,76,0,0,1,0,0,0,3,0,0,0,0
+2021-12-28,2021-2022,Premier League,Watford,West Ham,Home,1,4,L,Cucho,Y,RW,45,0,0,1,0,0,0,0,0,0,1,0
+2022-01-01,2021-2022,Premier League,Watford,Tottenham,Home,0,1,L,Cucho,N,,1,0,0,0,0,0,0,0,0,0,0,0
+2022-01-15,2021-2022,Premier League,Watford,Newcastle,Away,1,1,D,Cucho,N,,7,0,0,0,0,0,0,0,0,0,0,0
+2022-01-21,2021-2022,Premier League,Watford,Norwich City,Home,0,3,L,Cucho,N,,32,0,0,3,2,0,0,0,0,2,0,0
+2022-02-05,2021-2022,Premier League,Watford,Burnley,Away,0,0,D,Cucho,N,,8,0,0,1,0,0,0,0,0,0,0,0
+2022-02-19,2021-2022,Premier League,Watford,Aston Villa,Away,1,0,W,Cucho,N,,1,0,0,0,0,0,0,0,0,0,0,0
+2022-02-23,2021-2022,Premier League,Watford,Crystal Palace,Home,1,4,L,Cucho,N,,40,0,0,1,0,0,0,0,0,1,0,0
+2022-03-06,2021-2022,Premier League,Watford,Arsenal,Home,2,3,L,Cucho,Y,FW,90,1,1,3,2,1,0,0,0,1,0,0
+2022-03-10,2021-2022,Premier League,Watford,Wolves,Away,0,4,L,Cucho,Y,FW,90,0,0,2,0,0,0,1,0,5,0,0
+2022-03-13,2021-2022,Premier League,Watford,Southampton,Away,2,1,W,Cucho,Y,FW,89,2,0,3,2,1,0,2,0,1,2,0
+2022-04-04,2021-2022,Premier League,Watford,Liverpool,Away,0,2,L,Cucho,Y,LW,77,0,0,2,1,1,0,2,0,2,0,1
+2022-04-09,2021-2022,Premier League,Watford,Leeds United,Home,0,3,L,Cucho,Y,FW,38,0,0,1,0,0,0,0,0,1,0,0
+2022-05-22,2021-2022,Premier League,Watford,Chelsea,Away,1,2,L,Cucho,N,,19,0,0,0,0,0,0,0,1,0,0,0
+2025-02-16,2024-2025,La Liga,Real Betis,Real Sociedad,Home,3,0,W,Cucho,Y,FW,72,0,0,2,1,0,0,2,0,0,1,1
+2025-02-23,2024-2025,La Liga,Real Betis,Getafe,Away,2,1,W,Cucho,Y,FW,79,0,0,1,0,0,0,1,0,1,0,1
+2025-03-01,2024-2025,La Liga,Real Betis,Real Madrid,Home,2,1,W,Cucho,Y,FW,80,0,0,3,0,0,0,1,0,0,0,0
+2025-03-09,2024-2025,La Liga,Real Betis,Las Palmas,Home,1,0,W,Cucho,Y,FW,75,0,0,1,0,0,0,1,2,1,0,0
+2025-03-16,2024-2025,La Liga,Real Betis,Leganés,Away,3,2,W,Cucho,Y,FW,84,1,0,4,1,0,0,0,0,3,1,1
+2025-03-30,2024-2025,La Liga,Real Betis,Sevilla,Home,2,1,W,Cucho,Y,FW,86,1,0,4,1,0,0,0,0,0,1,1
+2025-04-05,2024-2025,La Liga,Real Betis,Barcelona,Away,1,1,D,Cucho,Y,FW,74,0,0,2,0,0,0,1,1,0,1,1
+2025-04-13,2024-2025,La Liga,Real Betis,Villarreal,Home,1,2,L,Cucho,Y,FW,60,0,0,3,1,0,0,1,0,2,3,0
+2025-04-21,2024-2025,La Liga,Real Betis,Girona,Away,3,1,W,Cucho,Y,FW,90,0,0,3,1,0,0,1,0,0,0,1
+2025-04-24,2024-2025,La Liga,Real Betis,Valladolid,Home,5,1,W,Cucho,Y,FW,90,1,1,6,2,0,0,1,0,0,1,0
+2025-05-04,2024-2025,La Liga,Real Betis,Espanyol,Away,2,1,W,Cucho,Y,FW,79,0,0,5,2,0,0,0,0,2,0,0
+2025-05-11,2024-2025,La Liga,Real Betis,Osasuna,Home,1,1,D,Cucho,Y,FW,90,1,0,4,1,0,0,0,0,2,1,1
+2025-05-15,2024-2025,La Liga,Real Betis,Rayo Vallecano,Away,2,2,D,Cucho,Y,FW,76,1,0,2,1,0,0,0,0,0,0,0
+2025-05-18,2024-2025,La Liga,Real Betis,Atlético Madrid,Away,1,4,L,Cucho,N,,45,0,0,1,0,0,0,1,0,0,1,0
+2025-05-23,2024-2025,La Liga,Real Betis,Valencia,Home,1,1,D,Cucho,Y,FW,59,0,0,2,0,0,0,0,2,1,0,0

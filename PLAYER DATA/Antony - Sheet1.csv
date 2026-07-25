@@ -1,0 +1,63 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2022-09-04,2022-2023,Premier League,Manchester Utd,Arsenal,Home,3,1,W,Antony,Y,AM,57,1,0,3,2,0,0,0,0,1,1,1
+2022-10-02,2022-2023,Premier League,Manchester Utd,Manchester City,Away,3,6,L,Antony,Y,AM,90,1,0,5,2,0,0,0,0,1,0,1
+2022-10-09,2022-2023,Premier League,Manchester Utd,Everton,Away,2,1,W,Antony,Y,AM,89,1,0,2,1,0,0,2,0,2,0,0
+2022-10-16,2022-2023,Premier League,Manchester Utd,Newcastle,Home,0,0,D,Antony,Y,AM,90,0,0,4,2,0,0,2,0,6,1,0
+2022-10-19,2022-2023,Premier League,Manchester Utd,Tottenham,Home,2,0,W,Antony,Y,AM,75,0,0,4,1,0,0,0,0,0,0,0
+2022-10-22,2022-2023,Premier League,Manchester Utd,Chelsea,Away,1,1,D,Antony,Y,AM,90,0,0,2,1,1,0,2,0,1,0,1
+2022-12-27,2022-2023,Premier League,Manchester Utd,Nottingham,Home,3,0,W,Antony,Y,AM,64,0,0,2,1,0,0,1,0,2,0,0
+2022-12-31,2022-2023,Premier League,Manchester Utd,Wolves,Away,1,0,W,Antony,Y,AM,89,0,0,5,2,0,0,0,1,3,0,1
+2023-01-14,2022-2023,Premier League,Manchester Utd,Manchester City,Home,2,1,W,Antony,N,,45,0,0,0,0,0,0,1,1,0,0,0
+2023-01-18,2022-2023,Premier League,Manchester Utd,Crystal Palace,Away,1,1,D,Antony,Y,AM,69,0,0,3,1,0,0,0,0,0,0,0
+2023-01-22,2022-2023,Premier League,Manchester Utd,Arsenal,Away,2,3,L,Antony,Y,AM,70,0,0,1,0,1,0,1,0,2,1,0
+2023-02-04,2022-2023,Premier League,Manchester Utd,Crystal Palace,Home,2,1,W,Antony,Y,AM,80,0,0,2,1,1,0,4,0,0,0,0
+2023-03-05,2022-2023,Premier League,Manchester Utd,Liverpool,Away,0,7,L,Antony,Y,AM,90,0,0,2,2,1,0,3,0,5,0,0
+2023-03-12,2022-2023,Premier League,Manchester Utd,Southampton,Home,0,0,D,Antony,Y,RW,73,0,0,1,0,0,0,1,0,0,1,0
+2023-04-02,2022-2023,Premier League,Manchester Utd,Newcastle,Away,0,2,L,Antony,Y,AM,61,0,0,2,1,0,0,2,0,2,1,1
+2023-04-05,2022-2023,Premier League,Manchester Utd,Brentford,Home,1,0,W,Antony,Y,AM,85,0,0,5,0,0,0,1,0,1,1,1
+2023-04-08,2022-2023,Premier League,Manchester Utd,Everton,Home,2,0,W,Antony,Y,AM,59,0,0,3,2,0,0,0,0,1,1,1
+2023-04-16,2022-2023,Premier League,Manchester Utd,Nottingham,Away,2,0,W,Antony,Y,AM,90,1,1,7,1,0,0,2,0,2,1,1
+2023-04-27,2022-2023,Premier League,Manchester Utd,Tottenham,Away,2,2,D,Antony,Y,AM,70,0,0,1,1,0,0,0,0,0,0,2
+2023-04-30,2022-2023,Premier League,Manchester Utd,Aston Villa,Home,1,0,W,Antony,N,,15,0,0,1,1,0,0,1,0,0,0,0
+2023-05-04,2022-2023,Premier League,Manchester Utd,Brighton,Away,0,1,L,Antony,Y,FW,75,0,0,3,1,1,0,2,0,1,0,0
+2023-05-07,2022-2023,Premier League,Manchester Utd,West Ham,Away,0,1,L,Antony,Y,AM,73,0,0,4,0,0,0,0,0,1,1,1
+2023-05-13,2022-2023,Premier League,Manchester Utd,Wolves,Home,2,0,W,Antony,Y,AM,90,0,1,6,1,0,0,1,0,0,0,0
+2023-05-20,2022-2023,Premier League,Manchester Utd,Bournemouth,Away,1,0,W,Antony,Y,AM,85,0,0,3,0,0,0,0,0,0,0,0
+2023-05-25,2022-2023,Premier League,Manchester Utd,Chelsea,Home,4,1,W,Antony,Y,AM,28,0,0,1,0,0,0,0,0,1,0,0
+2023-08-14,2023-2024,Premier League,Manchester Utd,Wolves,Home,1,0,W,Antony,Y,RW,76,0,0,3,1,0,0,1,0,3,0,0
+2023-08-19,2023-2024,Premier League,Manchester Utd,Tottenham,Away,0,2,L,Antony,Y,AM,65,0,0,3,0,1,0,1,0,0,2,2
+2023-08-26,2023-2024,Premier League,Manchester Utd,Nottingham,Home,3,2,W,Antony,Y,AM,84,0,0,4,2,0,0,1,0,1,0,0
+2023-09-03,2023-2024,Premier League,Manchester Utd,Arsenal,Away,1,3,L,Antony,Y,AM,83,0,0,1,0,0,0,1,0,0,0,3
+2023-10-07,2023-2024,Premier League,Manchester Utd,Brentford,Home,2,1,W,Antony,N,,28,0,0,3,0,0,0,0,0,0,0,0
+2023-10-21,2023-2024,Premier League,Manchester Utd,Sheffield United,Away,2,1,W,Antony,Y,AM,63,0,0,2,1,0,0,0,0,4,0,0
+2023-10-29,2023-2024,Premier League,Manchester Utd,Manchester City,Home,0,3,L,Antony,N,,5,0,0,0,0,1,0,1,0,0,0,0
+2023-11-04,2023-2024,Premier League,Manchester Utd,Fulham,Away,1,0,W,Antony,Y,AM,62,0,0,0,0,0,0,1,0,0,1,1
+2023-11-11,2023-2024,Premier League,Manchester Utd,Luton Town,Home,1,0,W,Antony,N,,23,0,0,0,0,0,0,0,0,0,0,0
+2023-12-02,2023-2024,Premier League,Manchester Utd,Newcastle,Away,0,1,L,Antony,N,,30,0,0,1,0,1,0,1,0,0,0,0
+2023-12-06,2023-2024,Premier League,Manchester Utd,Chelsea,Home,2,1,W,Antony,Y,AM,90,0,0,4,1,0,0,1,0,1,1,0
+2023-12-09,2023-2024,Premier League,Manchester Utd,Bournemouth,Home,0,3,L,Antony,Y,AM,78,0,0,1,0,0,0,1,0,3,1,0
+2023-12-17,2023-2024,Premier League,Manchester Utd,Liverpool,Away,0,0,D,Antony,Y,AM,81,0,0,1,0,0,0,0,0,0,4,0
+2023-12-23,2023-2024,Premier League,Manchester Utd,West Ham,Away,0,2,L,Antony,Y,AM,72,0,0,1,1,0,0,1,0,1,1,0
+2023-12-26,2023-2024,Premier League,Manchester Utd,Aston Villa,Home,3,2,W,Antony,N,,11,0,0,0,0,0,0,0,0,0,2,0
+2023-12-30,2023-2024,Premier League,Manchester Utd,Nottingham,Away,1,2,L,Antony,Y,AM,53,0,0,0,0,0,0,0,1,0,2,1
+2024-01-14,2023-2024,Premier League,Manchester Utd,Tottenham,Home,2,2,D,Antony,N,,3,0,0,0,0,0,0,0,0,0,0,0
+2024-02-01,2023-2024,Premier League,Manchester Utd,Wolves,Away,4,3,W,Antony,N,,18,0,0,2,0,0,0,1,0,0,0,1
+2024-02-03,2023-2024,Premier League,Manchester Utd,West Ham,Home,3,0,W,Antony,N,,3,0,0,0,0,0,0,0,0,0,0,0
+2024-02-24,2023-2024,Premier League,Manchester Utd,Fulham,Home,1,2,L,Antony,N,,1,0,0,0,0,0,0,0,0,0,0,0
+2024-03-03,2023-2024,Premier League,Manchester Utd,Manchester City,Away,1,3,L,Antony,N,,16,0,0,0,0,0,0,0,1,0,0,0
+2024-03-09,2023-2024,Premier League,Manchester Utd,Everton,Home,2,0,W,Antony,N,,8,0,0,0,0,0,0,0,0,1,0,0
+2024-03-30,2023-2024,Premier League,Manchester Utd,Brentford,Away,1,1,D,Antony,N,,32,0,0,1,0,0,0,0,0,0,1,0
+2024-04-04,2023-2024,Premier League,Manchester Utd,Chelsea,Away,3,4,L,Antony,Y,AM,90,0,1,3,1,0,0,3,0,1,2,0
+2024-04-07,2023-2024,Premier League,Manchester Utd,Liverpool,Home,2,2,D,Antony,N,,25,0,0,1,1,1,0,0,0,0,2,0
+2024-04-24,2023-2024,Premier League,Manchester Utd,Sheffield United,Home,4,2,W,Antony,Y,AM,54,0,0,2,0,0,0,1,0,0,0,0
+2024-04-27,2023-2024,Premier League,Manchester Utd,Burnley,Home,1,1,D,Antony,Y,AM,90,1,0,8,6,1,0,2,0,0,3,2
+2024-05-06,2023-2024,Premier League,Manchester Utd,Crystal Palace,Away,0,4,L,Antony,Y,AM,59,0,0,1,1,0,0,0,0,0,0,0
+2024-05-12,2023-2024,Premier League,Manchester Utd,Arsenal,Home,0,1,L,Antony,N,,21,0,0,1,1,0,0,1,0,0,0,1
+2024-08-24,2024-2025,Premier League,Manchester Utd,Brighton,Away,1,2,L,Antony,N,,1,0,0,0,0,0,0,1,0,0,0,0
+2024-10-06,2024-2025,Premier League,Manchester Utd,Aston Villa,Away,0,0,D,Antony,N,,27,0,0,2,1,0,0,0,0,1,0,1
+2024-12-04,2024-2025,Premier League,Manchester Utd,Arsenal,Away,0,2,L,Antony,N,,12,0,0,1,1,0,0,0,1,0,0,0
+2024-12-15,2024-2025,Premier League,Manchester Utd,Manchester City,Away,2,1,W,Antony,N,,13,0,0,0,0,0,0,0,0,0,0,1
+2024-12-26,2024-2025,Premier League,Manchester Utd,Wolves,Away,0,2,L,Antony,N,,28,0,0,1,0,0,0,0,1,0,2,2
+2024-12-30,2024-2025,Premier League,Manchester Utd,Newcastle,Home,0,2,L,Antony,N,,8,0,0,0,0,0,0,0,0,0,0,0
+2025-01-16,2024-2025,Premier League,Manchester Utd,Southampton,Home,3,1,W,Antony,N,,45,0,0,2,1,0,0,0,1,2,0,1
+2025-01-19,2024-2025,Premier League,Manchester Utd,Brighton,Home,1,3,L,Antony,N,,7,0,0,0,0,0,0,0,1,0,1,0
