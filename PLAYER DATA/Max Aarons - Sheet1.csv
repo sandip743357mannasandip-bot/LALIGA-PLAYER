@@ -1,0 +1,98 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2019-08-09,2019-2020,Premier League,Norwich City,Liverpool,Away,1,4,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,1,0,0,3,1
+2019-08-17,2019-2020,Premier League,Norwich City,Newcastle,Home,3,1,W,Max Aarons,Y,RB,90,0,0,1,0,1,0,2,0,1,0,0
+2019-08-24,2019-2020,Premier League,Norwich City,Chelsea,Home,2,3,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,0,0,0,2,1
+2019-08-31,2019-2020,Premier League,Norwich City,West Ham,Away,0,2,L,Max Aarons,Y,RB,90,0,0,1,0,1,0,1,0,2,1,0
+2019-09-28,2019-2020,Premier League,Norwich City,Crystal Palace,Away,0,2,L,Max Aarons,Y,RB,90,0,0,1,0,0,0,2,0,1,1,0
+2019-10-05,2019-2020,Premier League,Norwich City,Aston Villa,Home,1,5,L,Max Aarons,Y,RB,90,0,0,2,0,0,0,2,0,1,1,1
+2019-10-19,2019-2020,Premier League,Norwich City,Bournemouth,Away,0,0,D,Max Aarons,Y,RB,90,0,0,0,0,0,0,1,1,1,0,0
+2019-10-27,2019-2020,Premier League,Norwich City,Manchester Utd,Home,1,3,L,Max Aarons,Y,RB,90,0,0,0,0,1,0,1,0,0,2,1
+2019-11-02,2019-2020,Premier League,Norwich City,Brighton,Away,0,2,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,1,0,0,1,0
+2019-11-08,2019-2020,Premier League,Norwich City,Watford,Home,0,2,L,Max Aarons,Y,RB,90,0,0,1,0,0,0,2,0,2,0,0
+2019-11-23,2019-2020,Premier League,Norwich City,Everton,Away,2,0,W,Max Aarons,Y,RB,90,0,0,0,0,1,0,0,0,0,1,0
+2019-12-01,2019-2020,Premier League,Norwich City,Arsenal,Home,2,2,D,Max Aarons,Y,RB,90,0,0,3,2,0,0,1,0,1,0,0
+2019-12-04,2019-2020,Premier League,Norwich City,Southampton,Away,1,2,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,0,0,4,0,1
+2019-12-08,2019-2020,Premier League,Norwich City,Sheffield United,Home,1,2,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,0,0,2,0,1
+2019-12-14,2019-2020,Premier League,Norwich City,Leicester City,Away,1,1,D,Max Aarons,Y,RB,90,0,0,0,0,0,0,1,0,3,2,1
+2019-12-21,2019-2020,Premier League,Norwich City,Wolves,Home,1,2,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,0,0,0,1,0
+2019-12-26,2019-2020,Premier League,Norwich City,Aston Villa,Away,0,1,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,1,0,10,2,0
+2019-12-28,2019-2020,Premier League,Norwich City,Tottenham,Home,2,2,D,Max Aarons,Y,RB,90,0,0,0,0,0,0,0,0,1,0,1
+2020-01-01,2019-2020,Premier League,Norwich City,Crystal Palace,Home,1,1,D,Max Aarons,Y,RB,90,0,0,2,0,1,0,1,0,3,1,3
+2020-01-11,2019-2020,Premier League,Norwich City,Manchester Utd,Away,0,4,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,0,0,2,0,0
+2020-01-18,2019-2020,Premier League,Norwich City,Bournemouth,Home,1,0,W,Max Aarons,Y,RB,90,0,0,0,0,0,0,0,0,6,0,0
+2020-01-22,2019-2020,Premier League,Norwich City,Tottenham,Away,1,2,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,0,0,1,2,1
+2020-02-01,2019-2020,Premier League,Norwich City,Newcastle,Away,0,0,D,Max Aarons,Y,RB,90,0,0,1,0,0,0,1,0,2,0,2
+2020-02-15,2019-2020,Premier League,Norwich City,Liverpool,Home,0,1,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,1,0,0,1,3
+2020-02-23,2019-2020,Premier League,Norwich City,Wolves,Away,0,3,L,Max Aarons,Y,RB,90,0,0,1,1,1,0,2,0,2,0,0
+2020-02-28,2019-2020,Premier League,Norwich City,Leicester City,Home,1,0,W,Max Aarons,Y,RB,90,0,1,0,0,0,0,0,0,3,2,1
+2020-03-07,2019-2020,Premier League,Norwich City,Sheffield United,Away,0,1,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,0,0,7,1,2
+2020-06-19,2019-2020,Premier League,Norwich City,Southampton,Home,0,3,L,Max Aarons,Y,RB,90,0,0,0,0,1,0,4,0,1,1,0
+2020-06-24,2019-2020,Premier League,Norwich City,Everton,Home,0,1,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,0,1,2,1,3
+2020-07-01,2019-2020,Premier League,Norwich City,Arsenal,Away,0,4,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,1,0,1,1,0
+2020-07-04,2019-2020,Premier League,Norwich City,Brighton,Home,0,1,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,0,1,3,0,1
+2020-07-07,2019-2020,Premier League,Norwich City,Watford,Away,1,2,L,Max Aarons,Y,RB,90,0,0,1,1,0,0,1,0,2,2,3
+2020-07-11,2019-2020,Premier League,Norwich City,West Ham,Home,0,4,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,1,0,3,0,3
+2020-07-14,2019-2020,Premier League,Norwich City,Chelsea,Away,0,1,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,1,0,2,0,1
+2020-07-18,2019-2020,Premier League,Norwich City,Burnley,Home,0,2,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,0,0,2,0,1
+2020-07-26,2019-2020,Premier League,Norwich City,Manchester City,Away,0,5,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,0,0,0,2,0
+2021-08-14,2021-2022,Premier League,Norwich City,Liverpool,Home,0,3,L,Max Aarons,Y,RB,90,0,0,1,0,0,0,2,0,1,1,2
+2021-08-21,2021-2022,Premier League,Norwich City,Manchester City,Away,0,5,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,1,1,1,1,1
+2021-08-28,2021-2022,Premier League,Norwich City,Leicester City,Home,1,2,L,Max Aarons,Y,RB,90,0,0,1,0,0,0,1,0,2,5,1
+2021-09-11,2021-2022,Premier League,Norwich City,Arsenal,Away,0,1,L,Max Aarons,Y,RB,90,0,0,2,1,1,0,1,1,3,1,2
+2021-09-18,2021-2022,Premier League,Norwich City,Watford,Home,1,3,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,1,0,2,1,0
+2021-09-25,2021-2022,Premier League,Norwich City,Everton,Away,0,2,L,Max Aarons,Y,RB,90,0,0,1,0,0,0,0,0,0,1,0
+2021-10-02,2021-2022,Premier League,Norwich City,Burnley,Away,0,0,D,Max Aarons,Y,RB,90,0,0,2,0,1,0,0,0,4,1,0
+2021-10-16,2021-2022,Premier League,Norwich City,Brighton,Home,0,0,D,Max Aarons,Y,RB,90,0,0,0,0,0,0,0,0,1,0,0
+2021-10-23,2021-2022,Premier League,Norwich City,Chelsea,Away,0,7,L,Max Aarons,Y,RM,90,0,0,0,0,0,0,1,0,0,0,0
+2021-10-31,2021-2022,Premier League,Norwich City,Leeds United,Home,1,2,L,Max Aarons,Y,RM,90,0,0,1,0,0,0,0,0,1,0,0
+2021-11-06,2021-2022,Premier League,Norwich City,Brentford,Away,2,1,W,Max Aarons,Y,RB,90,0,0,0,0,1,0,0,1,3,1,0
+2021-11-20,2021-2022,Premier League,Norwich City,Southampton,Home,2,1,W,Max Aarons,Y,RB,90,0,1,0,0,0,0,0,0,3,0,2
+2021-11-27,2021-2022,Premier League,Norwich City,Wolves,Home,0,0,D,Max Aarons,Y,RB,90,0,0,1,1,0,0,1,0,1,1,0
+2021-11-30,2021-2022,Premier League,Norwich City,Newcastle,Away,1,1,D,Max Aarons,Y,RB,90,0,0,0,0,0,0,2,0,6,3,0
+2021-12-05,2021-2022,Premier League,Norwich City,Tottenham,Away,0,3,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,0,0,5,5,0
+2021-12-11,2021-2022,Premier League,Norwich City,Manchester Utd,Home,0,1,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,2,0,2,2,1
+2021-12-14,2021-2022,Premier League,Norwich City,Aston Villa,Home,0,2,L,Max Aarons,Y,RB,90,0,0,0,0,1,0,1,0,0,1,2
+2021-12-26,2021-2022,Premier League,Norwich City,Arsenal,Home,0,5,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,0,0,1,1,1
+2022-01-12,2021-2022,Premier League,Norwich City,West Ham,Away,0,2,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,0,0,0,5,1
+2022-01-15,2021-2022,Premier League,Norwich City,Everton,Home,2,1,W,Max Aarons,Y,RB,79,0,0,0,0,1,0,2,0,5,0,0
+2022-01-21,2021-2022,Premier League,Norwich City,Watford,Away,3,0,W,Max Aarons,Y,RB,90,0,0,0,0,0,0,0,0,0,2,1
+2022-02-09,2021-2022,Premier League,Norwich City,Crystal Palace,Home,1,1,D,Max Aarons,Y,RB,90,0,0,0,0,0,0,2,0,0,1,4
+2022-02-12,2021-2022,Premier League,Norwich City,Manchester City,Home,0,4,L,Max Aarons,Y,RB,62,0,0,1,0,0,0,1,0,0,0,0
+2022-02-19,2021-2022,Premier League,Norwich City,Liverpool,Away,1,3,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,3,1,1,2,3
+2022-02-25,2021-2022,Premier League,Norwich City,Southampton,Away,0,2,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,1,0,0,3,0
+2022-03-05,2021-2022,Premier League,Norwich City,Brentford,Home,1,3,L,Max Aarons,N,,10,0,0,0,0,0,0,0,0,0,0,0
+2022-03-10,2021-2022,Premier League,Norwich City,Chelsea,Home,1,3,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,0,0,2,0,0
+2022-03-13,2021-2022,Premier League,Norwich City,Leeds United,Away,1,2,L,Max Aarons,Y,RB,87,0,0,1,0,1,0,2,0,0,2,1
+2022-04-23,2021-2022,Premier League,Norwich City,Newcastle,Home,0,3,L,Max Aarons,N,,33,0,0,0,0,0,0,0,0,1,0,0
+2022-04-30,2021-2022,Premier League,Norwich City,Aston Villa,Away,0,2,L,Max Aarons,Y,RB,90,0,0,1,0,1,0,1,0,0,1,1
+2022-05-08,2021-2022,Premier League,Norwich City,West Ham,Home,0,4,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,0,0,0,1,1
+2022-05-11,2021-2022,Premier League,Norwich City,Leicester City,Away,0,3,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,0,0,2,2,1
+2022-05-15,2021-2022,Premier League,Norwich City,Wolves,Away,1,1,D,Max Aarons,Y,DM,90,0,1,0,0,1,0,1,0,1,0,1
+2022-05-22,2021-2022,Premier League,Norwich City,Tottenham,Home,0,5,L,Max Aarons,Y,RB,90,0,0,1,0,0,0,0,0,2,1,0
+2023-08-12,2023-2024,Premier League,Bournemouth,West Ham,Home,1,1,D,Max Aarons,Y,RB,74,0,0,0,0,0,0,1,0,1,0,0
+2023-08-19,2023-2024,Premier League,Bournemouth,Liverpool,Away,1,3,L,Max Aarons,Y,RB,90,0,0,1,0,0,0,1,0,2,2,0
+2023-08-26,2023-2024,Premier League,Bournemouth,Tottenham,Home,0,2,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,1,0,1,1,0
+2023-09-02,2023-2024,Premier League,Bournemouth,Brentford,Away,2,2,D,Max Aarons,Y,RB,90,0,0,0,0,1,0,1,0,0,4,0
+2023-09-17,2023-2024,Premier League,Bournemouth,Chelsea,Home,0,0,D,Max Aarons,Y,RB,90,0,0,0,0,0,0,1,0,1,3,0
+2023-09-24,2023-2024,Premier League,Bournemouth,Brighton,Away,1,3,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,0,1,0,1,0
+2023-09-30,2023-2024,Premier League,Bournemouth,Arsenal,Home,0,4,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,3,1,1,1,0
+2023-10-07,2023-2024,Premier League,Bournemouth,Everton,Away,0,3,L,Max Aarons,N,,5,0,0,0,0,0,0,0,0,0,0,0
+2023-10-21,2023-2024,Premier League,Bournemouth,Wolves,Home,1,2,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,1,0,1,1,0
+2023-10-28,2023-2024,Premier League,Bournemouth,Burnley,Home,2,1,W,Max Aarons,Y,RB,84,0,0,0,0,0,0,0,0,2,1,1
+2023-11-04,2023-2024,Premier League,Bournemouth,Manchester City,Away,1,6,L,Max Aarons,Y,RB,90,0,1,0,0,0,0,0,0,0,0,0
+2023-11-11,2023-2024,Premier League,Bournemouth,Newcastle,Home,2,0,W,Max Aarons,Y,RB,67,0,0,0,0,0,0,1,0,2,3,1
+2023-12-31,2023-2024,Premier League,Bournemouth,Tottenham,Away,1,3,L,Max Aarons,N,,45,0,0,0,0,0,0,0,0,0,1,0
+2024-01-21,2023-2024,Premier League,Bournemouth,Liverpool,Home,0,4,L,Max Aarons,Y,RB,90,0,0,0,0,0,0,1,0,1,2,1
+2024-04-02,2023-2024,Premier League,Bournemouth,Crystal Palace,Home,1,0,W,Max Aarons,N,,1,0,0,0,0,0,0,0,0,0,0,0
+2024-04-13,2023-2024,Premier League,Bournemouth,Manchester Utd,Home,2,2,D,Max Aarons,N,,21,0,0,1,0,0,0,0,0,0,0,0
+2024-04-21,2023-2024,Premier League,Bournemouth,Aston Villa,Away,1,3,L,Max Aarons,N,,45,0,0,0,0,0,0,0,0,0,1,0
+2024-04-28,2023-2024,Premier League,Bournemouth,Brighton,Home,3,0,W,Max Aarons,N,,14,0,0,0,0,0,0,0,0,1,0,0
+2024-05-04,2023-2024,Premier League,Bournemouth,Arsenal,Away,0,3,L,Max Aarons,N,,2,0,0,0,0,0,0,0,0,0,0,0
+2024-05-19,2023-2024,Premier League,Bournemouth,Chelsea,Away,1,2,L,Max Aarons,Y,RB,69,0,0,0,0,0,0,1,0,1,0,2
+2024-11-23,2024-2025,Premier League,Bournemouth,Brighton,Home,1,2,L,Max Aarons,N,,16,0,0,0,0,0,0,0,0,2,0,0
+2024-12-26,2024-2025,Premier League,Bournemouth,Crystal Palace,Home,0,0,D,Max Aarons,Y,RB,61,0,0,0,0,0,0,0,0,0,2,0
+2024-12-29,2024-2025,Premier League,Bournemouth,Fulham,Away,2,2,D,Max Aarons,N,,9,0,0,0,0,0,0,0,0,0,0,1
+2025-01-26,2024-2025,La Liga,Valencia,Barcelona,Away,1,7,L,Max Aarons,N,,31,0,0,0,0,0,0,0,0,2,1,0
+2025-04-05,2024-2025,La Liga,Valencia,Real Madrid,Away,2,1,W,Max Aarons,Y,RB,73,0,0,0,0,1,0,0,0,0,2,0
+2025-05-14,2024-2025,La Liga,Valencia,Alavés,Away,0,1,L,Max Aarons,N,,7,0,0,0,0,1,0,0,0,1,0,0
+2025-05-18,2024-2025,La Liga,Valencia,Athletic Club,Home,0,1,L,Max Aarons,N,,9,0,0,0,0,0,0,0,0,2,1,0
