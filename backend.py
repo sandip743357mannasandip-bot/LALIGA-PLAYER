@@ -84,6 +84,7 @@ FORMATIONS = {
     "4-4-1-1": ["GK","RB","CB","CB","LB","RM","CM","CM","LM","AM","ST"],
     "4-2-2-2":  ["GK","RB","CB","CB","LB","CM","CM","AM","AM","ST","ST"],
     "3-4-1-2":  ["GK","CB","CB","CB","RM","CM","CM","LM","AM","ST","ST"],
+    "4-3-1-2":  ["GK","RB","CB","CB","LB","CM","CM","CM","AM","ST","ST"],
 }
 
 SLOT_TO_GROUP = {
