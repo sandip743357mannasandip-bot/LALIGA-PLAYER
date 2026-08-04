@@ -1,0 +1,70 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2022-08-14,2022-2023,La Liga,Girona,Valencia,Away,0,1,L,Ramón Terrats,Y,DM,73,0,0,0,0,0,0,0,0,1,0,1
+2022-08-22,2022-2023,La Liga,Girona,Getafe,Home,3,1,W,Ramón Terrats,N,,5,0,0,2,0,0,0,0,0,0,0,0
+2022-08-26,2022-2023,La Liga,Girona,Celta Vigo,Home,0,1,L,Ramón Terrats,N,,49,0,0,0,0,0,0,2,0,1,0,0
+2022-10-08,2022-2023,La Liga,Girona,Atlético Madrid,Away,1,2,L,Ramón Terrats,N,,7,0,0,1,0,0,0,0,0,0,1,0
+2022-11-04,2022-2023,La Liga,Girona,Athletic Club,Home,2,1,W,Ramón Terrats,N,,6,0,0,0,0,0,0,0,0,0,0,1
+2022-11-08,2022-2023,La Liga,Girona,Elche,Away,2,1,W,Ramón Terrats,N,,1,0,0,0,0,0,0,0,0,0,0,0
+2023-01-07,2022-2023,La Liga,Girona,Espanyol,Away,2,2,D,Ramón Terrats,Y,DM,70,0,0,1,0,0,0,1,0,0,2,1
+2023-01-14,2022-2023,La Liga,Girona,Sevilla,Home,2,1,W,Ramón Terrats,N,,1,0,0,0,0,0,0,0,0,0,0,0
+2023-02-18,2022-2023,La Liga,Villarreal,Mallorca,Away,2,4,L,Ramón Terrats,N,,2,0,0,0,0,0,0,0,0,0,0,0
+2023-02-27,2022-2023,La Liga,Villarreal,Getafe,Home,2,1,W,Ramón Terrats,Y,AM,79,0,0,2,0,0,0,1,0,4,0,2
+2023-03-04,2022-2023,La Liga,Villarreal,Almería,Away,2,0,W,Ramón Terrats,Y,CM,68,0,0,1,1,0,0,2,0,2,1,0
+2023-03-12,2022-2023,La Liga,Villarreal,Real Betis,Home,1,1,D,Ramón Terrats,Y,CM,88,0,1,4,1,0,0,0,0,3,0,0
+2023-03-19,2022-2023,La Liga,Villarreal,Osasuna,Away,3,0,W,Ramón Terrats,Y,CM,67,0,0,1,0,0,0,1,0,1,1,0
+2023-04-02,2022-2023,La Liga,Villarreal,Real Sociedad,Home,2,0,W,Ramón Terrats,Y,CM,61,0,0,0,0,1,0,2,0,0,2,0
+2023-04-08,2022-2023,La Liga,Villarreal,Real Madrid,Away,3,2,W,Ramón Terrats,Y,CM,32,0,0,0,0,0,0,3,0,0,0,0
+2023-04-15,2022-2023,La Liga,Villarreal,Valladolid,Home,1,2,L,Ramón Terrats,Y,CM,58,0,0,2,1,0,0,0,0,0,2,0
+2023-04-23,2022-2023,La Liga,Villarreal,Sevilla,Away,1,2,L,Ramón Terrats,Y,CM,65,0,0,0,0,0,0,1,0,0,1,1
+2023-04-27,2022-2023,La Liga,Villarreal,Espanyol,Home,4,2,W,Ramón Terrats,N,,1,0,0,0,0,0,0,0,0,0,0,0
+2023-04-30,2022-2023,La Liga,Villarreal,Celta Vigo,Home,3,1,W,Ramón Terrats,N,,45,1,0,2,1,0,0,1,0,0,2,0
+2023-05-03,2022-2023,La Liga,Villarreal,Valencia,Away,1,1,D,Ramón Terrats,Y,CM,73,0,0,1,1,0,0,2,0,3,0,0
+2023-05-13,2022-2023,La Liga,Villarreal,Athletic Club,Home,5,1,W,Ramón Terrats,N,,34,0,0,0,0,0,0,0,0,0,1,1
+2023-05-20,2022-2023,La Liga,Villarreal,Girona,Away,2,1,W,Ramón Terrats,Y,DM,61,0,0,1,0,0,0,0,0,1,0,1
+2023-05-24,2022-2023,La Liga,Villarreal,Cádiz,Home,2,0,W,Ramón Terrats,N,,22,0,0,0,0,0,0,1,0,0,0,1
+2023-05-28,2022-2023,La Liga,Villarreal,Rayo Vallecano,Away,1,2,L,Ramón Terrats,Y,DM,60,0,0,1,1,0,0,0,0,2,0,2
+2023-08-13,2023-2024,La Liga,Villarreal,Real Betis,Home,1,2,L,Ramón Terrats,Y,CM,82,0,0,2,0,0,0,1,0,2,4,0
+2023-08-18,2023-2024,La Liga,Villarreal,Mallorca,Away,1,0,W,Ramón Terrats,Y,CM,66,0,0,2,0,1,0,1,0,0,1,0
+2023-08-27,2023-2024,La Liga,Villarreal,Barcelona,Home,3,4,L,Ramón Terrats,Y,RM,69,0,0,0,0,1,0,2,0,0,0,0
+2023-09-01,2023-2024,La Liga,Villarreal,Cádiz,Away,1,3,L,Ramón Terrats,Y,CM,82,0,0,0,0,0,0,1,0,1,0,0
+2023-09-27,2023-2024,La Liga,Villarreal,Girona,Home,1,2,L,Ramón Terrats,N,,32,0,0,1,0,0,0,0,0,0,0,0
+2023-09-30,2023-2024,La Liga,Villarreal,Getafe,Away,0,0,D,Ramón Terrats,N,,18,0,0,0,0,0,0,0,0,2,0,0
+2023-10-22,2023-2024,La Liga,Villarreal,Alavés,Home,1,1,D,Ramón Terrats,N,,17,0,0,1,0,0,0,0,0,3,0,0
+2023-10-30,2023-2024,La Liga,Villarreal,Granada,Away,3,2,W,Ramón Terrats,N,,15,0,0,0,0,0,0,1,0,1,0,0
+2023-11-05,2023-2024,La Liga,Villarreal,Athletic Club,Home,2,3,L,Ramón Terrats,N,,27,0,0,0,0,0,0,0,0,0,0,0
+2023-11-12,2023-2024,La Liga,Villarreal,Atlético Madrid,Away,1,3,L,Ramón Terrats,N,,55,0,0,1,1,0,0,3,0,1,0,0
+2023-12-09,2023-2024,La Liga,Villarreal,Real Sociedad,Home,0,3,L,Ramón Terrats,N,,1,0,0,0,0,0,0,0,0,0,0,0
+2023-12-17,2023-2024,La Liga,Villarreal,Real Madrid,Away,1,4,L,Ramón Terrats,N,,62,0,1,0,0,0,0,1,0,2,0,0
+2023-12-20,2023-2024,La Liga,Villarreal,Celta Vigo,Home,3,2,W,Ramón Terrats,N,,2,0,0,0,0,0,0,1,0,0,0,1
+2024-01-02,2023-2024,La Liga,Villarreal,Valencia,Away,1,3,L,Ramón Terrats,Y,CM,90,0,0,0,0,1,0,2,0,7,1,1
+2024-04-28,2023-2024,La Liga,Villarreal,Rayo Vallecano,Home,3,0,W,Ramón Terrats,N,,7,0,0,0,0,0,0,0,0,0,0,0
+2024-05-11,2023-2024,La Liga,Villarreal,Sevilla,Home,3,2,W,Ramón Terrats,N,,45,0,1,1,0,0,0,0,1,4,2,0
+2024-05-14,2023-2024,La Liga,Villarreal,Girona,Away,1,0,W,Ramón Terrats,N,,26,0,0,0,0,1,0,2,0,1,3,0
+2024-05-19,2023-2024,La Liga,Villarreal,Real Madrid,Home,4,4,D,Ramón Terrats,N,,11,0,0,0,0,0,0,0,0,1,0,0
+2024-05-25,2023-2024,La Liga,Villarreal,Osasuna,Away,1,1,D,Ramón Terrats,Y,CM,78,0,0,0,0,0,0,0,0,2,2,0
+2024-08-19,2024-2025,La Liga,Villarreal,Atlético Madrid,Home,2,2,D,Ramón Terrats,N,,1,0,0,0,0,0,0,0,0,0,0,0
+2024-08-31,2024-2025,La Liga,Villarreal,Valencia,Away,1,1,D,Ramón Terrats,N,,22,0,0,0,0,0,0,0,0,1,1,0
+2024-09-14,2024-2025,La Liga,Villarreal,Mallorca,Away,2,1,W,Ramón Terrats,N,,6,0,0,0,0,0,0,0,0,0,0,0
+2024-09-22,2024-2025,La Liga,Villarreal,Barcelona,Home,1,5,L,Ramón Terrats,N,,13,0,0,0,0,0,0,0,0,0,2,0
+2024-09-26,2024-2025,La Liga,Villarreal,Espanyol,Away,2,1,W,Ramón Terrats,N,,11,0,0,0,0,1,0,1,0,1,0,0
+2024-09-30,2024-2025,La Liga,Villarreal,Las Palmas,Home,3,1,W,Ramón Terrats,N,,3,0,0,0,0,0,0,1,0,0,0,1
+2024-10-05,2024-2025,La Liga,Villarreal,Real Madrid,Away,0,2,L,Ramón Terrats,N,,12,0,0,1,0,0,0,0,0,0,0,0
+2024-10-20,2024-2025,La Liga,Villarreal,Getafe,Home,1,1,D,Ramón Terrats,N,,12,0,0,0,0,0,0,0,0,1,0,0
+2024-10-26,2024-2025,La Liga,Villarreal,Valladolid,Away,2,1,W,Ramón Terrats,N,,1,0,0,0,0,0,0,0,0,0,0,0
+2024-11-24,2024-2025,La Liga,Villarreal,Osasuna,Away,2,2,D,Ramón Terrats,Y,FW,45,0,0,1,0,0,0,0,0,2,0,1
+2025-01-20,2024-2025,La Liga,Villarreal,Mallorca,Home,4,0,W,Ramón Terrats,N,,5,0,0,0,0,0,0,0,0,0,0,0
+2025-02-09,2024-2025,La Liga,Getafe,Alavés,Away,1,0,W,Ramón Terrats,Y,RM,90,0,0,0,0,1,0,1,0,5,0,0
+2025-02-14,2024-2025,La Liga,Getafe,Girona,Away,2,1,W,Ramón Terrats,Y,CM,89,0,0,0,0,0,0,3,0,2,0,0
+2025-02-23,2024-2025,La Liga,Getafe,Real Betis,Home,1,2,L,Ramón Terrats,Y,CM,64,0,0,0,0,0,0,0,0,3,2,0
+2025-03-02,2024-2025,La Liga,Getafe,Leganés,Away,0,1,L,Ramón Terrats,Y,CM,87,0,0,1,0,0,0,1,0,8,0,0
+2025-03-09,2024-2025,La Liga,Getafe,Atlético Madrid,Home,2,1,W,Ramón Terrats,Y,RW,90,0,0,1,0,0,0,2,0,2,0,1
+2025-03-16,2024-2025,La Liga,Getafe,Osasuna,Away,2,1,W,Ramón Terrats,Y,AM,87,2,0,3,3,0,0,0,0,1,2,0
+2025-04-06,2024-2025,La Liga,Getafe,Valladolid,Away,4,0,W,Ramón Terrats,Y,AM,90,2,0,3,3,0,0,2,0,1,1,0
+2025-04-12,2024-2025,La Liga,Getafe,Las Palmas,Home,1,3,L,Ramón Terrats,Y,RM,75,0,0,2,1,0,0,0,0,1,0,1
+2025-04-18,2024-2025,La Liga,Getafe,Espanyol,Away,0,1,L,Ramón Terrats,Y,RW,80,0,0,1,1,0,0,0,1,2,0,1
+2025-04-23,2024-2025,La Liga,Getafe,Real Madrid,Home,0,1,L,Ramón Terrats,Y,RM,68,0,0,2,0,0,0,0,0,1,0,1
+2025-05-02,2024-2025,La Liga,Getafe,Rayo Vallecano,Away,0,1,L,Ramón Terrats,Y,RM,90,0,0,2,0,0,0,2,1,0,1,0
+2025-05-10,2024-2025,La Liga,Getafe,Valencia,Away,0,3,L,Ramón Terrats,Y,CM,86,0,0,1,0,0,0,1,0,0,3,1
+2025-05-15,2024-2025,La Liga,Getafe,Athletic Club,Home,0,2,L,Ramón Terrats,Y,RM,84,0,0,0,0,0,0,1,0,2,1,0
+2025-05-18,2024-2025,La Liga,Getafe,Mallorca,Away,2,1,W,Ramón Terrats,Y,FW,81,0,1,1,1,0,0,2,0,3,0,2
+2025-05-24,2024-2025,La Liga,Getafe,Celta Vigo,Home,1,2,L,Ramón Terrats,Y,FW,58,0,0,2,0,0,0,0,1,3,0,1
